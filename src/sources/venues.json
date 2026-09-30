@@ -1,0 +1,17 @@
+[
+  {
+    "id": "the-caz",
+    "name": "The Caz",
+    "website": "https://www.thecazbuffalo.com/shows"
+  },
+  {
+    "id": "electric-city",
+    "name": "Electric City",
+    "website": "https://electriccity.com/"
+  },
+  {
+    "id": "buffalo-iron-works",
+    "name": "Buffalo Iron Works",
+    "website": "https://buffaloironworks.com/events-calendar/"
+  }
+]

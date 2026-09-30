@@ -1,0 +1,30 @@
+name: Refresh calendar
+
+on:
+  schedule:
+    # 12:00 UTC is 8:00 AM in Buffalo during daylight time, 7:00 AM in winter.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check venue websites
+        run: node scripts/refresh-calendar.mjs
+      - name: Open a pull request when listings change
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Update show listings from venue websites"
+          title: "Update show listings"
+          body: "Daily check of The Caz, Electric City, and Buffalo Iron Works websites."
+          branch: calendar/refresh
+          delete-branch: true
