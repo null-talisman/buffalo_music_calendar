@@ -7,26 +7,28 @@ const venuesPath = resolve(root, "src/sources/venues.json");
 const eventsPath = resolve(root, "src/data/events.json");
 const horizonDays = 45;
 
-const venues = JSON.parse(readFileSync(venuesPath, "utf8"));
-const previous = readEvents();
+async function main() {
+  const venues = JSON.parse(readFileSync(venuesPath, "utf8"));
+  const previous = readEvents();
 
-const collected = [];
-for (const venue of venues) {
-  try {
-    const shows = await loadVenue(venue);
-    console.log(`${venue.name}: ${shows.length} shows`);
-    collected.push(...shows);
-  } catch (error) {
-    const kept = previous.filter((show) => show.source.name === venue.name);
-    console.error(`${venue.name} failed (${error.message}). Keeping ${kept.length} saved shows.`);
-    collected.push(...kept);
+  const collected = [];
+  for (const venue of venues) {
+    try {
+      const shows = await loadVenue(venue);
+      console.log(`${venue.name}: ${shows.length} shows`);
+      collected.push(...shows);
+    } catch (error) {
+      const kept = previous.filter((show) => show.source.name === venue.name);
+      console.error(`${venue.name} failed (${error.message}). Keeping ${kept.length} saved shows.`);
+      collected.push(...kept);
+    }
   }
-}
 
-collected.sort((a, b) => a.startsAt.localeCompare(b.startsAt) || a.id.localeCompare(b.id));
-mkdirSync(dirname(eventsPath), { recursive: true });
-writeFileSync(eventsPath, `${JSON.stringify(collected, null, 2)}\n`);
-console.log(`Wrote ${collected.length} shows to src/data/events.json`);
+  collected.sort((a, b) => a.startsAt.localeCompare(b.startsAt) || a.id.localeCompare(b.id));
+  mkdirSync(dirname(eventsPath), { recursive: true });
+  writeFileSync(eventsPath, `${JSON.stringify(collected, null, 2)}\n`);
+  console.log(`Wrote ${collected.length} shows to src/data/events.json`);
+}
 
 function readEvents() {
   try {
@@ -36,12 +38,25 @@ function readEvents() {
   }
 }
 
+// Each venue in src/sources/venues.json names one of these parsers. `website`
+// is the listing page the parser starts from.
+const parsers = {
+  caz: loadCaz,
+  "jsonld-pages": loadJsonLdPages,
+  tribe: loadTribe,
+  squarespace: loadSquarespace,
+  ical: loadIcal,
+  spoton: loadSpotOn,
+  ticketweb: loadTicketWeb,
+};
+
 async function loadVenue(venue) {
-  if (venue.id === "the-caz") return loadCaz(venue);
-  if (venue.id === "electric-city") return loadElectricCity(venue);
-  if (venue.id === "buffalo-iron-works") return loadIronWorks(venue);
-  throw new Error(`No website parser for ${venue.id}`);
+  const parser = parsers[venue.parser];
+  if (!parser) throw new Error(`No website parser "${venue.parser}" for ${venue.id}`);
+  return parser(venue);
 }
+
+// --- The Caz: one page per show, dates and times in visible text ---------
 
 async function loadCaz(venue) {
   const html = await fetchText(venue.website);
@@ -79,7 +94,7 @@ function showFromCaz(html, eventUrl, venue) {
   const price = text.match(/\$(\d+\.\d{2}) to \$(\d+\.\d{2})/) ?? text.match(/\$(\d+\.\d{2})/);
 
   return compactShow({
-    id: slugId(eventUrl),
+    id: showId(venue, eventUrl),
     band: decodeEntities(title),
     venue: venue.name,
     startsAt,
@@ -90,13 +105,17 @@ function showFromCaz(html, eventUrl, venue) {
   });
 }
 
-async function loadElectricCity(venue) {
+// --- WordPress venues with schema.org Event JSON-LD on each show page -----
+// Electric City lists /events/<slug>/; Town Ballroom lists /event/<slug>/...
+
+async function loadJsonLdPages(venue) {
   const html = await fetchText(venue.website);
   const urls = unique(
-    [...html.matchAll(/href="([^"]*\/events\/[a-z0-9-]+\/?)"/gi)].map((match) =>
-      new URL(match[1], venue.website).href.replace(/\/?$/, "/"),
-    ),
-  ).filter((url) => !/\/events\/?$/.test(new URL(url).pathname));
+    [...html.matchAll(/href="([^"]+)"/gi)]
+      .map((match) => absoluteUrl(match[1], venue.website))
+      .filter((url) => url && isEventPath(new URL(url).pathname, venue.eventPath))
+      .map((url) => url.replace(/\/?$/, "/")),
+  );
 
   const pages = await mapPool(urls, 4, async (eventUrl) => {
     const page = await fetchText(eventUrl);
@@ -104,6 +123,10 @@ async function loadElectricCity(venue) {
   });
 
   return pages.filter(Boolean);
+}
+
+function isEventPath(pathname, eventPath) {
+  return pathname.startsWith(eventPath) && /^[a-z0-9%-]+/i.test(pathname.slice(eventPath.length));
 }
 
 function showFromJsonLd(html, eventUrl, venue) {
@@ -114,19 +137,23 @@ function showFromJsonLd(html, eventUrl, venue) {
   if (!inWindow(event.startDate)) return null;
 
   const description = clip(plain(event.description ?? ""));
+  const slug = new URL(eventUrl).pathname.slice(venue.eventPath.length).split("/")[0];
   return compactShow({
-    id: slugId(event.url || eventUrl),
+    id: `${venue.id}-${slug}`,
     band: plain(event.name),
-    venue: venue.name,
+    // Town Ballroom also promotes shows at other rooms; the page says where.
+    venue: (venue.venueFromPage && plain(event.location?.name ?? "")) || venue.name,
     startsAt: asEasternWallClock(event.startDate),
-    price: priceFromOffer(event.offers),
+    price: priceFromOffer(event.offers, venue.ignoreZeroPrice),
     summary: description || undefined,
     eventUrl: event.url || eventUrl,
     source: sourceOf(venue),
   });
 }
 
-async function loadIronWorks(venue) {
+// --- The Events Calendar (WordPress "tribe") REST API ---------------------
+
+async function loadTribe(venue) {
   const start = isoDate(new Date());
   const endDate = new Date();
   endDate.setDate(endDate.getDate() + horizonDays);
@@ -134,8 +161,9 @@ async function loadIronWorks(venue) {
   const shows = [];
 
   for (let page = 1; page < 10; page += 1) {
-    const url = `https://buffaloironworks.com/wp-json/tribe/events/v1/events?start_date=${start}&end_date=${end}&per_page=50&page=${page}`;
-    const data = await fetchJson(url);
+    const url = new URL("/wp-json/tribe/events/v1/events", venue.website);
+    url.search = `start_date=${start}&end_date=${end}&per_page=50&page=${page}`;
+    const data = await fetchJson(url.href);
     for (const event of data.events ?? []) {
       const show = showFromTribe(event, venue);
       if (show) shows.push(show);
@@ -148,12 +176,14 @@ async function loadIronWorks(venue) {
 
 function showFromTribe(event, venue) {
   if (!event.title || !event.url || !event.start_date) return null;
+  const band = plain(event.title);
+  if (venue.musicOnly && !looksLikeMusic(band)) return null;
   const startsAt = tribeStart(event.start_date);
   if (!inWindow(startsAt)) return null;
   const summary = clip(plain(event.description ?? ""));
   return compactShow({
-    id: slugId(event.url),
-    band: plain(event.title),
+    id: showId(venue, event.url),
+    band,
     venue: venue.name,
     startsAt,
     price: cleanCost(event.cost),
@@ -162,6 +192,194 @@ function showFromTribe(event, venue) {
     source: sourceOf(venue),
   });
 }
+
+// Hofbräuhaus mixes brunch and Sabres watch parties into the same calendar.
+const MUSIC_WORDS = /\b(live|music|band|duo|trio|dj|brass|open mic|concert|karaoke|continues with|in the haus)\b/i;
+const NOT_MUSIC_WORDS = /\b(sabres|hockey|bills|watch party|pregame|open for|sonntagsbrunch|magician|trivia|bingo)\b/i;
+
+function looksLikeMusic(title) {
+  return MUSIC_WORDS.test(title) && !NOT_MUSIC_WORDS.test(title);
+}
+
+// --- Squarespace events collections (?format=json) ------------------------
+
+async function loadSquarespace(venue) {
+  const url = new URL(venue.website);
+  url.searchParams.set("format", "json");
+  const data = await fetchJson(url.href);
+  const shows = [];
+
+  for (const item of data.upcoming ?? data.items ?? []) {
+    if (!item.title || !item.startDate || !item.fullUrl) continue;
+    const startsAt = epochToEastern(item.startDate);
+    if (!inWindow(startsAt)) continue;
+    const eventUrl = new URL(item.fullUrl, venue.website).href;
+    const summary = clip(plain(item.excerpt ?? ""));
+    shows.push(
+      compactShow({
+        id: showId(venue, eventUrl),
+        band: stripVenueSuffix(plain(item.title), venue.name),
+        venue: venue.name,
+        startsAt,
+        summary: summary || undefined,
+        eventUrl,
+        source: sourceOf(venue),
+      }),
+    );
+  }
+
+  return shows;
+}
+
+// "The Steam Donkeys @ Nietzsche's Buffalo" -> "The Steam Donkeys"
+function stripVenueSuffix(title, venueName) {
+  const at = title.lastIndexOf("@");
+  if (at <= 0) return title;
+  const firstWord = venueName.split(/\s+/)[0].toLowerCase();
+  return title.slice(at).toLowerCase().includes(firstWord) ? title.slice(0, at).trim() : title;
+}
+
+// --- iCalendar feeds (Babeville's Events Manager plugin) -------------------
+
+async function loadIcal(venue) {
+  const text = await fetchText(new URL(venue.icalPath, venue.website).href);
+  const shows = [];
+
+  for (const props of icsEvents(text)) {
+    if (!props.SUMMARY || !props.DTSTART || !props.URL) continue;
+    const match = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})/.exec(props.DTSTART);
+    if (!match) continue;
+    const ymd = `${match[1]}-${match[2]}-${match[3]}`;
+    const startsAt = `${ymd}T${match[4]}:${match[5]}:00${easternOffset(ymd)}`;
+    if (!inWindow(startsAt)) continue;
+
+    // CATEGORIES carries the room (Asbury Hall, The 9th Ward) plus site tags.
+    const room = icsText(props.CATEGORIES ?? "")
+      .split(",")
+      .map((tag) => tag.trim())
+      .filter((tag) => tag && !/highlighted/i.test(tag))
+      .join(" / ");
+    const description = clip(icsText(props.DESCRIPTION ?? ""));
+    const summary = [room, description].filter(Boolean).join(" · ");
+    shows.push(
+      compactShow({
+        id: showId(venue, props.URL),
+        band: icsText(props.SUMMARY),
+        venue: venue.name,
+        startsAt,
+        summary: summary || undefined,
+        eventUrl: props.URL,
+        source: sourceOf(venue),
+      }),
+    );
+  }
+
+  return shows;
+}
+
+function icsEvents(text) {
+  const unfolded = text.replace(/\r?\n[ \t]/g, "");
+  const events = [];
+  for (const block of unfolded.split("BEGIN:VEVENT").slice(1)) {
+    const props = {};
+    for (const line of block.split("END:VEVENT")[0].split(/\r?\n/)) {
+      const match = /^([A-Z-]+)(?:;[^:]*)?:(.*)$/.exec(line);
+      if (match) props[match[1]] = match[2];
+    }
+    events.push(props);
+  }
+  return events;
+}
+
+function icsText(value) {
+  return plain(value.replace(/\\n/g, " ").replace(/\\([,;\\])/g, "$1"));
+}
+
+// --- SpotOn restaurant sites (Duende) --------------------------------------
+// <section id="123"><h2>Band</h2><h3>Friday October 2nd</h3> ...
+// <h3 class="event-time">06:00 PM - 08:00 PM</h3></section>
+
+async function loadSpotOn(venue) {
+  const html = await fetchText(venue.website);
+  const shows = [];
+
+  for (const match of html.matchAll(/<section id="(\d+)">([\s\S]*?)<\/section>/g)) {
+    const [, id, block] = match;
+    const title = block.match(/<h2>([\s\S]*?)<\/h2>/);
+    const date = block.match(/<h3>\s*[A-Z][a-z]+ (January|February|March|April|May|June|July|August|September|October|November|December) (\d{1,2})(?:st|nd|rd|th)?\s*<\/h3>/);
+    const time = block.match(/<h3 class="event-time">\s*(\d{1,2}:\d{2}\s*[AP]M)/i);
+    if (!title || !date || !time) continue;
+    const band = plain(title[1]);
+    if (!band) continue;
+
+    const startsAt = wallTimeToIso(yearFor(date[1], date[2]), date[1], date[2], time[1]);
+    if (!inWindow(startsAt)) continue;
+    const info = block.match(/<div class="event-info-text">([\s\S]*?)<h3 class="event-time">/);
+    const summary = clip(plain(info?.[1] ?? "").replace(/\b(MORE INFO|PURCHASE TICKETS)[^.]*$/i, "").trim());
+
+    shows.push(
+      compactShow({
+        id: `${venue.id}-${id}`,
+        band,
+        venue: venue.name,
+        startsAt,
+        summary: summary || undefined,
+        eventUrl: `${venue.website}#${id}`,
+        source: sourceOf(venue),
+      }),
+    );
+  }
+
+  return shows;
+}
+
+// --- TicketWeb WordPress plugin (Rec Room) ---------------------------------
+// <span class="artisteventsname ...">Band</span> ... with <span>A</span>, <span>B</span>
+// <div class="artisteventstime">Saturday Oct 3 @ 07:00 PM</div>
+
+async function loadTicketWeb(venue) {
+  const html = await fetchText(venue.website);
+  const shows = [];
+
+  for (const block of html.split('class="flexmedia flexmedia--artistevents"').slice(1)) {
+    const link = block.match(/href="([^"]+\/tm-event\/[^"]+)"/);
+    const title = block.match(/class="artisteventsname[^"]*">([\s\S]*?)<\/span>/);
+    const time = block.match(/class="artisteventstime">\s*[A-Z][a-z]+ ([A-Z][a-z]{2}) (\d{1,2}) @ (\d{1,2}:\d{2}\s*[AP]M)/i);
+    if (!link || !title || !time) continue;
+
+    const startsAt = wallTimeToIso(yearFor(time[1], time[2]), time[1], time[2], time[3]);
+    if (!inWindow(startsAt)) continue;
+
+    const support = block.match(/class="artistname[^"]*">([\s\S]*?)<\/div>/);
+    const age = block.match(/class="artistseventsagelimit"[^>]*>\s*([^<]+?)\s*</);
+    const band = plain(title[1]);
+    const openers = support
+      ? plain(support[1])
+          .replace(/^with\s+/i, "")
+          .split(/\s*,\s*/)
+          .filter((act) => act && act !== band)
+      : [];
+    const summary = [openers.length ? `With ${openers.join(", ")}.` : "", age ? age[1].trim() : ""]
+      .filter(Boolean)
+      .join(" ");
+
+    shows.push(
+      compactShow({
+        id: showId(venue, link[1]),
+        band,
+        venue: venue.name,
+        startsAt,
+        summary: summary || undefined,
+        eventUrl: link[1],
+        source: sourceOf(venue),
+      }),
+    );
+  }
+
+  return shows;
+}
+
+// --- Shared helpers ---------------------------------------------------------
 
 function sourceOf(venue) {
   return { name: venue.name, kind: "website", url: venue.website };
@@ -191,12 +409,13 @@ function jsonLdNodes(html) {
   return nodes;
 }
 
-function priceFromOffer(offers) {
+function priceFromOffer(offers, ignoreZero = false) {
   const offer = Array.isArray(offers) ? offers[0] : offers;
   if (!offer) return undefined;
   const min = offer.priceSpecification?.minPrice ?? offer.price;
   const max = offer.priceSpecification?.maxPrice;
   if (min == null || min === "") return undefined;
+  if (ignoreZero && Number(min) === 0) return undefined;
   if (max != null && max !== "" && Number(max) !== Number(min)) {
     return `${money(min)}–${money(max)}`;
   }
@@ -225,30 +444,34 @@ function cleanCost(cost) {
 
 function tribeStart(startDate) {
   const match = /^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/.exec(startDate);
-  if (!match) throw new Error(`Unexpected Iron Works start ${startDate}`);
+  if (!match) throw new Error(`Unexpected event start ${startDate}`);
   return `${match[1]}T${match[2]}:00${easternOffset(match[1])}`;
 }
 
+const MONTHS = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+
+function monthIndex(name) {
+  const index = MONTHS.indexOf(name.slice(0, 3).toLowerCase());
+  if (index < 0) throw new Error(`Unexpected month ${name}`);
+  return index;
+}
+
+// Listings that omit the year mean the next occurrence of that date.
+function yearFor(monthName, day) {
+  const now = new Date();
+  const candidate = new Date(now.getFullYear(), monthIndex(monthName), Number(day));
+  const weekAgo = new Date(now);
+  weekAgo.setDate(weekAgo.getDate() - 7);
+  return candidate < weekAgo ? now.getFullYear() + 1 : now.getFullYear();
+}
+
 function wallTimeToIso(year, monthName, day, label) {
-  const months = {
-    january: "01",
-    february: "02",
-    march: "03",
-    april: "04",
-    may: "05",
-    june: "06",
-    july: "07",
-    august: "08",
-    september: "09",
-    october: "10",
-    november: "11",
-    december: "12",
-  };
   const clock = /^(\d{1,2}):(\d{2})\s*([ap]m)$/i.exec(label.trim());
   if (!clock) throw new Error(`Unexpected show time ${label}`);
   let hour = Number(clock[1]) % 12;
   if (/pm/i.test(clock[3])) hour += 12;
-  const ymd = `${year}-${months[monthName.toLowerCase()]}-${String(day).padStart(2, "0")}`;
+  const month = String(monthIndex(monthName) + 1).padStart(2, "0");
+  const ymd = `${year}-${month}-${String(day).padStart(2, "0")}`;
   return `${ymd}T${String(hour).padStart(2, "0")}:${clock[2]}:00${easternOffset(ymd)}`;
 }
 
@@ -256,6 +479,21 @@ function asEasternWallClock(iso) {
   const match = /^(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2}:\d{2})/.exec(iso);
   if (!match) return iso;
   return `${match[1]}T${match[2]}${easternOffset(match[1])}`;
+}
+
+function epochToEastern(ms) {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    hourCycle: "h23",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).formatToParts(new Date(ms));
+  const get = (type) => parts.find((part) => part.type === type)?.value ?? "00";
+  const ymd = `${get("year")}-${get("month")}-${get("day")}`;
+  return `${ymd}T${get("hour")}:${get("minute")}:00${easternOffset(ymd)}`;
 }
 
 function easternOffset(ymd) {
@@ -341,9 +579,22 @@ function decodeEntities(value) {
     .replace(/&mdash;/g, "—");
 }
 
-function slugId(url) {
-  const path = new URL(url).pathname.replace(/\/$/, "");
-  return path.split("/").pop() || path;
+// Ids are React keys, so they must be unique across every venue. Recurring
+// events on The Events Calendar end in /YYYY-MM-DD/, so keep the parent slug.
+function showId(venue, url) {
+  const segments = new URL(url).pathname.split("/").filter(Boolean);
+  const last = segments.at(-1) ?? "";
+  const slug = /^\d{4}-\d{2}-\d{2}$/.test(last) ? segments.slice(-2).join("-") : last;
+  return `${venue.id}-${slug}`;
+}
+
+function absoluteUrl(href, base) {
+  try {
+    const url = new URL(decodeEntities(href), base);
+    return url.origin === new URL(base).origin ? url.href : null;
+  } catch {
+    return null;
+  }
 }
 
 function unique(values) {
@@ -366,7 +617,7 @@ async function mapPool(items, limit, fn) {
 
 async function fetchText(url) {
   const response = await fetch(url, {
-    headers: { "user-agent": "buffalo-music-calendar", accept: "text/html,application/json" },
+    headers: { "user-agent": "buffalo-music-calendar", accept: "text/html,application/json,text/calendar" },
   });
   if (!response.ok) throw new Error(`${response.status} for ${url}`);
   return response.text();
@@ -375,3 +626,5 @@ async function fetchText(url) {
 async function fetchJson(url) {
   return JSON.parse(await fetchText(url));
 }
+
+await main();

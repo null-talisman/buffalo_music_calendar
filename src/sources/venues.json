@@ -2,16 +2,67 @@
   {
     "id": "the-caz",
     "name": "The Caz",
-    "website": "https://www.thecazbuffalo.com/shows"
-  },
-  {
-    "id": "electric-city",
-    "name": "Electric City",
-    "website": "https://electriccity.com/"
+    "website": "https://www.thecazbuffalo.com/shows",
+    "parser": "caz"
   },
   {
     "id": "buffalo-iron-works",
     "name": "Buffalo Iron Works",
-    "website": "https://buffaloironworks.com/events-calendar/"
+    "website": "https://buffaloironworks.com/events-calendar/",
+    "parser": "tribe"
+  },
+  {
+    "id": "electric-city",
+    "name": "Electric City",
+    "website": "https://electriccity.com/",
+    "parser": "jsonld-pages",
+    "eventPath": "/events/"
+  },
+  {
+    "id": "town-ballroom",
+    "name": "Town Ballroom",
+    "website": "https://townballroom.com/events/",
+    "parser": "jsonld-pages",
+    "eventPath": "/event/",
+    "ignoreZeroPrice": true,
+    "venueFromPage": true
+  },
+  {
+    "id": "babeville",
+    "name": "Babeville",
+    "website": "https://babevillebuffalo.com/events/",
+    "parser": "ical",
+    "icalPath": "/events/ical/"
+  },
+  {
+    "id": "rec-room",
+    "name": "Rec Room",
+    "website": "https://recroombuffalo.com/concerts/",
+    "parser": "ticketweb"
+  },
+  {
+    "id": "nietzsches",
+    "name": "Nietzsche's",
+    "website": "https://www.nietzschesbuffalo.com/events-music",
+    "parser": "squarespace"
+  },
+  {
+    "id": "duende",
+    "name": "Duende",
+    "website": "https://duendesilo.city/buffalo-duende-at-silo-city-events",
+    "parser": "spoton"
+  },
+  {
+    "id": "jack-rabbit",
+    "name": "Jack Rabbit",
+    "website": "https://www.jackrabbitbuffalo.com/live-music-and-events",
+    "parser": "squarespace"
+  },
+  {
+    "id": "hofbrauhaus-buffalo",
+    "name": "Hofbräuhaus Buffalo",
+    "website": "https://www.hofbrauhausbuffalo.com/events/",
+    "parser": "tribe",
+    "musicOnly": true
   }
 ]

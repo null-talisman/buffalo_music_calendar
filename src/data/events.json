@@ -1,6 +1,30 @@
 [
   {
-    "id": "noiseheads-w-the-ant-hill-kids-colour-negative",
+    "id": "duende-3365097",
+    "band": "THEYFEST PRE-PARTY",
+    "venue": "Duende",
+    "startsAt": "2026-09-29T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3365097",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-july-2026-45hk6-ajnbf-d7bsj-lakmf-bxmy5-pxlpl",
+    "band": "The Steam Donkeys",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-09-29T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-july-2026-45hk6-ajnbf-d7bsj-lakmf-bxmy5-pxlpl",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-noiseheads-w-the-ant-hill-kids-colour-negative",
     "band": "Noiseheads w/ The Ant Hill Kids & Colour Negative",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-09-29T19:00:00-04:00",
@@ -13,7 +37,56 @@
     }
   },
   {
-    "id": "buzzcocks-celebrating-50-years-of-buzzcocks",
+    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9",
+    "band": "Grace Lougen and Friends",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-09-29T19:00:00-04:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "town-ballroom-gogol-bordello",
+    "band": "GOGOL BORDELLO",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-09-29T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/gogol-bordello/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-taking-back-sunday-at-outer-harbor-live-at-terminal-b",
+    "band": "Taking Back Sunday at Outer Harbor Live at Terminal B",
+    "venue": "Outer Harbor Live at Terminal B",
+    "startsAt": "2026-09-29T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/taking-back-sunday-at-outer-harbor-live-at-terminal-b/outer-harbor-live-at-terminal-b/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "babeville-pat-metheny-side-eye-iii",
+    "band": "Pat Metheny Side-Eye III+",
+    "venue": "Babeville",
+    "startsAt": "2026-09-29T20:00:00-04:00",
+    "summary": "Asbury · DSP Shows presents Pat Metheny live in Asbury Hall September 29 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/pat-metheny-side-eye-iii/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-buzzcocks-celebrating-50-years-of-buzzcocks",
     "band": "Buzzcocks: Celebrating 50 Years of Buzzcocks",
     "venue": "Electric City",
     "startsAt": "2026-09-29T20:00:00-04:00",
@@ -27,7 +100,167 @@
     }
   },
   {
-    "id": "bearly-dead-2",
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-july-2026-ng93f-y7cnb-7j5bw",
+    "band": "Rust Belt Comedy",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-09-29T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-july-2026-ng93f-y7cnb-7j5bw",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-july-2026-9t6s8-434m5",
+    "band": "The Stripteasers",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-09-29T22:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-july-2026-9t6s8-434m5",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3340983",
+    "band": "Mark Dux & the Bender Project",
+    "venue": "Duende",
+    "startsAt": "2026-09-30T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3340983",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-tyler-westcott-buffalo-music-3gtw3-m8w93",
+    "band": "Perry Gordon",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-09-30T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tyler-westcott-buffalo-music-3gtw3-m8w93",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-09-30",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-09-30T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-09-30/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-09-30",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-09-30T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-09-30/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "jack-rabbit-l7kj74p773knz4kgbptyt4ektwge62",
+    "band": "Olmsted Dub System",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-09-30T19:00:00-04:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/l7kj74p773knz4kgbptyt4ektwge62",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "town-ballroom-diiv",
+    "band": "DIIV",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-09-30T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/diiv/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "babeville-bach-brews-buffalo-chamber-players-autumn",
+    "band": "Bach & Brews: Autumn",
+    "venue": "Babeville",
+    "startsAt": "2026-09-30T19:30:00-04:00",
+    "summary": "The 9th Ward · Buffalo Chamber Players presents Bach & Brews",
+    "eventUrl": "https://babevillebuffalo.com/events/bach-brews-buffalo-chamber-players-autumn/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-folkfaces-fest-pre-party-2026",
+    "band": "Folkfaces Fest Pre-Party w Whiskey Moon Face, Dirty Laundry and Sweet Bean Selene",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-09-30T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/folkfaces-fest-pre-party-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-prost-all-agesbingo-2026-10-01",
+    "band": "HAUS Duo!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-01T17:30:00-04:00",
+    "summary": "LIVE German Music with Die Haus Duo!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/prost-all-agesbingo/2026-10-01/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3004060",
+    "band": "Old Hippie Reunion",
+    "venue": "Duende",
+    "startsAt": "2026-10-01T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3004060",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-the-spit-sisters-friendly-spectres-survey-channel-angie-lucie",
+    "band": "The Spit Sisters, Friendly Spectres, Survey Channel, & Angie Lucie",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-01T19:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-spit-sisters-friendly-spectres-survey-channel-angie-lucie",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-bearly-dead-2",
     "band": "Bearly Dead",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-01T20:00:00-04:00",
@@ -41,7 +274,95 @@
     }
   },
   {
-    "id": "glaive",
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-duo",
+    "band": "Oktoberfest LIVE German Music – Die Haus Duo",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-02T16:00:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-duo/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-band-named-sue-october",
+    "band": "Buffalo’s Band Named Sue",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-02T17:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/band-named-sue-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3340985",
+    "band": "The Divi Romē Band",
+    "venue": "Duende",
+    "startsAt": "2026-10-02T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3340985",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-dueling-pianos",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-02T18:30:00-04:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "babeville-chris-collins",
+    "band": "Chris Collins",
+    "venue": "Babeville",
+    "startsAt": "2026-10-02T20:00:00-04:00",
+    "summary": "The 9th Ward · Chris Collins comedy in the 9th Ward",
+    "eventUrl": "https://babevillebuffalo.com/events/chris-collins/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-mnm-presents-champagne-drip",
+    "band": "MNM Presents: Champagne Drip",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-10-02T20:00:00-04:00",
+    "summary": "Champagne Drip champagnedrip.com Champagne Drip dominates cutting-edge bass music with melodic, vibey tracks that deliver euphoric highs and emotional depth. Boasting multiple songs with millions of plays,his biggest hits “Kaleidoscope” (featuring Crystalline, from the Starman…",
+    "eventUrl": "https://buffaloironworks.com/event/mnm-presents-champagne-drip/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "duende-3448770",
+    "band": "Beasts of Buffalo",
+    "venue": "Duende",
+    "startsAt": "2026-10-02T20:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448770",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "electric-city-glaive",
     "band": "glaive",
     "venue": "Electric City",
     "startsAt": "2026-10-02T20:00:00-04:00",
@@ -55,20 +376,20 @@
     }
   },
   {
-    "id": "mnm-presents-champagne-drip",
-    "band": "MNM Presents: Champagne Drip",
-    "venue": "Buffalo Iron Works",
+    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-el-scorcho-strictly-hip",
+    "band": "Oktoberfest Continues with El Scorcho + Strictly Hip",
+    "venue": "Hofbräuhaus Buffalo",
     "startsAt": "2026-10-02T20:00:00-04:00",
-    "summary": "Champagne Drip champagnedrip.com Champagne Drip dominates cutting-edge bass music with melodic, vibey tracks that deliver euphoric highs and emotional depth. Boasting multiple songs with millions of plays,his biggest hits “Kaleidoscope” (featuring Crystalline, from the Starman…",
-    "eventUrl": "https://buffaloironworks.com/event/mnm-presents-champagne-drip/",
+    "summary": "Get ready for an unforgettable Oktoberfest Concert at Hofbräuhaus Buffalo! El Scorcho kicks off the night with the music of Weezer, followed by The Strictly Hip bringing the iconic music of The Tragically Hip to the Bier Hall. Pre-purchase your ticket and receive an order of…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-el-scorcho-strictly-hip/",
     "source": {
-      "name": "Buffalo Iron Works",
+      "name": "Hofbräuhaus Buffalo",
       "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
     }
   },
   {
-    "id": "songbirds-a-tribute-to-fleetwood-mac-the-white-album-tour-75-76-02-oct",
+    "id": "the-caz-songbirds-a-tribute-to-fleetwood-mac-the-white-album-tour-75-76-02-oct",
     "band": "SONGBIRDS: A Tribute To Fleetwood Mac / The White Album Tour '75-76",
     "venue": "The Caz",
     "startsAt": "2026-10-02T20:00:00-04:00",
@@ -82,7 +403,94 @@
     }
   },
   {
-    "id": "dead-again-type-o-negative-tribute-w-issues-korn-tribute",
+    "id": "nietzsches-bob-moe-buffalo",
+    "band": "bob. featuring Al + Vinnie from moe.",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-02T20:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/bob-moe-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-4",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-02T22:00:00-04:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-4/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "duende-3486965",
+    "band": "THEYFEST",
+    "venue": "Duende",
+    "startsAt": "2026-10-03T11:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3486965",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-03T16:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-german-american-musicians",
+    "band": "Oktoberfest LIVE German Music – German American Musicians",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-03T17:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-german-american-musicians/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-ole-60-at-outer-harbor-live-at-terminal-b",
+    "band": "Ole 60 at Outer Harbor Live at Terminal B",
+    "venue": "Outer Harbor Live at Terminal B",
+    "startsAt": "2026-10-03T18:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/ole-60-at-outer-harbor-live-at-terminal-b/outer-harbor-live-at-terminal-b/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-sawyer-hill",
+    "band": "Sawyer Hill",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-03T19:00:00-04:00",
+    "summary": "With Never Ending Fall. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/sawyer-hill/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-dead-again-type-o-negative-tribute-w-issues-korn-tribute",
     "band": "Dead Again — Type O Negative Tribute w/ Issues (Korn Tribute)",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-03T20:00:00-04:00",
@@ -96,7 +504,7 @@
     }
   },
   {
-    "id": "raise-your-hands-a-bon-jovi-tribute",
+    "id": "electric-city-raise-your-hands-a-bon-jovi-tribute",
     "band": "RAISE YOUR HANDS: A Bon Jovi Tribute",
     "venue": "Electric City",
     "startsAt": "2026-10-03T20:00:00-04:00",
@@ -110,7 +518,19 @@
     }
   },
   {
-    "id": "the-arcade-live-music-tribute-to-the-80s-03-oct",
+    "id": "nietzsches-ivyshome-and-friends",
+    "band": "Ivy’s Home, Watch Your Step, and Birddog",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-03T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ivyshome-and-friends",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-the-arcade-live-music-tribute-to-the-80s-03-oct",
     "band": "THE ARCADE - Live Music Tribute to The 80s",
     "venue": "The Caz",
     "startsAt": "2026-10-03T20:00:00-04:00",
@@ -124,7 +544,33 @@
     }
   },
   {
-    "id": "buffalo-events-marketplace-presents-daycrawlers-bazaar",
+    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-03",
+    "band": "Oktoberfest DJ Late Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-03T21:00:00-04:00",
+    "summary": "Oktoberfest DJ Late Night",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-03/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-03",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-03T21:00:00-04:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-03/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-buffalo-events-marketplace-presents-daycrawlers-bazaar",
     "band": "Buffalo Events Marketplace Presents: DayCrawlers Bazaar",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-04T11:00:00-04:00",
@@ -138,7 +584,56 @@
     }
   },
   {
-    "id": "it-s-a-mxtery-in-the-kingdom-drag-mystery-dinner-experience-04-oct",
+    "id": "rec-room-buffalo-bills-viewing-party-2026-10-04",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-04T13:00:00-04:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-04/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "nietzsches-dr-jazz-buffalo-oct-2026",
+    "band": "Dr. Jazz & the Jazz Bugs @ Nietszches Buffalo",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-04T15:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/dr-jazz-buffalo-oct-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3340991",
+    "band": "Dozo My Lady",
+    "venue": "Duende",
+    "startsAt": "2026-10-04T16:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3340991",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-ann-philippone-oct-2026",
+    "band": "Piano Party w Ann Philippone",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-04T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-it-s-a-mxtery-in-the-kingdom-drag-mystery-dinner-experience-04-oct",
     "band": "It's a Mxtery in The Kingdom: Drag Mystery Dinner Experience",
     "venue": "The Caz",
     "startsAt": "2026-10-04T18:00:00-04:00",
@@ -152,7 +647,20 @@
     }
   },
   {
-    "id": "nevertel",
+    "id": "babeville-surf-hat",
+    "band": "Surf Hat",
+    "venue": "Babeville",
+    "startsAt": "2026-10-04T20:00:00-04:00",
+    "summary": "Asbury · DSP Shows presents Surf Hat live in the 9th ward October 4 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/surf-hat/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-nevertel",
     "band": "Nevertel",
     "venue": "Electric City",
     "startsAt": "2026-10-04T20:00:00-04:00",
@@ -166,7 +674,44 @@
     }
   },
   {
-    "id": "bayonne",
+    "id": "nietzsches-jazz-cache-oct-2026",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-04T20:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-complete-unknowns-nietzsches-buffalo-october",
+    "band": "The Complete Unknowns",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-05T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-complete-unknowns-nietzsches-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-the-haunt",
+    "band": "The Haunt",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-05T19:30:00-04:00",
+    "summary": "With 8 Graves, Platinum, Thorns for Lovers. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/the-haunt/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-bayonne",
     "band": "Bayonne w/ Bad Snacks",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-05T20:00:00-04:00",
@@ -180,7 +725,31 @@
     }
   },
   {
-    "id": "goodbye-june-w-danny-worsnop",
+    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october",
+    "band": "Open Mic + Songwriter Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-05T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october",
+    "band": "The Steam Donkeys",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-06T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-goodbye-june-w-danny-worsnop",
     "band": "Goodbye June w/ Danny Worsnop",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-06T19:30:00-04:00",
@@ -194,7 +763,7 @@
     }
   },
   {
-    "id": "michael-franti-trio-heartstrings-dynamite",
+    "id": "electric-city-michael-franti-trio-heartstrings-dynamite",
     "band": "Michael Franti Trio – Heartstrings & Dynamite",
     "venue": "Electric City",
     "startsAt": "2026-10-06T20:00:00-04:00",
@@ -208,7 +777,82 @@
     }
   },
   {
-    "id": "greg-zeis-07-oct",
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october",
+    "band": "Rust Belt Comedy Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-06T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-october",
+    "band": "The Stripteasers Bar-Top Burlesque",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-06T22:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3372280",
+    "band": "Tom Robert",
+    "venue": "Duende",
+    "startsAt": "2026-10-07T18:00:00-04:00",
+    "summary": "Monthly on every first Wednesday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3372280",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-perry-gordon",
+    "band": "MK Nostalgia",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-07T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/perry-gordon",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-07",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-07/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-07",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-07/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-greg-zeis-07-oct",
     "band": "GREG ZEIS",
     "venue": "The Caz",
     "startsAt": "2026-10-07T19:00:00-04:00",
@@ -222,7 +866,82 @@
     }
   },
   {
-    "id": "sicard-hollow-08-oct",
+    "id": "babeville-the-mid-week-vibe-xlviii",
+    "band": "The Mid-Week Vibe XLVIII-4 Year Anniversary!",
+    "venue": "Babeville",
+    "startsAt": "2026-10-07T20:00:00-04:00",
+    "summary": "The 9th Ward · Holton & Powell Entertainment present The Mid Week Vibe live in The 9th Ward September 2nd",
+    "eventUrl": "https://babevillebuffalo.com/events/the-mid-week-vibe-xlviii/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-76th-street",
+    "band": "76th Street",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-07T20:00:00-04:00",
+    "summary": "With Tornsey. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/76th-street/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "nietzsches-nolen-durham",
+    "band": "Nolen Durham & Prince of Eden",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-07T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/nolen-durham",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-barrel-tapping-with-parkside-brass",
+    "band": "Barrel Tapping with Parkside Brass!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-08T17:30:00-04:00",
+    "summary": "Barrel Tapping with Parkside Brass! Barrel is tapped at 6PM sharp!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/barrel-tapping-with-parkside-brass/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3422879",
+    "band": "Bánóg",
+    "venue": "Duende",
+    "startsAt": "2026-10-08T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3422879",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-abtrio-buffalo-october",
+    "band": "Adam Bronstein & ABTrio",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-08T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/abtrio-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-sicard-hollow-08-oct",
     "band": "SICARD HOLLOW",
     "venue": "The Caz",
     "startsAt": "2026-10-08T19:00:00-04:00",
@@ -236,7 +955,7 @@
     }
   },
   {
-    "id": "the-residents-eskimo-live",
+    "id": "electric-city-the-residents-eskimo-live",
     "band": "THE RESIDENTS – ESKIMO LIVE",
     "venue": "Electric City",
     "startsAt": "2026-10-08T20:00:00-04:00",
@@ -250,7 +969,45 @@
     }
   },
   {
-    "id": "bingo-loco-presents-name-that-song",
+    "id": "nietzsches-side-eye-salt-road",
+    "band": "Side Eye & The Salt Road Trio",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-08T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/side-eye-salt-road",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-2",
+    "band": "Oktoberfest LIVE German Music – Die Haus Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-09T16:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-2/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3411347",
+    "band": "The Skiffle Minstrels",
+    "venue": "Duende",
+    "startsAt": "2026-10-09T18:00:00-04:00",
+    "summary": "Monthly on every second Friday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3411347",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "electric-city-bingo-loco-presents-name-that-song",
     "band": "Bingo Loco Presents: Name That Song",
     "venue": "Electric City",
     "startsAt": "2026-10-09T18:00:00-04:00",
@@ -264,7 +1021,31 @@
     }
   },
   {
-    "id": "the-emerge-effect-live-still-becoming-09-oct",
+    "id": "nietzsches-greg-klyma-band",
+    "band": "The Greg Klyma Band",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-09T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/greg-klyma-band",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-greg-klyma-band-ltxd3",
+    "band": "The Dolly Sods Album Release wsg Two Point Oh & Sertraline",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-09T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/greg-klyma-band-ltxd3",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-the-emerge-effect-live-still-becoming-09-oct",
     "band": "The Emerge Effect Live: Still Becoming",
     "venue": "The Caz",
     "startsAt": "2026-10-09T19:00:00-04:00",
@@ -278,7 +1059,44 @@
     }
   },
   {
-    "id": "the-sadies",
+    "id": "town-ballroom-the-disco-biscuits-2-night-pass-4",
+    "band": "The Disco Biscuits 2 Night Pass",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-09T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/the-disco-biscuits-2-night-pass-4/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-the-disco-biscuits-night-1-2",
+    "band": "The Disco Biscuits [NIGHT 1]",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-09T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/the-disco-biscuits-night-1-2/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "babeville-spencer-lajoye",
+    "band": "Spencer LaJoye",
+    "venue": "Babeville",
+    "startsAt": "2026-10-09T20:00:00-04:00",
+    "summary": "DSP Shows presents Spencer LaJoye live at The 9th Ward October 9 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/spencer-lajoye/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-the-sadies",
     "band": "The Sadies",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-09T20:00:00-04:00",
@@ -291,7 +1109,107 @@
     }
   },
   {
-    "id": "halloween-silent-disco-2",
+    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-more-country-hintz-of-thunder-live",
+    "band": "Oktoberfest Continues with Hintz of Thunder LIVE + MECHANICAL BULL!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-09T21:00:00-04:00",
+    "summary": "⚡ A storm is rolling into the Bierhall! Hintz of Thunder is bringing a high-energy mix of today’s country hits, throwback favorites and pop-rock crowd-pleasers to Hofbräuhaus Buffalo. Led by dynamic female vocals and backed by a powerhouse band, this is one Oktoberfest party…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-more-country-hintz-of-thunder-live/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-5",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-09T22:00:00-04:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-5/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "duende-3448668",
+    "band": "Mimosas & Minuets: Chamber Music @ duende",
+    "venue": "Duende",
+    "startsAt": "2026-10-10T13:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448668",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october-yhw2w",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-10T16:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-3",
+    "band": "Oktoberfest LIVE German Music – Die Haus Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-10T17:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-3/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3484253",
+    "band": "BIFF BIG FUN",
+    "venue": "Duende",
+    "startsAt": "2026-10-10T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3484253",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "town-ballroom-the-disco-biscuits-night-2-3",
+    "band": "The Disco Biscuits [NIGHT 2]",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-10T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/the-disco-biscuits-night-2-3/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-ian-mcconnell",
+    "band": "Ian McConnell",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-10T19:30:00-04:00",
+    "summary": "With Cherokee Social. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/ian-mcconnell/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-halloween-silent-disco-2",
     "band": "Halloween Silent Disco",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-10T20:00:00-04:00",
@@ -305,7 +1223,7 @@
     }
   },
   {
-    "id": "maddy-smith",
+    "id": "electric-city-maddy-smith",
     "band": "Maddy Smith",
     "venue": "Electric City",
     "startsAt": "2026-10-10T20:00:00-04:00",
@@ -319,7 +1237,19 @@
     }
   },
   {
-    "id": "rick-matthews-more-questionable-judgment-comedy-session-the-caz-10-oct",
+    "id": "nietzsches-emo-night-2026",
+    "band": "Emo Night ft Off the Wall",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-10T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/emo-night-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-rick-matthews-more-questionable-judgment-comedy-session-the-caz-10-oct",
     "band": "Rick Matthews + More! QUESTIONABLE JUDGMENT - Comedy Session @ The Caz",
     "venue": "The Caz",
     "startsAt": "2026-10-10T20:00:00-04:00",
@@ -333,7 +1263,108 @@
     }
   },
   {
-    "id": "sydney-sterlace-dinner-show-experience-11-oct",
+    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-10",
+    "band": "Oktoberfest DJ Late Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-10T21:00:00-04:00",
+    "summary": "Oktoberfest DJ Late Night",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-10/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-10",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-10T21:00:00-04:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-10/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-bavarian-brunch-with-das-haus-duo-2",
+    "band": "Bavarian Brunch with Das Haus Duo!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-11T11:00:00-04:00",
+    "summary": "Bavarian Brunch with Das Haus Duo!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/bavarian-brunch-with-das-haus-duo-2/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-grateful-dans-oct-2026",
+    "band": "The Grateful Dans",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-11T15:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3417719",
+    "band": "The Susan Peters Jazz Band",
+    "venue": "Duende",
+    "startsAt": "2026-10-11T16:00:00-04:00",
+    "summary": "Monthly on every second Sunday Featuring: Abdul Rahman Qadir on drums, Piccirilli on upright bass, Wally Jederman on vibes and George Kane on guitar!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3417719",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "duende-3487236",
+    "band": "BOOTEA",
+    "venue": "Duende",
+    "startsAt": "2026-10-11T16:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3487236",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-ann-philippone-oct-2026-7z6jb",
+    "band": "Piano Party w Ann Philippone",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-11T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-oso-oso",
+    "band": "Oso Oso",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-11T19:00:00-04:00",
+    "summary": "With Leisure Hour, Bad Luck., The Weather Might Say Otherwise. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/oso-oso/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "the-caz-sydney-sterlace-dinner-show-experience-11-oct",
     "band": "Sydney Sterlace - Dinner & Show Experience",
     "venue": "The Caz",
     "startsAt": "2026-10-11T19:00:00-04:00",
@@ -347,7 +1378,69 @@
     }
   },
   {
-    "id": "103-3-the-edge-bills-away-game-party-bills-vs-rams",
+    "id": "babeville-don-was-the-pan-detroit-ensemble",
+    "band": "Don Was & The Pan-Detroit Ensemble",
+    "venue": "Babeville",
+    "startsAt": "2026-10-11T20:00:00-04:00",
+    "summary": "Asbury · DSP Shows presents Don Was & The Pan Detroit Ensemble live at Asbury Hall October 11, 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/don-was-the-pan-detroit-ensemble/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-jazz-cache-oct-2026-wgpex",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-11T20:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-10-12",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-12T17:15:00-04:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-12/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "nietzsches-comienzos-buffalo-october",
+    "band": "Comienzos",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-12T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/comienzos-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w",
+    "band": "Open Mic + Songwriter Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-12T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-rams",
     "band": "103.3 The Edge Bills Away Game Party: Bills vs. Rams",
     "venue": "Electric City",
     "startsAt": "2026-10-12T20:15:00-04:00",
@@ -360,7 +1453,32 @@
     }
   },
   {
-    "id": "rhythm-sound-soundbath-sessions-13-oct",
+    "id": "duende-3401473",
+    "band": "Open Mic hosted by Tom Stahl",
+    "venue": "Duende",
+    "startsAt": "2026-10-13T18:00:00-04:00",
+    "summary": "Monthly on every second Tuesday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3401473",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j",
+    "band": "The Steam Donkeys",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-13T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-rhythm-sound-soundbath-sessions-13-oct",
     "band": "Rhythm & Sound: Soundbath Sessions",
     "venue": "The Caz",
     "startsAt": "2026-10-13T19:00:00-04:00",
@@ -374,7 +1492,20 @@
     }
   },
   {
-    "id": "alana-springsteen-w-kyle-schuesler",
+    "id": "babeville-richard-shindell-2",
+    "band": "Richard Shindell",
+    "venue": "Babeville",
+    "startsAt": "2026-10-13T20:00:00-04:00",
+    "summary": "Tuesday, October 13, 2026 DSP Shows presents Richard Shindell live in The 9th Ward 7pm doors, 8pm show Tickets: General Admission Seated – $28 advance, $32 day of show available at TixR.com or in person at the Babeville Box Office (M-F 11a-5p) – 3% credit card fee, no fee for…",
+    "eventUrl": "https://babevillebuffalo.com/events/richard-shindell-2/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-alana-springsteen-w-kyle-schuesler",
     "band": "Alana Springsteen w/ Kyle Schuesler",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-13T20:00:00-04:00",
@@ -388,7 +1519,7 @@
     }
   },
   {
-    "id": "christone-kingfish-ingram-the-hard-road-tour",
+    "id": "electric-city-christone-kingfish-ingram-the-hard-road-tour",
     "band": "Christone “Kingfish” Ingram: The Hard Road Tour",
     "venue": "Electric City",
     "startsAt": "2026-10-13T20:00:00-04:00",
@@ -402,7 +1533,95 @@
     }
   },
   {
-    "id": "curtis-saldago-14-oct",
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
+    "band": "Rust Belt Comedy Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-13T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k",
+    "band": "The Stripteasers Bar-Top Burlesque",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-13T22:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3404889",
+    "band": "Taproom Trivia",
+    "venue": "Duende",
+    "startsAt": "2026-10-14T18:00:00-04:00",
+    "summary": "Monthly on every second Wednesday Free to join! Prizes awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3404889",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-east-coast-dave-2026",
+    "band": "East Coast Dave",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-14T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/east-coast-dave-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-14",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-14T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-14/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-14",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-14T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-14/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-agnostic-front",
+    "band": "Agnostic Front",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-14T19:00:00-04:00",
+    "summary": "With Béton Armé, Restraining Order, Bomb Vest. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/agnostic-front/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "the-caz-curtis-saldago-14-oct",
     "band": "Curtis Salgado",
     "venue": "The Caz",
     "startsAt": "2026-10-14T19:00:00-04:00",
@@ -416,7 +1635,19 @@
     }
   },
   {
-    "id": "austin-meade-2",
+    "id": "town-ballroom-lucero",
+    "band": "Lucero",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-14T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/lucero/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-austin-meade-2",
     "band": "Austin Meade",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-14T19:30:00-04:00",
@@ -429,7 +1660,20 @@
     }
   },
   {
-    "id": "sweet-pill",
+    "id": "babeville-fuzzy-the-rustbelts",
+    "band": "Fuzzy & The Rustbelts",
+    "venue": "Babeville",
+    "startsAt": "2026-10-14T20:00:00-04:00",
+    "summary": "The 9th Ward · Fuzzy & The Rustbelts live in the 9th Ward",
+    "eventUrl": "https://babevillebuffalo.com/events/fuzzy-the-rustbelts/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-sweet-pill",
     "band": "Sweet Pill",
     "venue": "Electric City",
     "startsAt": "2026-10-14T20:00:00-04:00",
@@ -443,7 +1687,81 @@
     }
   },
   {
-    "id": "eggy",
+    "id": "nietzsches-jugband-buffalo",
+    "band": "Tyler Westcott’s Jugband Extravaganza",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-14T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jugband-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-haus-duo",
+    "band": "Haus DUO!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-15T17:30:00-04:00",
+    "summary": "LIVE German Music with Die Haus Duo!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/haus-duo/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-billy-bratek-2026",
+    "band": "Billy Bratek",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-15T17:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/billy-bratek-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3340995",
+    "band": "Henry's Summer Kitchen",
+    "venue": "Duende",
+    "startsAt": "2026-10-15T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3340995",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "town-ballroom-tab-benoit-with-ghalia-volt",
+    "band": "Tab Benoit with Ghalia Volt",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-15T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/tab-benoit-with-ghalia-volt/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-millington",
+    "band": "Millington",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-15T19:30:00-04:00",
+    "summary": "With Do It With Malice, We Were Blank. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/millington/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-eggy",
     "band": "Eggy",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-15T20:00:00-04:00",
@@ -456,7 +1774,57 @@
     }
   },
   {
-    "id": "james-taylor-tribute-caz-2nd-anniversary-show-jake-schneider-16-oct",
+    "id": "nietzsches-rigometrics-buffalo",
+    "band": "Rigometrics",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-15T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rigometrics-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-4",
+    "band": "Oktoberfest LIVE German Music – Die Haus Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-16T16:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-4/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3423069",
+    "band": "The Mood Swingers",
+    "venue": "Duende",
+    "startsAt": "2026-10-16T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3423069",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-dueling-pianos-2026-10-16",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-16T18:30:00-04:00",
+    "summary": "and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-2026-10-16/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "the-caz-james-taylor-tribute-caz-2nd-anniversary-show-jake-schneider-16-oct",
     "band": "James Taylor Tribute & CAZ 2nd Anniversary Show - Jake Schneider",
     "venue": "The Caz",
     "startsAt": "2026-10-16T19:00:00-04:00",
@@ -470,21 +1838,32 @@
     }
   },
   {
-    "id": "armand-hammer",
-    "band": "Armand Hammer",
-    "venue": "Electric City",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "price": "$24–$40",
-    "summary": "Armand Hammer is a dynamic hip-hop duo comprised of rappers Billy Woods and Elucid. Known for their innovative approach to lyricism and production, the duo has carved out a unique niche in the underground music scene with their thought-provoking themes and experimental sound.…",
-    "eventUrl": "https://electriccity.com/events/armand-hammer/",
+    "id": "town-ballroom-failure",
+    "band": "FAILURE",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-16T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/failure/town-ballroom/buffalo-new-york/",
     "source": {
-      "name": "Electric City",
+      "name": "Town Ballroom",
       "kind": "website",
-      "url": "https://electriccity.com/"
+      "url": "https://townballroom.com/events/"
     }
   },
   {
-    "id": "the-warped-band",
+    "id": "babeville-pavlo-and-band-in-concert",
+    "band": "Pavlo and Band in concert!",
+    "venue": "Babeville",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "summary": "Asbury · Pavlo and Band live in concert at Asbury Hall October 16, 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/pavlo-and-band-in-concert/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-the-warped-band",
     "band": "The Warped Band",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-16T20:00:00-04:00",
@@ -498,7 +1877,121 @@
     }
   },
   {
-    "id": "great-wide-open-tom-petty-birthday-party-2",
+    "id": "electric-city-armand-hammer",
+    "band": "Armand Hammer",
+    "venue": "Electric City",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "price": "$24–$40",
+    "summary": "Armand Hammer is a dynamic hip-hop duo comprised of rappers Billy Woods and Elucid. Known for their innovative approach to lyricism and production, the duo has carved out a unique niche in the underground music scene with their thought-provoking themes and experimental sound.…",
+    "eventUrl": "https://electriccity.com/events/armand-hammer/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-the-black-rock-beatles-live-at-our-haus",
+    "band": "Oktoberfest Continues with the Black Rock Beatles LIVE at our HAUS!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "summary": "🎶 The Beatles meet Oktoberfest at Hofbräuhaus Buffalo! The Black Rock Beatles are taking over the Bierhall with a live celebration of the music that changed the world. No wigs. No costumes. No gimmicks. Just talented Buffalo musicians performing the timeless Beatles songs…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-the-black-rock-beatles-live-at-our-haus/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-big-deep-buffalo",
+    "band": "Big Deep ft Jordan Fairless (Formerly of Spafford) wsg Evergreen Echoes",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/big-deep-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3448702",
+    "band": "Mimosas & Minuets: Chamber Music @ duende",
+    "venue": "Duende",
+    "startsAt": "2026-10-17T13:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448702",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october-yhw2w-7tlhb",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-17T16:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-7tlhb",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-parkside-brass",
+    "band": "Oktoberfest LIVE German Music – Parkside Brass",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-17T17:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-parkside-brass/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-home-by-10-a-dance-party-for-adults-halloween-edition",
+    "band": "Home By 10 – A Dance Party For Adults Halloween Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-17T18:00:00-04:00",
+    "summary": "With Home By 10 - A Dance Party For Adults Halloween Edition. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/home-by-10-a-dance-party-for-adults-halloween-edition/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "town-ballroom-the-jayhawks",
+    "band": "The Jayhawks",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-17T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/the-jayhawks/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "babeville-vincent-neil-emerson",
+    "band": "Vincent Neil Emerson with Hayden Redwine",
+    "venue": "Babeville",
+    "startsAt": "2026-10-17T20:00:00-04:00",
+    "summary": "The 9th Ward · Vincent Neil Emerson with special guest Hayden Redwine",
+    "eventUrl": "https://babevillebuffalo.com/events/vincent-neil-emerson/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-great-wide-open-tom-petty-birthday-party-2",
     "band": "Great Wide Open – Tom Petty Birthday Party",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-17T20:00:00-04:00",
@@ -511,7 +2004,19 @@
     }
   },
   {
-    "id": "wny-s-hi-octane-dueling-pianos-17-oct",
+    "id": "nietzsches-hell-ever-after",
+    "band": "Hell Ever After, Velvet Bethany, & Amish Noise",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-17T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/hell-ever-after",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-wny-s-hi-octane-dueling-pianos-17-oct",
     "band": "WNY's Hi-Octane Dueling Pianos",
     "venue": "The Caz",
     "startsAt": "2026-10-17T20:00:00-04:00",
@@ -525,7 +2030,83 @@
     }
   },
   {
-    "id": "103-3-the-edge-bills-away-game-party-bills-vs-raiders",
+    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-17",
+    "band": "Oktoberfest DJ Late Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-17T21:00:00-04:00",
+    "summary": "Oktoberfest DJ Late Night",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-17/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-17",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-17T21:00:00-04:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-17/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-sunday-brunch-with-maria-sebastian",
+    "band": "Oktoberfest Continues with Sunday Brunch with Maria Sebastian!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-18T11:00:00-04:00",
+    "summary": "🎶 Spend your afternoon with one of Buffalo’s most accomplished singer-songwriters! Buffalo Music Hall of Fame inductee Maria Sebastian brings an incredible mix of folk, rock, ’90s alternative, Americana, classic pop and original music to Hofbräuhaus Buffalo. Maria has earned…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-sunday-brunch-with-maria-sebastian/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-10-18",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-18T13:25:00-04:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-18/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "nietzsches-dr-jazz-buffalo-oct-2026-7yxt9",
+    "band": "Dr. Jazz & the Jazz Bugs @ Nietszches Buffalo",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-18T15:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/dr-jazz-buffalo-oct-2026-7yxt9",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-2623075",
+    "band": "Croft, Wasik, Docenko do Guaraldi",
+    "venue": "Duende",
+    "startsAt": "2026-10-18T16:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#2623075",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-raiders",
     "band": "103.3 The Edge Bills Away Game Party: Bills vs. Raiders",
     "venue": "Electric City",
     "startsAt": "2026-10-18T16:30:00-04:00",
@@ -538,7 +2119,55 @@
     }
   },
   {
-    "id": "twenty6-productions-presents-melvin-seals-jgb-at-town-ballroom",
+    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h",
+    "band": "Piano Party w Ann Philippone",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-18T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-fbh4h",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-18T20:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-shaky-stage-nietzsches-october",
+    "band": "Shaky Stage",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-19T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/shaky-stage-nietzsches-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-melvin-seals-jgb",
+    "band": "Melvin Seals & JGB",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-19T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/melvin-seals-jgb/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-twenty6-productions-presents-melvin-seals-jgb-at-town-ballroom",
     "band": "Twenty6 Productions Presents: Melvin Seals & JGB at Town Ballroom",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-19T20:00:00-04:00",
@@ -551,7 +2180,19 @@
     }
   },
   {
-    "id": "jobros-all-over-again-pre-show-party",
+    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2",
+    "band": "Open Mic + Songwriter Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-19T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-jobros-all-over-again-pre-show-party",
     "band": "JoBros All Over Again: Pre-Show Party",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-20T16:30:00-04:00",
@@ -564,7 +2205,19 @@
     }
   },
   {
-    "id": "murder-in-the-cellar-a-1920s-murder-mystery-20-oct",
+    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-2jkh7",
+    "band": "The Steam Donkeys",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-20T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-2jkh7",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-murder-in-the-cellar-a-1920s-murder-mystery-20-oct",
     "band": "Murder in the Cellar - A 1920s Murder Mystery!",
     "venue": "The Caz",
     "startsAt": "2026-10-20T19:00:00-04:00",
@@ -578,7 +2231,7 @@
     }
   },
   {
-    "id": "mania-the-abba-tribute",
+    "id": "electric-city-mania-the-abba-tribute",
     "band": "Mania: The ABBA Tribute",
     "venue": "Electric City",
     "startsAt": "2026-10-20T19:30:00-04:00",
@@ -592,7 +2245,94 @@
     }
   },
   {
-    "id": "ged-fest-26-w-the-strictly-hip-17-oct",
+    "id": "babeville-silver-arrow-band-free-showcase-19",
+    "band": "Silver Arrow Band * FREE SHOWCASE *",
+    "venue": "Babeville",
+    "startsAt": "2026-10-20T20:00:00-04:00",
+    "summary": "The 9th Ward · Silver Arrow Band live in The 9th Ward October 20, 2026 FREE EVENT!",
+    "eventUrl": "https://babevillebuffalo.com/events/silver-arrow-band-free-showcase-19/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2",
+    "band": "Rust Belt Comedy Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-20T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-october-kkn79",
+    "band": "The Stripteasers Bar-Top Burlesque",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-20T22:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-kkn79",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-trad-jazz",
+    "band": "Tyler Westcott, Dr. Jazz, & Mark Harris",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-21T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/trad-jazz",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely",
+    "band": "Hawthorne Heights: 20th Anniversary of If Only You Were Lonely",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-21T18:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-21",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-21T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-21/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-21",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-21T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-21/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-ged-fest-26-w-the-strictly-hip-17-oct",
     "band": "GED FEST 26 w/ The Strictly Hip",
     "venue": "The Caz",
     "startsAt": "2026-10-21T19:00:00-04:00",
@@ -606,7 +2346,20 @@
     }
   },
   {
-    "id": "candlebox-cant-quit-you-tour-fall-2026",
+    "id": "babeville-buffalo-chamber-players-roaring-twenties",
+    "band": "Buffalo Chamber Players - Roaring Twenties!",
+    "venue": "Babeville",
+    "startsAt": "2026-10-21T19:30:00-04:00",
+    "summary": "Asbury · Buffalo Chamber Players presents \"Roaring Twenties!\"",
+    "eventUrl": "https://babevillebuffalo.com/events/buffalo-chamber-players-roaring-twenties/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-candlebox-cant-quit-you-tour-fall-2026",
     "band": "Candlebox – Can’t Quit You Tour, Fall 2026",
     "venue": "Electric City",
     "startsAt": "2026-10-21T19:30:00-04:00",
@@ -620,7 +2373,7 @@
     }
   },
   {
-    "id": "wolfman-jack-4",
+    "id": "buffalo-iron-works-wolfman-jack-4",
     "band": "Wolfman Jack",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-21T20:00:00-04:00",
@@ -634,7 +2387,43 @@
     }
   },
   {
-    "id": "make-me-smile-the-music-of-chicago-22-oct",
+    "id": "nietzsches-wed-tba",
+    "band": "TBA",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-21T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/wed-tba",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-davey-o",
+    "band": "Davey O",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-22T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/davey-o",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-electro-buffalo",
+    "band": "Episodic Memory, D.L.I.M.B., Manic Jackson, & Donut X Slinger",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-22T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/electro-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-make-me-smile-the-music-of-chicago-22-oct",
     "band": "MAKE ME SMILE - The Music Of Chicago",
     "venue": "The Caz",
     "startsAt": "2026-10-22T19:00:00-04:00",
@@ -648,7 +2437,32 @@
     }
   },
   {
-    "id": "all-them-witches-21-shows-21-days",
+    "id": "town-ballroom-earl-sweatshirt-mikes-home-on-the-range-tour",
+    "band": "Earl Sweatshirt & MIKE’s Home on the Range Tour",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-22T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/earl-sweatshirt-mikes-home-on-the-range-tour/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-twin-fin",
+    "band": "Twin Fin w/ John Wood Band",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-10-22T20:00:00-04:00",
+    "summary": "Twin Fin Twin Fin is a rock band based out of Honolulu, Hawaiʻi. The group initially bonded over their shared love of surfing and music. Twin Fin started by playing in living rooms and backyards around the island of O’ahu and quickly graduated to playing sold out venues of more…",
+    "eventUrl": "https://buffaloironworks.com/event/twin-fin/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "electric-city-all-them-witches-21-shows-21-days",
     "band": "All Them Witches: 21 Shows / 21 Days",
     "venue": "Electric City",
     "startsAt": "2026-10-22T20:00:00-04:00",
@@ -662,20 +2476,69 @@
     }
   },
   {
-    "id": "twin-fin",
-    "band": "Twin Fin w/ John Wood Band",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-22T20:00:00-04:00",
-    "summary": "Twin Fin Twin Fin is a rock band based out of Honolulu, Hawaiʻi. The group initially bonded over their shared love of surfing and music. Twin Fin started by playing in living rooms and backyards around the island of O’ahu and quickly graduated to playing sold out venues of more…",
-    "eventUrl": "https://buffaloironworks.com/event/twin-fin/",
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-5",
+    "band": "Oktoberfest LIVE German Music – Die Haus Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-23T16:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-5/",
     "source": {
-      "name": "Buffalo Iron Works",
+      "name": "Hofbräuhaus Buffalo",
       "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
     }
   },
   {
-    "id": "jimkata",
+    "id": "rec-room-texas-hippie-coalition",
+    "band": "Texas Hippie Coalition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-23T17:30:00-04:00",
+    "summary": "With VaterSon, Loveboxx, Cobraz. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/texas-hippie-coalition/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "nietzsches-daves-anniversary",
+    "band": "Dave’s Anniversary Extravaganza",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-23T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/daves-anniversary",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-spite",
+    "band": "SPITE",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-23T18:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/spite/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-jeff-tweedy-at-rit-performing-arts-center",
+    "band": "Jeff Tweedy at RIT Performing Arts Center",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-23T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/jeff-tweedy-at-rit-performing-arts-center/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-jimkata",
     "band": "Jimkata w/ Sophistafunk",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-23T20:00:00-04:00",
@@ -688,21 +2551,7 @@
     }
   },
   {
-    "id": "unplugged-mtv-unplugged-tribute-band-23-oct",
-    "band": "UNPLUGGED - MTV Unplugged Tribute Band",
-    "venue": "The Caz",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "price": "$23.51",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/unplugged-mtv-unplugged-tribute-band-23-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "walker-royce",
+    "id": "electric-city-walker-royce",
     "band": "Walker & Royce",
     "venue": "Electric City",
     "startsAt": "2026-10-23T20:00:00-04:00",
@@ -716,7 +2565,83 @@
     }
   },
   {
-    "id": "r-b-ain-t-dead-an-r-b-showcase-24-oct",
+    "id": "nietzsches-staff-johnson-gaoh-socialite",
+    "band": "Socialite, GAOH, & Staff Johnson",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-23T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/staff-johnson-gaoh-socialite",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-unplugged-mtv-unplugged-tribute-band-23-oct",
+    "band": "UNPLUGGED - MTV Unplugged Tribute Band",
+    "venue": "The Caz",
+    "startsAt": "2026-10-23T20:00:00-04:00",
+    "price": "$23.51",
+    "summary": "Doors 6:30 pm. Show 8:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/unplugged-mtv-unplugged-tribute-band-23-oct",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-nineties-by-nature-in-the-haus",
+    "band": "Nineties By Nature in the HAUS!!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-23T21:00:00-04:00",
+    "summary": "📼 Break out the flannel, grab your scrunchies and prepare to party like it’s 1999! Nineties by Nature is taking over Oktoberfest with a high-energy tribute to the decade that gave us grunge, alternative rock, pop-punk and songs we still know every word to. 📅 October 23 ⏰ 9 PM…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/nineties-by-nature-in-the-haus/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3448703",
+    "band": "Mimosas & Minuets: Chamber Music @ duende",
+    "venue": "Duende",
+    "startsAt": "2026-10-24T13:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448703",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october-yhw2w-7tlhb-46xyy",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-24T16:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-7tlhb-46xyy",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-6",
+    "band": "Oktoberfest LIVE German Music – Die Haus Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-24T17:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-6/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-r-b-ain-t-dead-an-r-b-showcase-24-oct",
     "band": "R&B Ain't Dead - An R&B Showcase",
     "venue": "The Caz",
     "startsAt": "2026-10-24T19:00:00-04:00",
@@ -730,7 +2655,20 @@
     }
   },
   {
-    "id": "night-flight",
+    "id": "buffalo-iron-works-songbirds-a-tribute-to-fleetwood-mac-4",
+    "band": "Songbirds: A Tribute to Fleetwood Mac",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-10-24T20:00:00-04:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/songbirds-a-tribute-to-fleetwood-mac-4/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "electric-city-night-flight",
     "band": "Night Flight",
     "venue": "Electric City",
     "startsAt": "2026-10-24T20:00:00-04:00",
@@ -744,20 +2682,57 @@
     }
   },
   {
-    "id": "songbirds-a-tribute-to-fleetwood-mac-4",
-    "band": "Songbirds: A Tribute to Fleetwood Mac",
-    "venue": "Buffalo Iron Works",
+    "id": "town-ballroom-deathpact-presents-from-darkness-comes-light-eclipsed",
+    "band": "Deathpact presents: FROM DARKNESS, COMES LIGHT: ECLIPSED",
+    "venue": "Town Ballroom",
     "startsAt": "2026-10-24T20:00:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/songbirds-a-tribute-to-fleetwood-mac-4/",
+    "eventUrl": "https://townballroom.com/event/deathpact-presents-from-darkness-comes-light-eclipsed/town-ballroom/buffalo-new-york/",
     "source": {
-      "name": "Buffalo Iron Works",
+      "name": "Town Ballroom",
       "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
+      "url": "https://townballroom.com/events/"
     }
   },
   {
-    "id": "hocus-pocus-taste-a-long-experience",
+    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-24",
+    "band": "Oktoberfest DJ Late Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-24T21:00:00-04:00",
+    "summary": "Oktoberfest DJ Late Night",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-24/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-24",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-24T21:00:00-04:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-24/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-hallowsleaze",
+    "band": "Hallowsleaze: The Twilight Party",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-24T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/hallowsleaze",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "electric-city-hocus-pocus-taste-a-long-experience",
     "band": "Hocus Pocus Taste-a-Long Experience",
     "venue": "Electric City",
     "startsAt": "2026-10-25T15:00:00-04:00",
@@ -771,7 +2746,81 @@
     }
   },
   {
-    "id": "paul-todaro-the-standards-caz-supper-club-25-oct",
+    "id": "town-ballroom-bye-week-ball",
+    "band": "Bye Week Ball",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-25T15:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/bye-week-ball/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-grateful-dans-oct-2026-gp724",
+    "band": "The Grateful Dans",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-25T15:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026-gp724",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3472535",
+    "band": "John Bacon Jazz",
+    "venue": "Duende",
+    "startsAt": "2026-10-25T16:00:00-04:00",
+    "summary": "Monthly on every last Sunday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3472535",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
+    "band": "Piano Party w Ann Philippone",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-25T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3365112",
+    "band": "Jungle Steve + Jacob Pere + Philip Stephen",
+    "venue": "Duende",
+    "startsAt": "2026-10-25T19:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3365112",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-dark-divine-with-special-guests",
+    "band": "Dark Divine – With Special Guests",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-25T19:00:00-04:00",
+    "summary": "With Dark Divine, Fire From the Gods, Outlier. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dark-divine-with-special-guests/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "the-caz-paul-todaro-the-standards-caz-supper-club-25-oct",
     "band": "Paul Todaro & The Standards - CAZ Supper Club",
     "venue": "The Caz",
     "startsAt": "2026-10-25T19:00:00-04:00",
@@ -785,7 +2834,31 @@
     }
   },
   {
-    "id": "murder-in-the-cellar-a-1920s-murder-mystery-2nd-show-26-oct",
+    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-25T20:30:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-tom-robert-buffalo-october",
+    "band": "Tom Robert & the Mystics",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-26T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tom-robert-buffalo-october",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-murder-in-the-cellar-a-1920s-murder-mystery-2nd-show-26-oct",
     "band": "Murder in the Cellar - A 1920s Murder Mystery! - 2nd Show",
     "venue": "The Caz",
     "startsAt": "2026-10-26T19:00:00-04:00",
@@ -799,7 +2872,31 @@
     }
   },
   {
-    "id": "to-buffalo-with-love-marc-scibilia-live-at-electric-city",
+    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2-njf3g",
+    "band": "Open Mic + Songwriter Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-26T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2-njf3g",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-2jkh7-tb2mb",
+    "band": "The Steam Donkeys",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-27T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-2jkh7-tb2mb",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "electric-city-to-buffalo-with-love-marc-scibilia-live-at-electric-city",
     "band": "To Buffalo, With Love – Marc Scibilia Live at Electric City",
     "venue": "Electric City",
     "startsAt": "2026-10-27T19:00:00-04:00",
@@ -813,7 +2910,82 @@
     }
   },
   {
-    "id": "caz-convo-rick-falkowski-buffalo-music-history-the-1950-s-ft-the-hubcaps-28-oct",
+    "id": "babeville-the-lowest-pair",
+    "band": "The Lowest Pair",
+    "venue": "Babeville",
+    "startsAt": "2026-10-27T20:00:00-04:00",
+    "summary": "DSP Shows presents The Lowest Pair live at The 9th Ward October 27, 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/the-lowest-pair/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2-hs2k3",
+    "band": "Rust Belt Comedy Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-27T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2-hs2k3",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-october-dht8g",
+    "band": "The Stripteasers Bar-Top Burlesque",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-27T22:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-dht8g",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-tender-tyler",
+    "band": "Tyler Westcott",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-28T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tender-tyler",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-28",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-28T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-28/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-28",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-28T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-28/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-the-1950-s-ft-the-hubcaps-28-oct",
     "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - The 1950's ft. The Hubcaps",
     "venue": "The Caz",
     "startsAt": "2026-10-28T19:00:00-04:00",
@@ -827,7 +2999,69 @@
     }
   },
   {
-    "id": "kitchen-dwellers-dogs-in-a-pile-at-town-ballroom",
+    "id": "babeville-maddie-zahm-everything-all-the-time-tour",
+    "band": "Maddie Zahm: Everything All The Time Tour w. Semler",
+    "venue": "Babeville",
+    "startsAt": "2026-10-28T20:00:00-04:00",
+    "summary": "Asbury · DSP Shows presents Maddie Zahm: Everything All the Time Tour live at Asbury Hall October 28 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/maddie-zahm-everything-all-the-time-tour/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-strongemen-jackie-rae",
+    "band": "Jackie Rae Daniels & Mikee Strongmen",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-28T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/strongemen-jackie-rae",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "nietzsches-hedons",
+    "band": "Justin Wade Thompson’s Uptown Hedonist Jams",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-29T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/hedons",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-the-number-twelve-looks-like-you",
+    "band": "The Number Twelve Looks Like You",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-29T19:00:00-04:00",
+    "summary": "With Kaonashi, Differences, SCVRECRVW. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/the-number-twelve-looks-like-you/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "town-ballroom-dogs-in-a-pile-kitchen-dwellers",
+    "band": "Dogs In A Pile & Kitchen Dwellers",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-29T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/dogs-in-a-pile-kitchen-dwellers/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-kitchen-dwellers-dogs-in-a-pile-at-town-ballroom",
     "band": "Kitchen Dwellers & Dogs in a Pile at Town Ballroom",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-29T20:00:00-04:00",
@@ -840,7 +3074,7 @@
     }
   },
   {
-    "id": "the-brokes-a-tribute-to-the-strokes",
+    "id": "buffalo-iron-works-the-brokes-a-tribute-to-the-strokes",
     "band": "The Brokes: A tribute to The Strokes w/ The Trash Pandas",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-29T20:00:00-04:00",
@@ -853,7 +3087,57 @@
     }
   },
   {
-    "id": "the-thurman-brothers-band-the-music-of-the-allman-brothers-23-may",
+    "id": "nietzsches-heavy-burden-ant-hill",
+    "band": "Heavy Burden, The Ant Hill Kids, & The Mookies",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-29T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/heavy-burden-ant-hill",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-by-our-haus-residency-and-closing-ceremonies",
+    "band": "LIVE German Music by our HAUS Residency and Closing Ceremonies",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-30T17:30:00-04:00",
+    "summary": "Closing Ceremonies of Oktoberfest with Das Haus Duo!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-by-our-haus-residency-and-closing-ceremonies/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-duo-2",
+    "band": "Oktoberfest LIVE German Music – Die Haus Duo",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-30T17:30:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-duo-2/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-ratlns",
+    "band": "Randle & the Late Night Scandals Halloween Happy Hour",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-30T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ratlns",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-the-thurman-brothers-band-the-music-of-the-allman-brothers-23-may",
     "band": "THE THURMAN BROTHERS BAND - The Music Of The Allman Brothers",
     "venue": "The Caz",
     "startsAt": "2026-10-30T19:00:00-04:00",
@@ -867,7 +3151,20 @@
     }
   },
   {
-    "id": "krewella",
+    "id": "babeville-adam-ezra-group-4",
+    "band": "Adam Ezra Group",
+    "venue": "Babeville",
+    "startsAt": "2026-10-30T20:00:00-04:00",
+    "summary": "The 9th Ward · DSP Shows presents Adam Ezra Group live in The 9th Ward October 20 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/adam-ezra-group-4/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-krewella",
     "band": "Krewella",
     "venue": "Electric City",
     "startsAt": "2026-10-30T20:00:00-04:00",
@@ -881,7 +3178,31 @@
     }
   },
   {
-    "id": "mnm-presents-halloweekend-night-1-sodown-w-chozen",
+    "id": "nietzsches-irving-halloween",
+    "band": "Irving Klaws Halloween",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-30T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/irving-halloween",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-blade-rave-2",
+    "band": "BLADE RAVE",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-30T20:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/blade-rave-2/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-mnm-presents-halloweekend-night-1-sodown-w-chozen",
     "band": "MNM Presents: Halloweekend Night 1: Sodown w/ Chozen",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-30T21:00:00-04:00",
@@ -894,7 +3215,119 @@
     }
   },
   {
-    "id": "eternity-a-vampire-metal-opera-by-vincent-james-mastroantonio-31-oct",
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-6",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-30T22:00:00-04:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-6/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "babeville-junior-jerry-jam-presents-grateful-dead-disco-halloween-w-pocketship",
+    "band": "Junior Jerry Jam presents Grateful Dead Disco Halloween w/ Pocketship",
+    "venue": "Babeville",
+    "startsAt": "2026-10-31T12:00:00-04:00",
+    "summary": "Saturday, October 31. 2026 Junior Jerry Jam presents Grateful Dead Disco Halloween w/ Pocketship at Asbury Hall 11:30 doors, 12:00-3:00 show Tickets: General Admission Adult $15 available at TixR.comor in person at the Babeville Box Office (M-F 11a-5p) – 3% credit card fee, no…",
+    "eventUrl": "https://babevillebuffalo.com/events/junior-jerry-jam-presents-grateful-dead-disco-halloween-w-pocketship/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3448705",
+    "band": "Mimosas & Minuets: Chamber Music @ duende",
+    "venue": "Duende",
+    "startsAt": "2026-10-31T13:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448705",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-by-our-haus-residency",
+    "band": "LIVE German Music by our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-31T16:00:00-04:00",
+    "summary": "LIVE German Music!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-by-our-haus-residency/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-das-haus-duo",
+    "band": "Oktoberfest LIVE German Music – Das Haus Duo",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-31T16:00:00-04:00",
+    "summary": "Oktoberfest LIVE German Music",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-das-haus-duo/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october-yhw2w-7tlhb-46xyy-gntds",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-31T16:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-7tlhb-46xyy-gntds",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-2940242",
+    "band": "Tom Stahl and the Dangerfields",
+    "venue": "Duende",
+    "startsAt": "2026-10-31T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#2940242",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "town-ballroom-come-back-to-earth-mac-miller-live-band-tribute",
+    "band": "Come Back To Earth: Mac Miller Live Band Tribute",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-10-31T19:00:00-04:00",
+    "eventUrl": "https://townballroom.com/event/come-back-to-earth-mac-miller-live-band-tribute/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-stripteasers-halloween-2026",
+    "band": "The Stripteasers Halloween",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-31T20:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/stripteasers-halloween-2026",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-eternity-a-vampire-metal-opera-by-vincent-james-mastroantonio-31-oct",
     "band": "ETERNITY: A Vampire Metal Opera by Vincent James Mastrantonio",
     "venue": "The Caz",
     "startsAt": "2026-10-31T20:00:00-04:00",
@@ -908,7 +3341,7 @@
     }
   },
   {
-    "id": "mnm-presents-halloweekend-night-2-mad-dubz-w-onara",
+    "id": "buffalo-iron-works-mnm-presents-halloweekend-night-2-mad-dubz-w-onara",
     "band": "MNM Presents: Halloweekend Night 2: MAD DUBZ w/ Onara",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-31T21:00:00-04:00",
@@ -921,7 +3354,7 @@
     }
   },
   {
-    "id": "the-haunted-house-party",
+    "id": "electric-city-the-haunted-house-party",
     "band": "The Haunted House Party",
     "venue": "Electric City",
     "startsAt": "2026-10-31T21:00:00-04:00",
@@ -935,7 +3368,70 @@
     }
   },
   {
-    "id": "peachtree-ent-presents-hunter-flynn-back-to-my-roots-tour",
+    "id": "hofbrauhaus-buffalo-annual-halloween-party-with-xoxo-pop-band",
+    "band": "Annual Halloween Party with XOXO Pop Band",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-31T21:00:00-04:00",
+    "summary": "More info to come & will be available on Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/annual-halloween-party-with-xoxo-pop-band/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-01",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-01T13:00:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-01/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "duende-3448666",
+    "band": "Peggy Farrell",
+    "venue": "Duende",
+    "startsAt": "2026-11-01T16:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448666",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "town-ballroom-corrosion-of-conformity-the-sword",
+    "band": "Corrosion of Conformity & The Sword",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-02T18:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/corrosion-of-conformity-the-sword/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-wolf-bear",
+    "band": "Wolf & Bear",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-03T19:30:00-05:00",
+    "summary": "With Coletta, Origami Button. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/wolf-bear/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-peachtree-ent-presents-hunter-flynn-back-to-my-roots-tour",
     "band": "Peachtree Ent. Presents: Hunter Flynn: Back To My Roots Tour w/ Logan Mac",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-03T20:00:00-05:00",
@@ -948,7 +3444,33 @@
     }
   },
   {
-    "id": "pat-travers-band-w-sydney-irving-the-creatures-04-nov",
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-04",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-04T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-04/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-04",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-04T19:00:00-05:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-04/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-pat-travers-band-w-sydney-irving-the-creatures-04-nov",
     "band": "PAT TRAVERS BAND w/ Sydney Irving & The Creatures",
     "venue": "The Caz",
     "startsAt": "2026-11-04T19:00:00-05:00",
@@ -962,7 +3484,20 @@
     }
   },
   {
-    "id": "reprise",
+    "id": "babeville-kurt-vile-the-violators-w-twisted-teens",
+    "band": "Kurt Vile & The Violators w/ Twisted Teens",
+    "venue": "Babeville",
+    "startsAt": "2026-11-04T20:00:00-05:00",
+    "summary": "Asbury · DSP Shows presents Kurt Vile & The Violators w/ support from Twisted Teens",
+    "eventUrl": "https://babevillebuffalo.com/events/kurt-vile-the-violators-w-twisted-teens/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-reprise",
     "band": "REPRISE",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-04T20:00:00-05:00",
@@ -975,7 +3510,19 @@
     }
   },
   {
-    "id": "kendall-street-company-w-roy-g-biv",
+    "id": "town-ballroom-hurricane-wisdom-weathering-the-world",
+    "band": "Hurricane Wisdom: Weathering The World",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-05T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/hurricane-wisdom-weathering-the-world/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-kendall-street-company-w-roy-g-biv",
     "band": "Kendall Street Company w/ Roy G Biv",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-05T20:00:00-05:00",
@@ -988,7 +3535,32 @@
     }
   },
   {
-    "id": "a-foreigners-journey-to-boston",
+    "id": "nietzsches-pentagram-buffalo",
+    "band": "Pentagram String Band & Doom Scroll wsg Redd & the Paper Flowers",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-05T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/pentagram-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-06",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-06T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-06/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-a-foreigners-journey-to-boston",
     "band": "A Foreigner’s Journey to Boston",
     "venue": "Electric City",
     "startsAt": "2026-11-06T19:30:00-05:00",
@@ -1002,7 +3574,20 @@
     }
   },
   {
-    "id": "sax-in-the-city-part-7-will-holton-06-nov",
+    "id": "buffalo-iron-works-upstate",
+    "band": "Upstate w/ Socialite",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "summary": "Upstate It takes good soil, and good seasons, to bear good fruit, and Upstate has had its plenty. The band sprung up in New York’s legendary Hudson Valley, set in the middle of a thick American musical heritage. To their inland West was the Ashokan reservoir folk tradition, and…",
+    "eventUrl": "https://buffaloironworks.com/event/upstate/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
     "band": "Sax In The City Part 7 Will Holton",
     "venue": "The Caz",
     "startsAt": "2026-11-06T20:00:00-05:00",
@@ -1016,20 +3601,57 @@
     }
   },
   {
-    "id": "upstate",
-    "band": "Upstate w/ Socialite",
-    "venue": "Buffalo Iron Works",
+    "id": "town-ballroom-eazybaked-distinct-motive",
+    "band": "Eazybaked & Distinct Motive",
+    "venue": "Town Ballroom",
     "startsAt": "2026-11-06T20:00:00-05:00",
-    "summary": "Upstate It takes good soil, and good seasons, to bear good fruit, and Upstate has had its plenty. The band sprung up in New York’s legendary Hudson Valley, set in the middle of a thick American musical heritage. To their inland West was the Ashokan reservoir folk tradition, and…",
-    "eventUrl": "https://buffaloironworks.com/event/upstate/",
+    "eventUrl": "https://townballroom.com/event/eazybaked-distinct-motive/town-ballroom/buffalo-new-york/",
     "source": {
-      "name": "Buffalo Iron Works",
+      "name": "Town Ballroom",
       "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
+      "url": "https://townballroom.com/events/"
     }
   },
   {
-    "id": "austin-snell",
+    "id": "nietzsches-rigometrics-buffalo-72lkw",
+    "band": "Strange Machines",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-06T21:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rigometrics-buffalo-72lkw",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens",
+    "band": "It Dies Today – 25th Anniversary of IDT and 20th Anniversary of \"Sirens\"",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-07T17:30:00-05:00",
+    "summary": "With It Dies Today, All Out War, Gemstar, Sicksense, Autoignition, Jeweltone. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-cock-robin-live-at-our-haus-no-german-music",
+    "band": "Cock Robin LIVE at our HAUS! (NO GERMAN MUSIC)",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-07T19:00:00-05:00",
+    "summary": "🎸 A legendary name in Buffalo rock returns to the stage! Cock Robin helped define Western New York’s live music scene during the golden era of the 1970s, packing clubs from Buffalo to Syracuse and Cleveland with powerful vocals, outstanding musicianship and the kind of…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/cock-robin-live-at-our-haus-no-german-music/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-austin-snell",
     "band": "Austin Snell w/ Brooke Lee",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-07T20:00:00-05:00",
@@ -1042,7 +3664,57 @@
     }
   },
   {
-    "id": "103-3-the-edge-bills-away-game-party-bills-vs-vikings",
+    "id": "nietzsches-mono-means-one-buffalo",
+    "band": "Mono Means One",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-07T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/mono-means-one-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-the-emo-night-tour-7",
+    "band": "The Emo Night Tour",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-07T20:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/the-emo-night-tour-7/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-brunch-with-chet-gary",
+    "band": "LIVE Brunch with Chet Gary!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-08T11:00:00-05:00",
+    "summary": "🎻 BRUNCH & AN ELECTRIC FIDDLE! 🍳🍺 Sunday brunch is getting a serious soundtrack. Join us for Brunch with Chet Gary , bringing his electric fiddle and a HUGE mix of music from Led Zeppelin, Tom Petty, Billy Joel and Dave Matthews to The Killers, Blink-182, Ed Sheeran, Morgan…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-brunch-with-chet-gary/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-09",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-09T19:15:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-09/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-vikings",
     "band": "103.3 The Edge Bills Away Game Party: Bills vs. Vikings",
     "venue": "Electric City",
     "startsAt": "2026-11-09T20:15:00-05:00",
@@ -1055,7 +3727,7 @@
     }
   },
   {
-    "id": "caz-convo-rick-falkowski-buffalo-music-history-the-1980s-ft-strider-10-nov",
+    "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-the-1980s-ft-strider-10-nov",
     "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - The 1980s  ft. Strider",
     "venue": "The Caz",
     "startsAt": "2026-11-10T19:00:00-05:00",
@@ -1069,7 +3741,19 @@
     }
   },
   {
-    "id": "pouya-the-forever-glades-tour",
+    "id": "town-ballroom-die-spitz",
+    "band": "Die Spitz",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-10T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/die-spitz/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "electric-city-pouya-the-forever-glades-tour",
     "band": "Pouya – The Forever Glades Tour",
     "venue": "Electric City",
     "startsAt": "2026-11-11T19:00:00-05:00",
@@ -1083,7 +3767,46 @@
     }
   },
   {
-    "id": "bumpin-uglies-orange-crush-tour-w-artikal-sound-system",
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-11",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-11T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-11/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-11",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-11T19:00:00-05:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-11/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "babeville-bach-brews-winter",
+    "band": "Bach & Brews: Winter",
+    "venue": "Babeville",
+    "startsAt": "2026-11-11T19:30:00-05:00",
+    "summary": "The 9th Ward · Buffalo Chamber Players presents Bach & Brews",
+    "eventUrl": "https://babevillebuffalo.com/events/bach-brews-winter/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-bumpin-uglies-orange-crush-tour-w-artikal-sound-system",
     "band": "Bumpin Uglies: Orange Crush Tour w/ Artikal Sound System",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-11T20:00:00-05:00",
@@ -1096,7 +3819,7 @@
     }
   },
   {
-    "id": "furg-comedy-at-the-caz-12-nov",
+    "id": "the-caz-furg-comedy-at-the-caz-12-nov",
     "band": "Furg - Comedy at The Caz",
     "venue": "The Caz",
     "startsAt": "2026-11-12T19:00:00-05:00",
@@ -1110,7 +3833,7 @@
     }
   },
   {
-    "id": "moonshine-bandits-w-big-murph",
+    "id": "buffalo-iron-works-moonshine-bandits-w-big-murph",
     "band": "Moonshine Bandits w/ JJ Lang Band",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-12T20:00:00-05:00",
@@ -1120,6 +3843,19 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "rec-room-high-vis",
+    "band": "High Vis",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-12T20:00:00-05:00",
+    "summary": "16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/high-vis/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   }
 ]
