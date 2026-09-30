@@ -1,13 +1,14 @@
 :root {
-  --bg: #090814;
-  --ink: #f4f1e8;
-  --muted: #a39eae;
-  --faint: #7c7788;
-  --line: rgba(196, 204, 230, 0.16);
-  --purple: #8d74ff;
-  --blue: #6aa6ff;
-  --stone: #d9d3c5;
-  --panel: rgba(18, 16, 36, 0.88);
+  --bg: #071018;
+  --ink: #f7f4ee;
+  --muted: #b7c0cc;
+  --faint: #84909f;
+  --line: rgba(198, 214, 232, 0.16);
+  --red: #c60c30;
+  --blue: #8eb6f2;
+  --royal: #00338d;
+  --stone: #f3efe6;
+  --panel: rgba(10, 22, 42, 0.9);
   color: var(--ink);
   background: var(--bg);
   font-family: Outfit, "Segoe UI", sans-serif;
@@ -23,8 +24,8 @@ body {
   margin: 0;
   min-height: 100vh;
   background:
-    radial-gradient(720px 420px at 0% -10%, rgba(141, 116, 255, 0.22), transparent 70%),
-    radial-gradient(640px 380px at 100% 0%, rgba(106, 166, 255, 0.16), transparent 68%),
+    radial-gradient(720px 420px at 0% -10%, rgba(198, 12, 48, 0.28), transparent 70%),
+    radial-gradient(640px 380px at 100% 0%, rgba(0, 51, 141, 0.55), transparent 68%),
     var(--bg);
 }
 
@@ -50,7 +51,7 @@ input {
 
 .eyebrow {
   margin: 0;
-  color: var(--blue);
+  color: var(--red);
   font-family: Syne, Outfit, sans-serif;
   font-size: 0.78rem;
   font-weight: 700;
@@ -59,12 +60,21 @@ input {
 }
 
 h1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.22em;
   margin: 0;
   font-family: Syne, Outfit, sans-serif;
   font-size: clamp(3.2rem, 8vw, 5.6rem);
   font-weight: 800;
   letter-spacing: -0.045em;
   line-height: 0.9;
+}
+
+.mark {
+  height: 0.92em;
+  width: auto;
 }
 
 .range {
@@ -86,11 +96,77 @@ h1 {
   color: var(--muted);
 }
 
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.85rem 1.5rem;
+  margin-top: 1.15rem;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.6rem;
+}
+
+.filters label {
+  display: grid;
+  flex: 1 1 10rem;
+  gap: 0.3rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.filters select {
+  width: 100%;
+  min-width: 10rem;
+  padding: 0.5rem 2.1rem 0.5rem 0.85rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+  letter-spacing: 0;
+  text-transform: none;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath fill='none' stroke='%23b7c0cc' stroke-width='1.6' d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E")
+      right 0.85rem center / 0.7rem no-repeat,
+    var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  appearance: none;
+  cursor: pointer;
+}
+
+.filters select:hover,
+.filters select:focus-visible {
+  border-color: var(--blue);
+  outline: none;
+}
+
+.filters .clear {
+  padding: 0.5rem 0.9rem;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.filters .clear:hover,
+.filters .clear:focus-visible {
+  color: var(--ink);
+  border-color: var(--red);
+  outline: none;
+}
+
 .views {
   display: flex;
   gap: 0.25rem;
   width: fit-content;
-  margin-top: 1.15rem;
   padding: 0.25rem;
   background: var(--panel);
   border: 1px solid var(--line);
@@ -108,7 +184,7 @@ h1 {
 
 .views button[aria-pressed="true"] {
   color: var(--ink);
-  background: rgba(141, 116, 255, 0.32);
+  background: var(--red);
 }
 
 .views button:hover,
@@ -142,7 +218,7 @@ h1 {
 }
 
 .day[data-weekday="5"] {
-  border-top-color: var(--purple);
+  border-top-color: var(--red);
 }
 
 .day[data-weekday="6"] {
@@ -259,9 +335,13 @@ h1 {
 }
 
 .tag-rock { background: #e25b45; }
+.tag-indie { background: #f0a2b5; }
+.tag-emo { background: #c38bd6; }
 .tag-punk { background: #ff5d8f; }
 .tag-metal { background: #c5c5d4; }
+.tag-jam { background: #9fd6a6; }
 .tag-folk { background: #c4a35a; }
+.tag-bluegrass { background: #b9c96a; }
 .tag-country { background: #e2b340; }
 .tag-americana { background: #d08a4c; }
 .tag-blues { background: #6aa6ff; }
@@ -273,10 +353,20 @@ h1 {
 .tag-electronic { background: #7fd0e8; }
 .tag-reggae { background: #8dce5a; }
 .tag-latin { background: #e08a45; }
+.tag-pop { background: #ff9ecf; }
 .tag-classical { background: #d9d3c5; }
+.tag-german { background: #f1c766; }
+.tag-tribute { background: #d6b4a0; }
 .tag-comedy { background: #e2c14a; }
 .tag-karaoke { background: #e59ad0; }
 .tag-dj { background: #f0d48a; }
+.tag-piano { background: #dcdcdc; }
+.tag-openmic { background: #a9c4de; }
+.tag-burlesque { background: #e987a3; }
+.tag-dinner { background: #d9b18c; }
+.tag-watch { background: #8fb3e8; }
+.tag-trivia { background: #b3d1c7; }
+.tag-talk { background: #c9c0d8; }
 .tag-other { background: var(--stone); }
 
 .price {
@@ -343,9 +433,9 @@ h1 {
   max-height: min(32rem, calc(100vh - 2.5rem));
   overflow: auto;
   padding: 1.35rem 1.3rem 1.2rem;
-  background: #141228;
+  background: #0c1a30;
   border: 1px solid var(--line);
-  border-top: 3px solid var(--purple);
+  border-top: 3px solid var(--red);
   border-radius: 18px;
 }
 

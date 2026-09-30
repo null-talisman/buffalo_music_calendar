@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { inferGenre } from "./genre.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const venuesPath = resolve(root, "src/sources/venues.json");
@@ -26,7 +27,7 @@ async function main() {
   }
 
   for (const show of collected) {
-    const genre = inferGenre(`${show.band} ${show.summary ?? ""}`);
+    const genre = inferGenre(show.band, show.summary);
     if (genre) show.genre = genre;
     else delete show.genre;
   }
@@ -256,38 +257,6 @@ const NOT_MUSIC_WORDS = /\b(sabres|hockey|bills|watch party|pregame|open for|son
 
 function looksLikeMusic(title) {
   return MUSIC_WORDS.test(title) && !NOT_MUSIC_WORDS.test(title);
-}
-
-// None of the venue feeds publish a genre. The label is taken from the
-// listing itself, and only when it names one outright. First match wins,
-// so "punk rock" stays Punk.
-const GENRE_PATTERNS = [
-  ["Hip-Hop", /\bhip[-\s]?hop\b|\brap\b/i],
-  ["EDM", /\b(edm|techno|house music|deep house|tech house)\b/i],
-  ["Electronic", /\belectronic\b/i],
-  ["Punk", /\bpunk\b/i],
-  ["Metal", /\bmetal\b/i],
-  ["Blues", /\bblues\b/i],
-  ["Jazz", /\bjazz\b/i],
-  ["Soul", /\bsoul\b/i],
-  ["Funk", /\bfunk\b/i],
-  ["Folk", /\bfolk\b/i],
-  ["Country", /(?<!the )\bcountry\b/i],
-  ["Americana", /\bamericana\b|\bsinger-songwriter\b/i],
-  ["Reggae", /\breggae\b|\bska\b/i],
-  ["Latin", /\blatin\b|\bsalsa\b|\bcumbia\b/i],
-  ["Classical", /\bclassical\b|\borchestra\b/i],
-  ["Comedy", /\bcomedy\b|\bcomedian\b/i],
-  ["Karaoke", /\bkaraoke\b/i],
-  ["DJ", /\bdj\b/i],
-  ["Rock", /(?<!black )\brock\b/i],
-];
-
-function inferGenre(text) {
-  for (const [label, pattern] of GENRE_PATTERNS) {
-    if (pattern.test(text)) return label;
-  }
-  return undefined;
 }
 
 // --- Squarespace events collections (?format=json) ------------------------
