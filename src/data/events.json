@@ -1,96 +1,5 @@
 [
   {
-    "id": "duende-3365097",
-    "band": "THEYFEST PRE-PARTY",
-    "venue": "Duende",
-    "startsAt": "2026-09-29T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3365097",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "buffalo-iron-works-noiseheads-w-the-ant-hill-kids-colour-negative",
-    "band": "Noiseheads w/ The Ant Hill Kids & Colour Negative",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-09-29T19:00:00-04:00",
-    "summary": "Noiseheads Based in Florida and rooted in a DIY ethos, Noiseheads has spent the last decade quietly becoming one of the underground’s most compelling voices. The band built their following the long way: self-produced releases, grassroots touring, and songs that traveled from…",
-    "eventUrl": "https://buffaloironworks.com/event/noiseheads-w-the-ant-hill-kids-colour-negative/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "buffalo-riverworks-000064BDA120DFD4",
-    "band": "Mastodon",
-    "venue": "Buffalo RiverWorks",
-    "startsAt": "2026-09-29T19:00:00-04:00",
-    "eventUrl": "https://www.ticketmaster.com/mastodon-buffalo-new-york-09-29-2026/event/000064BDA120DFD4",
-    "source": {
-      "name": "Buffalo RiverWorks",
-      "kind": "website",
-      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
-    },
-    "genre": "Metal"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-09-29T19:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "town-ballroom-gogol-bordello",
-    "band": "GOGOL BORDELLO",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-09-29T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/gogol-bordello/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "electric-city-buzzcocks-celebrating-50-years-of-buzzcocks",
-    "band": "Buzzcocks: Celebrating 50 Years of Buzzcocks",
-    "venue": "Electric City",
-    "startsAt": "2026-09-29T20:00:00-04:00",
-    "price": "$25–$75",
-    "summary": "Buzzcocks, the legendary English punk rock band formed in 1976, continues to influence the music scene with their energetic sound and incisive lyrics. Known for their catchy melodies and punk ethos, the band has remained a staple in the genre, celebrating their legacy while…",
-    "eventUrl": "https://electriccity.com/events/buzzcocks-celebrating-50-years-of-buzzcocks/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-july-2026-9t6s8-434m5",
-    "band": "The Stripteasers",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-09-29T22:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-july-2026-9t6s8-434m5",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "duende-3340983",
     "band": "Mark Dux & the Bender Project",
     "venue": "Duende",
@@ -156,6 +65,20 @@
     "genre": "Reggae"
   },
   {
+    "id": "sportsmens-tavern-danielle-nicole-sportsmens-2",
+    "band": "Danielle Nicole",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-09-30T19:00:00-04:00",
+    "summary": "Sportsmens presents Danielle Nicole Wednesday, September 30, 2026 5pm Doors, 7pm Show $25.00 + Online Fee “That girl gets down to the nitty gritty.” Koko Taylor Danielle Nicole, singer, bassist and songwriter hailing from Kansas City, Missouri, has spent her life making music…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/danielle-nicole-sportsmens-2/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Blues"
+  },
+  {
     "id": "town-ballroom-diiv",
     "band": "DIIV",
     "venue": "Town Ballroom",
@@ -181,6 +104,21 @@
       "url": "https://babevillebuffalo.com/events/"
     },
     "genre": "Classical"
+  },
+  {
+    "id": "mohawk-place-2026-09-30-choir-boy-dolly-sods-high",
+    "band": "Choir Boy, Dolly Sods, High",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-09-30T20:00:00-04:00",
+    "price": "$20 adv / $25 dos",
+    "summary": "After Dark Presents",
+    "eventUrl": "https://www.facebook.com/events/1033479895991011",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Indie"
   },
   {
     "id": "nietzsches-folkfaces-fest-pre-party-2026",
@@ -301,6 +239,21 @@
     "genre": "Piano"
   },
   {
+    "id": "riviera-theatre-double-vision",
+    "band": "Double Vision: The Foreigner Experience",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-02T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: March 17 @ 12:00PM — Public On Sale: March 20 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Double Vision delivers the most energizing performance you…",
+    "eventUrl": "https://rivieratheatre.org/event/double-vision/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "babeville-chris-collins",
     "band": "Chris Collins",
     "venue": "Babeville",
@@ -370,6 +323,35 @@
     "genre": "Rock"
   },
   {
+    "id": "mohawk-place-2026-10-02-willi-carlisle-the-universal-bubba-tour-w-creekb",
+    "band": "Willi Carlisle — The Universal Bubba Tour, w/ Creekbed Carter Hogan",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-02T20:00:00-04:00",
+    "price": "$20 adv / $25 dos",
+    "summary": "After Dark Presents",
+    "eventUrl": "https://www.facebook.com/events/1067782242484775",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Folk"
+  },
+  {
+    "id": "the-cave-the-dmv-perform-the-music-of-the-cars-the-cave",
+    "band": "The DMV Perform the Music of The Cars",
+    "venue": "The Cave",
+    "startsAt": "2026-10-02T20:00:00-04:00",
+    "summary": "The Cave presents The DMV Perform the Music of The Cars Friday, October 2, 2026 7pm Doors, 8pm Showtime $15ad+Online Fee , $20 at the door",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-dmv-perform-the-music-of-the-cars-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "the-caz-songbirds-a-tribute-to-fleetwood-mac-the-white-album-tour-75-76-02-oct",
     "band": "SONGBIRDS: A Tribute To Fleetwood Mac / The White Album Tour '75-76",
     "venue": "The Caz",
@@ -422,6 +404,20 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
+  },
+  {
+    "id": "bpo-coco-film-in-concert",
+    "band": "Coco in Concert | Live to Film",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-03T14:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Samuel Hollister, conductor Experience Coco in the most immersive way possible, with the full film projected overhead while the BPO performs Michael Giacchino’s score live. The story follows Miguel, a young boy who dreams of becoming a…",
+    "eventUrl": "https://bpo.org/event/coco-film-in-concert/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "nietzsches-celtic-sessions-october",
@@ -478,6 +474,21 @@
     "genre": "Rock"
   },
   {
+    "id": "riviera-theatre-mike-delguidice",
+    "band": "Mike DelGuidice – Live In Concert",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-03T19:30:00-04:00",
+    "price": "$39",
+    "summary": "Buy Tickets Riviera Subscriber Presale: March 31 @ 12:00PM — Public On Sale: April 3 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Mike DelGuidice is one of Long Island’s most celebrated…",
+    "eventUrl": "https://rivieratheatre.org/event/mike-delguidice/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "buffalo-iron-works-dead-again-type-o-negative-tribute-w-issues-korn-tribute",
     "band": "Dead Again — Type O Negative Tribute w/ Issues (Korn Tribute)",
     "venue": "Buffalo Iron Works",
@@ -508,6 +519,21 @@
     "genre": "Rock"
   },
   {
+    "id": "mohawk-place-2026-10-03-th1nk-mu2ik",
+    "band": "Th1nk Mu2ik",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-03T20:00:00-04:00",
+    "price": "$10",
+    "summary": "Live vocals and drums paired with unique-sounding backing tracks that blend EDM, DnB, and electronica with jazz and rock.",
+    "eventUrl": "https://www.facebook.com/events/2207963603937319",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "EDM"
+  },
+  {
     "id": "nietzsches-ivyshome-and-friends",
     "band": "Ivy’s Home, Watch Your Step, and Birddog",
     "venue": "Nietzsche's",
@@ -518,6 +544,34 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "sportsmens-tavern-micky-and-the-motorcars-acoustic-jason-eady-sportsmens",
+    "band": "Micky and the Motorcars (Acoustic) / Jason Eady",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-03T20:00:00-04:00",
+    "summary": "Sportsmens presents Micky and the Motorcars (Acoustic) / Jason Eady Saturday, October 3, 2026 8pm $25.00 + Online Fee For a handful of summers about 30 years ago, tourists who wandered into a large dancehall in Stanley, Idaho, witnessed a family tradition finding new life.…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/micky-and-the-motorcars-acoustic-jason-eady-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Country"
+  },
+  {
+    "id": "the-cave-coat-of-many-colors-a-celebration-of-the-life-music-legacy-of-dolly-parton-the-cave",
+    "band": "Coat of Many Colors A Celebration of the Life, Music & Legacy of Dolly Parton",
+    "venue": "The Cave",
+    "startsAt": "2026-10-03T20:00:00-04:00",
+    "summary": "TICKETS PURCHASED FOR THE 9/18 DATE WILL BE HONORED FOR THIS DATE The Cave presents Coat of Many Colors A Celebration of the Life, Music & Legacy of Dolly Parton Benefitting Dolly Partons Imagination Library Saturday, October 3, 2026 7pm Doors, 8pm Showtime $20.00 + Online Fee",
+    "eventUrl": "https://sportsmensbuffalo.com/single/coat-of-many-colors-a-celebration-of-the-life-music-legacy-of-dolly-parton-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Country"
   },
   {
     "id": "the-caz-the-arcade-live-music-tribute-to-the-80s-03-oct",
@@ -627,6 +681,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "sportsmens-tavern-the-gibson-brothers-sportsmens",
+    "band": "The Gibson Brothers",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-04T18:00:00-04:00",
+    "summary": "Sportsmens presents The Gibson Brothers Sunday, October 4, 2026 $30.00 + Online Fees 4pm Doors, 6pm Showtime The Gibson Brothers There’s a reason why Ricky Skaggs pulled Eric and Leigh Gibson off the stage at the Ryman two decades ago and offered to produce their debut record.…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-gibson-brothers-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Bluegrass"
   },
   {
     "id": "the-caz-it-s-a-mxtery-in-the-kingdom-drag-mystery-dinner-experience-04-oct",
@@ -751,6 +819,19 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Country"
+  },
+  {
+    "id": "mohawk-place-2026-10-06-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-06T19:00:00-04:00",
+    "price": "$10",
+    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766045019606",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "buffalo-iron-works-goodbye-june-w-danny-worsnop",
@@ -1106,6 +1187,21 @@
     "genre": "Jam"
   },
   {
+    "id": "riviera-theatre-night-fever-1",
+    "band": "Night Fever – A Tribute to The Bee Gees",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-09T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 7 @ 12:00PM — Public On Sale: April 10 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Night Fever is widely recognized as the largest and most…",
+    "eventUrl": "https://rivieratheatre.org/event/night-fever-1/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "babeville-spencer-lajoye",
     "band": "Spencer LaJoye",
     "venue": "Babeville",
@@ -1132,6 +1228,19 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Country"
+  },
+  {
+    "id": "mohawk-place-2026-10-09-leon-trout",
+    "band": "Leon Trout",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-09T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-more-country-hintz-of-thunder-live",
@@ -1175,6 +1284,18 @@
     "genre": "Classical"
   },
   {
+    "id": "duende-3494549",
+    "band": "David \"The Waz\" Wasik",
+    "venue": "Duende",
+    "startsAt": "2026-10-10T15:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494549",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-celtic-sessions-october-yhw2w",
     "band": "Celtic Sessions",
     "venue": "Nietzsche's",
@@ -1214,6 +1335,19 @@
     }
   },
   {
+    "id": "duende-3494553",
+    "band": "Timbre",
+    "venue": "Duende",
+    "startsAt": "2026-10-10T18:00:00-04:00",
+    "summary": "MAIN BAR STAGE",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494553",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "town-ballroom-the-disco-biscuits-night-2-3",
     "band": "The Disco Biscuits [NIGHT 2]",
     "venue": "Town Ballroom",
@@ -1225,6 +1359,20 @@
       "url": "https://townballroom.com/events/"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "bpo-francis-2026-10-10",
+    "band": "Francis: An Oratorio in Nine Scenes",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-10T19:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Experience a major world premiere as the BPO brings Richard Danielpour’s Francis: An Oratorio in Nine Scenes to life — an expansive new work inspired by St. Francis of Assisi and marking the 800th anniversary of his death. Through…",
+    "eventUrl": "https://bpo.org/event/francis/2026-10-10/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "rec-room-ian-mcconnell",
@@ -1239,6 +1387,21 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Indie"
+  },
+  {
+    "id": "riviera-theatre-night-fever-2",
+    "band": "Night Fever – A Tribute to The Bee Gees",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-10T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 7 @ 12:00PM — Public On Sale: April 10 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Night Fever is widely recognized as the largest and most…",
+    "eventUrl": "https://rivieratheatre.org/event/night-fever-2/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-halloween-silent-disco-2",
@@ -1271,6 +1434,20 @@
     "genre": "Comedy"
   },
   {
+    "id": "mohawk-place-2026-10-10-the-effigies-perilous-acoustic-distortion-disord",
+    "band": "The Effigies, Perilous, Acoustic Distortion Disorder, Brutal Llama, Disorderly House",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-10T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Punk"
+  },
+  {
     "id": "nietzsches-emo-night-2026",
     "band": "Emo Night ft Off the Wall",
     "venue": "Nietzsche's",
@@ -1282,6 +1459,34 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Emo"
+  },
+  {
+    "id": "sportsmens-tavern-fred-eaglesmith-sportsmens",
+    "band": "Fred Eaglesmith",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-10T20:00:00-04:00",
+    "summary": "Sportsmens presents Fred Eaglesmith Satruday, October 10, 2026 8pm $50.00 + Online Fee FRED EAGLESMITH & The Full Band Fred Eaglesmith has played them all; from television’s The Late Show with David Letterman to the legendary Grand Ole Opry in Nashville to the refined acoustics…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/fred-eaglesmith-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Americana"
+  },
+  {
+    "id": "the-cave-powerslave-iron-maiden-tribute-the-cave",
+    "band": "Powerslave Iron Maiden Tribute",
+    "venue": "The Cave",
+    "startsAt": "2026-10-10T20:00:00-04:00",
+    "summary": "The Cave presents Powerslave WNY Tribute to Iron Maiden Saturday, October 10, 2026 7pm doors, 8pm showtime $10",
+    "eventUrl": "https://sportsmensbuffalo.com/single/powerslave-iron-maiden-tribute-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Metal"
   },
   {
     "id": "the-caz-rick-matthews-more-questionable-judgment-comedy-session-the-caz-10-oct",
@@ -1341,6 +1546,20 @@
     "genre": "German"
   },
   {
+    "id": "bpo-francis-2026-10-11",
+    "band": "Francis: An Oratorio in Nine Scenes",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-11T14:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Experience a major world premiere as the BPO brings Richard Danielpour’s Francis: An Oratorio in Nine Scenes to life — an expansive new work inspired by St. Francis of Assisi and marking the 800th anniversary of his death. Through…",
+    "eventUrl": "https://bpo.org/event/francis/2026-10-11/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "nietzsches-grateful-dans-oct-2026",
     "band": "The Grateful Dans",
     "venue": "Nietzsche's",
@@ -1378,6 +1597,20 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
+  },
+  {
+    "id": "sportsmens-tavern-the-claudettes-sportmens",
+    "band": "The Claudettes",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-11T17:00:00-04:00",
+    "summary": "Sportsmens presents The Claudettes Sunday, October 11, 2026 $15/ad + Online fee, $20door 5pm Doors, 7pm Showtime Six albums into their lauded career, the Claudettes continue to put a fascinating spin on American roots music with their 2026 Pravda Records album GARAGE GLAMOUR.…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-claudettes-sportmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Blues"
   },
   {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb",
@@ -1516,6 +1749,19 @@
     "genre": "Open Mic"
   },
   {
+    "id": "duende-3494547",
+    "band": "Chess @ the Silos",
+    "venue": "Duende",
+    "startsAt": "2026-10-13T18:00:00-04:00",
+    "summary": "Monthly on every second Tuesday Free to enter! Trophy Awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494547",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j",
     "band": "The Steam Donkeys",
     "venue": "Nietzsche's",
@@ -1585,6 +1831,34 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Blues"
+  },
+  {
+    "id": "mohawk-place-2026-10-13-inter-arma-chained-to-the-bottom-of-the-ocean",
+    "band": "Inter Arma, Chained To The Bottom Of The Ocean",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-13T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Metal"
+  },
+  {
+    "id": "rec-room-inter-arma-with-chained-to-the-botton-of-the-ocean",
+    "band": "Inter Arma with Chained To The Botton Of The Ocean",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-13T20:00:00-04:00",
+    "summary": "With Inter Arma, Chained To The Bottom Of The Ocean, One Way Terror, Cemetery Echo. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/inter-arma-with-chained-to-the-botton-of-the-ocean/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Metal"
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
@@ -1723,6 +1997,20 @@
     "genre": "Rock"
   },
   {
+    "id": "kleinhans-sigrid-nunez",
+    "band": "BABEL | Sigrid Nunez",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-14T19:30:00-04:00",
+    "summary": "Just Buffalo Literary Center presents BABEL featuring Sigrid Nunez Wednesday, October 14, 2026 7:30 pm Doors open at 6:30 p.m. Author Reception for Premium Access ticketholders starts at 6:30pm Join Just Buffalo Literary Center’s BABEL Author Series for an evening with Sigrid…",
+    "eventUrl": "https://kleinhansbuffalo.org/event/sigrid-nunez/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://kleinhansbuffalo.org/events/"
+    },
+    "genre": "Talk"
+  },
+  {
     "id": "babeville-fuzzy-the-rustbelts",
     "band": "Fuzzy & The Rustbelts",
     "venue": "Babeville",
@@ -1802,6 +2090,35 @@
     }
   },
   {
+    "id": "sportsmens-tavern-the-voltage-hogs-feat-jamie-holka-sportsmens",
+    "band": "The Voltage Hogs feat. Jamie Holka",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-15T18:00:00-04:00",
+    "summary": "Sportsmens presents The Voltage Hogs feat. Jamie Holka Thursday, October 15, 2026 6pm $10 + Online fee",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-voltage-hogs-feat-jamie-holka-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "riviera-theatre-darci-lynne",
+    "band": "Darci Lynne: 2026 Growing Pains Tour",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-15T19:00:00-04:00",
+    "price": "$49 – $64",
+    "summary": "Buy Tickets Riviera Subscriber Presale: March 31 @ 12:00PM — Public On Sale: April 3 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. America’s Got Talent winner Darci Lynne returns with her…",
+    "eventUrl": "https://rivieratheatre.org/event/darci-lynne/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Comedy"
+  },
+  {
     "id": "town-ballroom-tab-benoit-with-ghalia-volt",
     "band": "Tab Benoit with Ghalia Volt",
     "venue": "Town Ballroom",
@@ -1841,6 +2158,19 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "mohawk-place-2026-10-15-mark-winters",
+    "band": "Mark Winters",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-15T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "nietzsches-rigometrics-buffalo",
@@ -1924,6 +2254,35 @@
     "genre": "Rock"
   },
   {
+    "id": "bpo-a-gospel-symphony-tribute-to-richard-smallwood",
+    "band": "A Gospel Symphony Tribute to Richard Smallwood",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-16T19:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text]This concert honors a towering figure in gospel music, Richard Smallwood, through the combined power of orchestra and choir. The BPO joins the Buffalo United Community Choir for an evening rooted in faith, artistry, and the kind of music that…",
+    "eventUrl": "https://bpo.org/event/a-gospel-symphony-tribute-to-richard-smallwood/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "riviera-theatre-brain-damage",
+    "band": "Brain Damage – A Tribute to Pink Floyd",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-16T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 7 @ 12:00PM — Public On Sale: April 10 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Get ready to be blown away by Brain Damage! This phenomenal…",
+    "eventUrl": "https://rivieratheatre.org/event/brain-damage/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "babeville-pavlo-and-band-in-concert",
     "band": "Pavlo and Band in concert!",
     "venue": "Babeville",
@@ -1982,6 +2341,20 @@
     "genre": "Rock"
   },
   {
+    "id": "mohawk-place-2026-10-16-nini-seven-kingdoms",
+    "band": "NINI, Seven Kingdoms",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Metal"
+  },
+  {
     "id": "nietzsches-big-deep-buffalo",
     "band": "Big Deep ft Jordan Fairless (Formerly of Spafford) wsg Evergreen Echoes",
     "venue": "Nietzsche's",
@@ -1993,6 +2366,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "the-cave-analog-kids-rush-tribute-the-cave-2",
+    "band": "Analog Kids RUSH Tribute",
+    "venue": "The Cave",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "summary": "The Cave presents Analog Kids RUSH Tribute Friday, October 16, 2024 $20.00 + online fee 7pm Doors, 8pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/analog-kids-rush-tribute-the-cave-2/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "duende-3448702",
@@ -2062,6 +2449,35 @@
     "genre": "Americana"
   },
   {
+    "id": "bpo-smooth-sailing-yacht-rock-of-the-70s-80s",
+    "band": "Smooth Sailing: Yacht Rock of the ’70s & ’80s",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-17T19:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Jason Seber, conductor Morgan James, vocals Doug Wamble, guitar, vocals John Scarpulla, saxophone, vocals This is your soundtrack in full color, breezy, nostalgic, and built for a true night out. With Jason Seber conducting, vocalist…",
+    "eventUrl": "https://bpo.org/event/smooth-sailing-yacht-rock-of-the-70s-80s/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "riviera-theatre-micky-dolenz",
+    "band": "Micky Dolenz – 60 Years of The Monkees",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-17T19:30:00-04:00",
+    "price": "$64 – $84",
+    "summary": "Buy Tickets Riviera Member Presale: November 13 @ 10:00AM — Public On Sale: November 14 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Presented by Latshaw Productions: Micky is best known as…",
+    "eventUrl": "https://rivieratheatre.org/event/micky-dolenz/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "babeville-vincent-neil-emerson",
     "band": "Vincent Neil Emerson with Hayden Redwine",
     "venue": "Babeville",
@@ -2090,6 +2506,19 @@
     "genre": "Rock"
   },
   {
+    "id": "mohawk-place-2026-10-17-doug-paul-memorial-show",
+    "band": "Doug Paul Memorial Show",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-17T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "nietzsches-hell-ever-after",
     "band": "Hell Ever After, Velvet Bethany, & Amish Noise",
     "venue": "Nietzsche's",
@@ -2100,6 +2529,20 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "sportsmens-tavern-heart-attacks-valentines-all-the-racket-in-the-world-the-music-of-tom-waits-sportsmens",
+    "band": "Heart Attacks & Valentines All The Racket In The World The Music of Tom Waits",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-17T20:00:00-04:00",
+    "summary": "Sportsmens presents Heart Attacks & Valentines All The Racket In The World The Music of Tom Waits Saturday, October 17, 2026 8pm $20.00 + Online fee",
+    "eventUrl": "https://sportsmensbuffalo.com/single/heart-attacks-valentines-all-the-racket-in-the-world-the-music-of-tom-waits-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Americana"
   },
   {
     "id": "the-caz-wny-s-hi-octane-dueling-pianos-17-oct",
@@ -2360,6 +2803,19 @@
     }
   },
   {
+    "id": "mohawk-place-2026-10-20-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-20T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2",
     "band": "Rust Belt Comedy Showcase",
     "venue": "Nietzsche's",
@@ -2384,6 +2840,18 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Burlesque"
+  },
+  {
+    "id": "duende-3494567",
+    "band": "Sara Elizabeth",
+    "venue": "Duende",
+    "startsAt": "2026-10-21T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494567",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-trad-jazz",
@@ -2511,6 +2979,18 @@
     }
   },
   {
+    "id": "duende-3494579",
+    "band": "Chris Panfil",
+    "venue": "Duende",
+    "startsAt": "2026-10-22T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494579",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-davey-o",
     "band": "Davey O",
     "venue": "Nietzsche's",
@@ -2593,6 +3073,20 @@
     "genre": "Blues"
   },
   {
+    "id": "bpo-glidden-plays-bruch-2026-10-23",
+    "band": "Glidden Plays Bruch",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-23T10:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]This program offers a satisfying arc from the new to the beloved. BPO Associate concertmaster Amy Glidden joins JoAnn Falletta for Bruch’s Violin Concerto No. 1, a Romantic favorite filled with lyricism, drama, and heart. You will also…",
+    "eventUrl": "https://bpo.org/event/glidden-plays-bruch/2026-10-23/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-5",
     "band": "Oktoberfest LIVE German Music – Die Haus Band",
     "venue": "Hofbräuhaus Buffalo",
@@ -2619,6 +3113,18 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Metal"
+  },
+  {
+    "id": "duende-3494581",
+    "band": "Lo Blue Flame",
+    "venue": "Duende",
+    "startsAt": "2026-10-23T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494581",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-daves-anniversary",
@@ -2659,6 +3165,21 @@
     "genre": "Americana"
   },
   {
+    "id": "riviera-theatre-seconds-out",
+    "band": "Seconds Out – A Tribute to the Music of Genesis",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-23T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 14 @ 12:00PM — Public On Sale: April 17 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Seconds Out: A Tribute to the Music of Genesis is a…",
+    "eventUrl": "https://rivieratheatre.org/event/seconds-out/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "buffalo-iron-works-jimkata",
     "band": "Jimkata w/ Sophistafunk",
     "venue": "Buffalo Iron Works",
@@ -2686,6 +3207,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Electronic"
+  },
+  {
+    "id": "mohawk-place-2026-10-23-uncle-ben-s-remedy-folkfaces-witty-tarbox-kevin-",
+    "band": "Uncle Ben’s Remedy, Folkfaces, Witty Tarbox, Kevin Sampson and the Night Shift",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-23T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Folk"
   },
   {
     "id": "nietzsches-staff-johnson-gaoh-socialite",
@@ -2769,6 +3304,18 @@
     "genre": "German"
   },
   {
+    "id": "duende-3494584",
+    "band": "Maria Aurigema",
+    "venue": "Duende",
+    "startsAt": "2026-10-24T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494584",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "buffalo-riverworks-Z7r9jZ1A7J3_z",
     "band": "Thundercat w/ TiaCorine",
     "venue": "Buffalo RiverWorks",
@@ -2795,6 +3342,20 @@
       "url": "https://www.thecazbuffalo.com/shows"
     },
     "genre": "Soul"
+  },
+  {
+    "id": "bpo-glidden-plays-bruch-2026-10-24",
+    "band": "Glidden Plays Bruch",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-24T19:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]This program offers a satisfying arc from the new to the beloved. BPO Associate concertmaster Amy Glidden joins JoAnn Falletta for Bruch’s Violin Concerto No. 1, a Romantic favorite filled with lyricism, drama, and heart. You will also…",
+    "eventUrl": "https://bpo.org/event/glidden-plays-bruch/2026-10-24/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "buffalo-iron-works-songbirds-a-tribute-to-fleetwood-mac-4",
@@ -2824,6 +3385,33 @@
       "url": "https://electriccity.com/"
     },
     "genre": "DJ"
+  },
+  {
+    "id": "mohawk-place-2026-10-24-axioma-radian-funeral-dancer-feverhawk-bifurcate",
+    "band": "Axioma, Radian, Funeral Dancer, Feverhawk, Bifurcate",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-24T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-cave-big-shrimp-the-cave",
+    "band": "Big Shrimp",
+    "venue": "The Cave",
+    "startsAt": "2026-10-24T20:00:00-04:00",
+    "summary": "The Cave presents Big Shrimp Saturday, October 24, 2026 7pm Doors, 8pm Show $15.00 + Online fee Big Shrimp is a young high-octane progressive improvised rock quartet formed in 2024 in Bridgeport, Connecticut, blending danceable funk, exploratory rock, and fearless improvisation…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/big-shrimp-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Funk"
   },
   {
     "id": "town-ballroom-deathpact-presents-from-darkness-comes-light-eclipsed",
@@ -2877,6 +3465,47 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "riviera-theatre-rocky-horror-2026",
+    "band": "Rocky Horror Picture Show 2026: Rocky at the Riv",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-24T22:00:00-04:00",
+    "price": "$20 – $35",
+    "summary": "Buy Tickets Riviera Subscriber Presale: June 9 @ 12:00PM — Public On Sale: June 12 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Rocky at the Riv is back again for 2026! The night begins at…",
+    "eventUrl": "https://rivieratheatre.org/event/rocky-horror-2026/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    }
+  },
+  {
+    "id": "sportsmens-tavern-23rd-annual-female-musicians-fighting-breast-cancer-sportsmens",
+    "band": "23rd Annual Female Musicians Fighting Breast Cancer",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-25T13:00:00-04:00",
+    "summary": "Sportsmens presents 23rd Annual Female Musicians Fighting Breast Cancer Sunday, October 25, 2026 1pm $10.00 + Online Fee",
+    "eventUrl": "https://sportsmensbuffalo.com/single/23rd-annual-female-musicians-fighting-breast-cancer-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "bpo-symphonic-spooktacular",
+    "band": "Symphonic Spooktacular",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-25T14:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text]Costumes encouraged and curiosity required. Symphonic Spooktacular is a family-friendly way to celebrate the season with spooky music, big orchestral sounds, and a concert hall that feels welcoming and playful. With Grant O’Brien conducting,…",
+    "eventUrl": "https://bpo.org/event/symphonic-spooktacular/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "electric-city-hocus-pocus-taste-a-long-experience",
@@ -2933,6 +3562,20 @@
     "genre": "Jazz"
   },
   {
+    "id": "the-cave-the-empty-pockets-the-cave",
+    "band": "The Empty Pockets",
+    "venue": "The Cave",
+    "startsAt": "2026-10-25T16:00:00-04:00",
+    "summary": "The Cave presents The Empty Pockets Sunday, October 25, 2026 3pm Doors, 4pm Showtime $20.00ad + Online fee/ $25.00 at the door The Empty Pockets are a Chicago based quartet blending blues, Americana, folk, and rock and roll with a streak of roots soul. The band features Josh…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-empty-pockets-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Blues"
+  },
+  {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
     "band": "Piano Party w Ann Philippone",
     "venue": "Nietzsche's",
@@ -2946,6 +3589,20 @@
     "genre": "Piano"
   },
   {
+    "id": "rec-room-dark-divine-with-special-guests",
+    "band": "Dark Divine – With Special Guests",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-25T18:30:00-04:00",
+    "summary": "With Dark Divine, Fire From the Gods, Outlier, Nightmares, Thorns for Lovers. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dark-divine-with-special-guests/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Metal"
+  },
+  {
     "id": "duende-3365112",
     "band": "Jungle Steve + Jacob Pere + Philip Stephen",
     "venue": "Duende",
@@ -2956,20 +3613,6 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
-  },
-  {
-    "id": "rec-room-dark-divine-with-special-guests",
-    "band": "Dark Divine – With Special Guests",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-25T19:00:00-04:00",
-    "summary": "With Dark Divine, Fire From the Gods, Outlier. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/dark-divine-with-special-guests/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Metal"
   },
   {
     "id": "the-caz-paul-todaro-the-standards-caz-supper-club-25-oct",
@@ -3082,6 +3725,19 @@
     "genre": "Folk"
   },
   {
+    "id": "mohawk-place-2026-10-27-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-27T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2-hs2k3",
     "band": "Rust Belt Comedy Showcase",
     "venue": "Nietzsche's",
@@ -3106,6 +3762,18 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Burlesque"
+  },
+  {
+    "id": "duende-3494585",
+    "band": "Mark Dux & the Bender Project",
+    "venue": "Duende",
+    "startsAt": "2026-10-28T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494585",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-tender-tyler",
@@ -3149,6 +3817,20 @@
     "genre": "Open Mic"
   },
   {
+    "id": "sportsmens-tavern-marshall-crenshaw-band-sportsmens",
+    "band": "Marshall Crenshaw Band wsg Sarah Borges & Eric Ambel",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-10-28T19:00:00-04:00",
+    "summary": "Sportsmens presents Marshall Crenshaw wsg Sarah Borges & Eric Ambel Wednesday, October 28, 2026 5pm Doors, 7pm Show $40.00 + Online fee Born in 1953 in Detroit, Michigan, Marshall Crenshaw learned to tune a guitar correctly at age ten and has been trying ever since. His first…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/marshall-crenshaw-band-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-the-1950-s-ft-the-hubcaps-28-oct",
     "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - The 1950's ft. The Hubcaps",
     "venue": "The Caz",
@@ -3162,6 +3844,20 @@
       "url": "https://www.thecazbuffalo.com/shows"
     },
     "genre": "Talk"
+  },
+  {
+    "id": "riviera-theatre-vampire-circus",
+    "band": "The Vampire Circus – The Scariest Side of Cirque",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-28T19:30:00-04:00",
+    "price": "$48 – $68",
+    "summary": "Buy Tickets Riviera Subscriber Presale: June 9 @ 12:00PM — Public On Sale: June 12 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. The Vampire Circus has been called a mix of circus, cabaret,…",
+    "eventUrl": "https://rivieratheatre.org/event/vampire-circus/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    }
   },
   {
     "id": "babeville-maddie-zahm-everything-all-the-time-tour",
@@ -3214,6 +3910,21 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Metal"
+  },
+  {
+    "id": "the-caz-scott-celani-band-tom-petty-tribute-29-oct",
+    "band": "Scott Celani Band: Tom Petty Tribute",
+    "venue": "The Caz",
+    "startsAt": "2026-10-29T19:00:00-04:00",
+    "price": "$20–$25",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/scott-celani-band-tom-petty-tribute-29-oct",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Rock"
   },
   {
     "id": "town-ballroom-dogs-in-a-pile-kitchen-dwellers",
@@ -3310,6 +4021,20 @@
     }
   },
   {
+    "id": "bpo-bpo-upclose-1",
+    "band": "BPO UpClose: How Music Speaks",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-30T19:00:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text]Sit close to the musicians and experience classical music from an entirely new perspective. Amy Glidden and Jonathan Borden lead this intimate, informal performance, sharing the stories behind short classical works while the audience surrounds…",
+    "eventUrl": "https://bpo.org/event/bpo-upclose-1/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "the-caz-the-thurman-brothers-band-the-music-of-the-allman-brothers-23-may",
     "band": "THE THURMAN BROTHERS BAND - The Music Of The Allman Brothers",
     "venue": "The Caz",
@@ -3321,6 +4046,21 @@
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "riviera-theatre-romeo-delight",
+    "band": "Romeo Delight: America’s Van Halen Experience",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-10-30T19:30:00-04:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 21 @ 12:00PM — Public On Sale: April 24 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Romeo Delight is an award-winning Van Halen experience…",
+    "eventUrl": "https://rivieratheatre.org/event/romeo-delight/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
   },
@@ -3352,6 +4092,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "mohawk-place-2026-10-30-the-leones-nervous-dynamite",
+    "band": "The Leones, Nervous Dynamite",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-30T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Indie"
   },
   {
     "id": "nietzsches-irving-halloween",
@@ -3501,6 +4255,34 @@
     "genre": "Hip-Hop"
   },
   {
+    "id": "bpo-hauntingly-halloween",
+    "band": "Hauntingly Halloween",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-10-31T19:30:00-04:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]On Halloween night, the BPO transforms Kleinhans into a world of shadow, suspense, and orchestral storytelling. Led by Ron Spigelman, this hauntingly atmospheric program brings together music made for goosebumps, from John Williams’…",
+    "eventUrl": "https://bpo.org/event/hauntingly-halloween/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "mohawk-place-2026-10-31-halloween-party-the-glam-vamps-the-spit-sisters-",
+    "band": "Halloween Party: The Glam Vamps, The Spit Sisters, Racehearse, DJ Boobie Riot",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-10-31T20:00:00-04:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "DJ"
+  },
+  {
     "id": "nietzsches-stripteasers-halloween-2026",
     "band": "The Stripteasers Halloween",
     "venue": "Nietzsche's",
@@ -3638,6 +4420,19 @@
     "genre": "Americana"
   },
   {
+    "id": "mohawk-place-2026-11-03-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-03T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-04",
     "band": "Open Mic + Wing Night",
     "venue": "Hofbräuhaus Buffalo",
@@ -3681,6 +4476,21 @@
     "genre": "Rock"
   },
   {
+    "id": "riviera-theatre-geoff-tate",
+    "band": "Geoff Tate’s Operation: Mindcrime – The Final Chapter",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-04T19:30:00-05:00",
+    "price": "$39",
+    "summary": "Buy Tickets Riviera Subscriber Presale: March 26 @ 10:00AM — Public On Sale: March 27 @ 12:00PM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Multi-platinum selling, Grammy-nominated singer/songwriter…",
+    "eventUrl": "https://rivieratheatre.org/event/geoff-tate/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Metal"
+  },
+  {
     "id": "babeville-kurt-vile-the-violators-w-twisted-teens",
     "band": "Kurt Vile & The Violators w/ Twisted Teens",
     "venue": "Babeville",
@@ -3708,6 +4518,18 @@
     }
   },
   {
+    "id": "duende-3494601",
+    "band": "Wind & Wire",
+    "venue": "Duende",
+    "startsAt": "2026-11-05T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494601",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "town-ballroom-hurricane-wisdom-weathering-the-world",
     "band": "Hurricane Wisdom: Weathering The World",
     "venue": "Town Ballroom",
@@ -3719,6 +4541,21 @@
       "url": "https://townballroom.com/events/"
     },
     "genre": "Hip-Hop"
+  },
+  {
+    "id": "riviera-theatre-night-ranger",
+    "band": "NIGHT RANGER – Live In Concert",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-05T19:30:00-05:00",
+    "price": "$69 – $79",
+    "summary": "Buy Tickets Riviera Subscriber Presale: May 28 @ 10:00AM — Public On Sale: May 29 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Few bands have defined the sound of American rock music quite…",
+    "eventUrl": "https://rivieratheatre.org/event/night-ranger/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-kendall-street-company-w-roy-g-biv",
@@ -3746,6 +4583,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Bluegrass"
+  },
+  {
+    "id": "bpo-bronfman-plays-mozart-2026-11-06",
+    "band": "Bronfman Plays Mozart",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-06T10:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””] JoAnn Falletta, conductor Yefim Bronfman, piano JOHN ADAMS The Chairman Dances MOZART Piano Concerto No. 24 R. STRAUSS Also Sprach Zarathustra Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance,…",
+    "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-06/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-06",
@@ -3791,6 +4642,21 @@
     "genre": "Rock"
   },
   {
+    "id": "riviera-theatre-zepp-reimagined-1",
+    "band": "Zeppelin Reimagined",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-06T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 14 @ 12:00PM — Public On Sale: April 17 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. From the creators of Magical Mystery Doors comes Zeppelin…",
+    "eventUrl": "https://rivieratheatre.org/event/zepp-reimagined-1/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "buffalo-iron-works-upstate",
     "band": "Upstate w/ Socialite",
     "venue": "Buffalo Iron Works",
@@ -3803,6 +4669,32 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Folk"
+  },
+  {
+    "id": "mohawk-place-2026-11-06-after-show-isded-tunic-queen-city-collective",
+    "band": "After show: isded, Tunic, Queen City Collective",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-11-06-silver-proof-mickey-moone-skamagotchi-heart-for-",
+    "band": "Silver Proof, Mickey Moone, Skamagotchi, Heart For Sale",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
@@ -3874,6 +4766,35 @@
     "genre": "Rock"
   },
   {
+    "id": "bpo-bronfman-plays-mozart-2026-11-07",
+    "band": "Bronfman Plays Mozart",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-07T19:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””] JoAnn Falletta, conductor Yefim Bronfman, piano JOHN ADAMS The Chairman Dances MOZART Piano Concerto No. 24 R. STRAUSS Also Sprach Zarathustra Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance,…",
+    "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-07/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "riviera-theatre-zepp-reimagined-2",
+    "band": "Zeppelin Reimagined",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-07T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 14 @ 12:00PM — Public On Sale: April 17 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. From the creators of Magical Mystery Doors comes Zeppelin…",
+    "eventUrl": "https://rivieratheatre.org/event/zepp-reimagined-2/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "buffalo-iron-works-austin-snell",
     "band": "Austin Snell w/ Brooke Lee",
     "venue": "Buffalo Iron Works",
@@ -3888,6 +4809,19 @@
     "genre": "Country"
   },
   {
+    "id": "mohawk-place-2026-11-07-amateur-hockey-club-we-were-blank-johnny-the-man",
+    "band": "Amateur Hockey Club, We Were Blank, Johnny & the Man Kids, Skyway",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-07T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "nietzsches-mono-means-one-buffalo",
     "band": "Mono Means One",
     "venue": "Nietzsche's",
@@ -3899,6 +4833,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "sportsmens-tavern-the-sheila-divine-wsg-will-dailey-sportsmens",
+    "band": "The Sheila Divine wsg/Will Dailey",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-07T20:00:00-05:00",
+    "summary": "Sportsmens presents The Sheila Divine wsg/Will Dailey Saturday, November 7, 2026 $25.00 + online fee 7pm Doors, 8pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-sheila-divine-wsg-will-dailey-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "town-ballroom-the-emo-night-tour-7",
@@ -3928,6 +4876,20 @@
     "genre": "Jazz"
   },
   {
+    "id": "kleinhans-zuraitis",
+    "band": "Nicole Zuraitis Quintet",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-08T15:00:00-05:00",
+    "summary": "Kleinhans Music Hall and JazzBuffalo are pleased to present The Nicole Zuraitis Quintet Sunday, November 8 | 3 PM The Mary Seaton Room Jazz at Kleinhans proudly welcomes one of the most dynamic and decorated voices in contemporary jazz — two-time GRAMMY® winner and six-time…",
+    "eventUrl": "https://kleinhansbuffalo.org/event/zuraitis/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://kleinhansbuffalo.org/events/"
+    },
+    "genre": "Jazz"
+  },
+  {
     "id": "buffalo-riverworks-000064B4D3463EA0",
     "band": "Alter Bridge - What Lies Within Tour",
     "venue": "Buffalo RiverWorks",
@@ -3940,6 +4902,20 @@
       "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
     },
     "genre": "Metal"
+  },
+  {
+    "id": "sportsmens-tavern-garrett-boys-sportsmens",
+    "band": "Garrett Boys",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-09T19:00:00-05:00",
+    "summary": "Sportsmens presents Garrett Boys Monday, November 9, 2026 5pm Doors/7pm Showtime $15.00 + Online fee Every family has its own unique history, a timeline fleshed out by memorable characters, milestone events, and the stories passed on through the decades that bind it all…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/garrett-boys-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Country"
   },
   {
     "id": "rec-room-buffalo-bills-viewing-party-2026-11-09",
@@ -3996,6 +4972,19 @@
       "url": "https://townballroom.com/events/"
     },
     "genre": "Punk"
+  },
+  {
+    "id": "mohawk-place-2026-11-10-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-10T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "electric-city-pouya-the-forever-glades-tour",
@@ -4055,6 +5044,20 @@
     "genre": "Classical"
   },
   {
+    "id": "kleinhans-both-sides",
+    "band": "Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-11T19:30:00-05:00",
+    "summary": "Kleinhans Music Hall presents Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen Wednesday, November 11 7:30 pm | Doors at 6:30 PM Assigned Seating | The Mary Seaton Room “Two singer-songwriters sit on the edge of a cliff…” With these words, we are drawn…",
+    "eventUrl": "https://kleinhansbuffalo.org/event/both-sides/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://kleinhansbuffalo.org/events/"
+    },
+    "genre": "Folk"
+  },
+  {
     "id": "buffalo-iron-works-bumpin-uglies-orange-crush-tour-w-artikal-sound-system",
     "band": "Bumpin Uglies: Orange Crush Tour w/ Artikal Sound System",
     "venue": "Buffalo Iron Works",
@@ -4067,6 +5070,21 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Reggae"
+  },
+  {
+    "id": "riviera-theatre-blue-october",
+    "band": "Blue October – ‘Foiled’ 20th Anniversary World Tour",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-11T20:00:00-05:00",
+    "price": "$45 – $99",
+    "summary": "Buy Tickets Riviera Subscriber Presale: March 24 @ 12:00PM — Public On Sale: March 27 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Presented by After Dark & 103.3 The Edge: Blue October,…",
+    "eventUrl": "https://rivieratheatre.org/event/blue-october/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "the-caz-furg-comedy-at-the-caz-12-nov",
@@ -4082,6 +5100,21 @@
       "url": "https://www.thecazbuffalo.com/shows"
     },
     "genre": "Comedy"
+  },
+  {
+    "id": "riviera-theatre-hotel-california-12",
+    "band": "Hotel California: The Original Eagles Tribute",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-12T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 21 @ 12:00PM — Public On Sale: April 24 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. For over three decades now, HOTEL CALIFORNIA has been…",
+    "eventUrl": "https://rivieratheatre.org/event/hotel-california-12/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-moonshine-bandits-w-big-murph",
@@ -4110,5 +5143,182 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Punk"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-13",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-13T16:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-13/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "town-ballroom-saosin",
+    "band": "SAOSIN",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-13T18:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/saosin/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "bpo-music-of-the-rolling-stones",
+    "band": "Music of The Rolling Stones",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-13T19:30:00-05:00",
+    "summary": "Bradley Thachuk, conductor Mick Adams, lead vocals Turn up the energy for a night of rock history with full orchestra, live vocals, and the swagger that made The Rolling Stones timeless. With Bradley Thachuk conducting and Mick Adams on lead vocals, these songs get the scale…",
+    "eventUrl": "https://bpo.org/event/music-of-the-rolling-stones/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "riviera-theatre-hotel-california-13",
+    "band": "Hotel California: The Original Eagles Tribute",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-13T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 21 @ 12:00PM — Public On Sale: April 24 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. For over three decades now, HOTEL CALIFORNIA has been…",
+    "eventUrl": "https://rivieratheatre.org/event/hotel-california-13/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "babeville-too-many-zooz-live-in-canada-mostly-tour",
+    "band": "Too Many Zooz: Live in Canada (Mostly!) Tour",
+    "venue": "Babeville",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "summary": "Asbury · Twenty6 Productions and Asbury Arts Center present Too Many Zooz: Live in Canada (Mostly!) Tour live at Asbury Hall",
+    "eventUrl": "https://babevillebuffalo.com/events/too-many-zooz-live-in-canada-mostly-tour/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-twenty6-productions-presents-too-many-zooz-at-asbury-hall",
+    "band": "Twenty6 Productions Presents: Too Many Zooz at Asbury Hall",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/twenty6-productions-presents-too-many-zooz-at-asbury-hall/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-winyah",
+    "band": "Winyah w/ Foxtide",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "summary": "Winyah There’s a raw, restless fire at the heart of Winyah’s music – in the crackle of their guitars, the growl of Thomas Rowland’s voice, and songs that always feel like they’re chasing something just out of reach. With southern swagger, indie rock bite, and an unforgettable…",
+    "eventUrl": "https://buffaloironworks.com/event/winyah/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    },
+    "genre": "Indie"
+  },
+  {
+    "id": "electric-city-hot-in-herre-2000s-dance-party",
+    "band": "Hot In Herre: 2000s Dance Party",
+    "venue": "Electric City",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "price": "$16–$25",
+    "summary": "Hot In Herre: 2000s Dance Party 2000s bangers only. Your favorite songs across every genre. Pop · Hip-Hop · Indie · R&B · Emo · And everything in between Hot In Herre brings all your favorite music of the Y2K era back to the dance floor. Dope DJs behind the decks and…",
+    "eventUrl": "https://electriccity.com/events/hot-in-herre-2000s-dance-party/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "DJ"
+  },
+  {
+    "id": "mohawk-place-2026-11-13-rob-stoner",
+    "band": "Rob Stoner",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-untz-is-dead-day-one",
+    "band": "Untz is Dead ft Allen Aucoin DAY ONE",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/untz-is-dead-day-one",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-toronzo-cannon-13-nov",
+    "band": "TORONZO CANNON",
+    "venue": "The Caz",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "price": "$20–$25",
+    "summary": "Doors 6:30 pm. Show 8:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/toronzo-cannon-13-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-boys-of-summer-live-with-torri",
+    "band": "Boys of Summer LIVE with Torri!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-13T21:00:00-05:00",
+    "summary": "🎉 One of Western New York’s ultimate party bands is taking over the Bierhall! Buffalo Music Hall of Fame members Boys of Summer have been keeping WNY dancing for more than 30 years. Joined by powerhouse vocalist Torri, they’re bringing an incredible mix of rock, pop, dance,…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/boys-of-summer-live-with-torri/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-7",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-13T22:00:00-05:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-7/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Karaoke"
   }
 ]

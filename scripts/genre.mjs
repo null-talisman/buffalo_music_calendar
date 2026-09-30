@@ -22,7 +22,7 @@ const EVENT_PATTERNS = [
   ["Burlesque", /\bburlesque\b|\bdrag\b/],
   ["Comedy", /\bcomedy\b|\bcomedian\b|\bstand-?up\b/],
   ["Piano", /\bdueling pianos\b|\bpiano party\b/],
-  ["Talk", /\bconvo\b|\bmusic history\b|\blecture\b/],
+  ["Talk", /\bconvo\b|\bmusic history\b|\blecture\b|\bbabel\b/],
 ];
 
 // First match wins, so "punk rock" stays Punk and "pop punk" stays Punk.
@@ -40,7 +40,7 @@ const GENRE_PATTERNS = [
   ["Funk", /\bfunk\b/],
   ["Bluegrass", /\bbluegrass\b|\bstring band\b|\bjug ?band\b/],
   ["Jam", /\bjam band\b|\bjam\b/],
-  ["Folk", /\bfolk\b|\bceltic\b|\birish\b|\bacoustic\b/],
+  ["Folk", /\bfolk\b|\bceltic\b|\birish\b/],
   ["Country", /(?<!the )\bcountry\b|\bhonky[-\s]?tonk\b/],
   ["Americana", /\bamericana\b|\bsinger-songwriter\b|\balt-country\b/],
   ["Reggae", /\breggae\b|\bska\b|\bdub\b/],

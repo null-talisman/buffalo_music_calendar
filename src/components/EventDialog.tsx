@@ -36,7 +36,7 @@ export function EventDialog({ show, onClose }: { show: Show; onClose: () => void
         <p className="popup-venue">{show.venue}</p>
         {show.genre ? <GenreTag genre={show.genre} /> : null}
         <h2 id="event-dialog-title">{show.band}</h2>
-        <p className="popup-when">{formatShowWhen(show.startsAt)}</p>
+        <p className="popup-when">{formatShowWhen(show.startsAt, show.timeTbd)}</p>
         {show.price ? <p className="price popup-price">{show.price}</p> : null}
         {show.summary ? <p className="popup-summary">{show.summary}</p> : null}
         <a className="event-link" href={show.eventUrl} target="_blank" rel="noreferrer">
