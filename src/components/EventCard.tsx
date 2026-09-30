@@ -1,5 +1,6 @@
 import type { Show } from "../types";
 import { formatClock } from "../lib/weekend";
+import { GenreTag } from "./GenreTag";
 
 export function EventCard({
   show,
@@ -14,6 +15,7 @@ export function EventCard({
       <span className="event-copy">
         <span className="event-band">{show.band}</span>
         <span className="event-venue">{show.venue}</span>
+        {show.genre ? <GenreTag genre={show.genre} /> : null}
       </span>
       {show.price ? <span className="price">{show.price}</span> : null}
     </button>

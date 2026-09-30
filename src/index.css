@@ -36,7 +36,7 @@ input {
 .page {
   display: flex;
   flex-direction: column;
-  width: min(1120px, calc(100% - 2.5rem));
+  width: min(1280px, calc(100% - 2.5rem));
   min-height: 100vh;
   margin: 0 auto;
   padding: 3.5rem 0 1.75rem;
@@ -86,10 +86,50 @@ h1 {
   color: var(--muted);
 }
 
+.views {
+  display: flex;
+  gap: 0.25rem;
+  width: fit-content;
+  margin-top: 1.15rem;
+  padding: 0.25rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+
+.views button {
+  padding: 0.4rem 0.95rem;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.views button[aria-pressed="true"] {
+  color: var(--ink);
+  background: rgba(141, 116, 255, 0.32);
+}
+
+.views button:hover,
+.views button:focus-visible {
+  color: var(--ink);
+  outline: none;
+}
+
 .board {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
+}
+
+.board-today {
+  grid-template-columns: minmax(0, 34rem);
+}
+
+.board-week {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 0.65rem;
 }
 
 .day {
@@ -101,16 +141,35 @@ h1 {
   border-radius: 18px;
 }
 
-.day-friday {
+.day[data-weekday="5"] {
   border-top-color: var(--purple);
 }
 
-.day-saturday {
+.day[data-weekday="6"] {
   border-top-color: var(--blue);
 }
 
-.day-sunday {
-  border-top-color: var(--stone);
+.board-week .day {
+  min-height: 16rem;
+  padding: 0.85rem 0.7rem 0.3rem;
+}
+
+.board-week .day-num {
+  font-size: 2.1rem;
+}
+
+.board-week .event {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.15rem;
+  padding: 0.75rem 0.1rem;
+}
+
+.board-week .event-band {
+  font-size: 1rem;
+}
+
+.board-week .price {
+  grid-column: 1;
 }
 
 .day-name {
@@ -182,6 +241,44 @@ h1 {
   font-size: 0.92rem;
 }
 
+.tag {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 999px;
+  color: #090814;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.popup .tag {
+  margin-top: 0.55rem;
+}
+
+.tag-rock { background: #e25b45; }
+.tag-punk { background: #ff5d8f; }
+.tag-metal { background: #c5c5d4; }
+.tag-folk { background: #c4a35a; }
+.tag-country { background: #e2b340; }
+.tag-americana { background: #d08a4c; }
+.tag-blues { background: #6aa6ff; }
+.tag-jazz { background: #b9a0ff; }
+.tag-soul { background: #e07a3d; }
+.tag-funk { background: #f2a03d; }
+.tag-hiphop { background: #3dbe8c; }
+.tag-edm { background: #2ec8c8; }
+.tag-electronic { background: #7fd0e8; }
+.tag-reggae { background: #8dce5a; }
+.tag-latin { background: #e08a45; }
+.tag-classical { background: #d9d3c5; }
+.tag-comedy { background: #e2c14a; }
+.tag-karaoke { background: #e59ad0; }
+.tag-dj { background: #f0d48a; }
+.tag-other { background: var(--stone); }
+
 .price {
   grid-column: 2;
   justify-self: start;
@@ -211,6 +308,23 @@ h1 {
   margin: 0;
   color: var(--faint);
   font-size: 0.85rem;
+}
+
+.colophon a {
+  color: var(--stone);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(217, 211, 197, 0.4);
+}
+
+.colophon a:hover,
+.colophon a:focus-visible {
+  color: var(--blue);
+}
+
+.visitors {
+  display: inline-block;
+  margin-top: 0.85rem;
+  height: 1.25rem;
 }
 
 .backdrop {
@@ -308,8 +422,26 @@ h1 {
     padding-top: 2rem;
   }
 
-  .board {
+  .board,
+  .board-today,
+  .board-week {
     grid-template-columns: 1fr;
+  }
+
+  .board-week .day-num {
+    font-size: 3.4rem;
+  }
+
+  .board-week .event {
+    grid-template-columns: 4.6rem minmax(0, 1fr);
+  }
+
+  .board-week .event-band {
+    font-size: 1.2rem;
+  }
+
+  .board-week .price {
+    grid-column: 2;
   }
 
   .day {

@@ -2,6 +2,8 @@
 // events.json carry an Eastern offset, so they land on the right day for
 // anyone viewing from Buffalo.
 
+export type CalendarView = "today" | "weekend" | "week";
+
 export type Weekend = {
   friday: Date;
   saturday: Date;
@@ -33,12 +35,32 @@ export function upcomingWeekend(now: Date = new Date()): Weekend {
   };
 }
 
-/** "Oct 2 – 4" or "Oct 30 – Nov 1" */
-export function formatWeekendRange(weekend: Weekend): string {
-  return new Intl.DateTimeFormat("en-US", {
-    month: "short",
-    day: "numeric",
-  }).formatRange(weekend.friday, weekend.sunday);
+/** Today is one day. Weekend is the coming Friday–Sunday. Week is the next 7 days. */
+export function datesForView(view: CalendarView, now: Date = new Date()): Date[] {
+  const today = startOfDay(now);
+  switch (view) {
+    case "today":
+      return [today];
+    case "weekend": {
+      const weekend = upcomingWeekend(now);
+      return [weekend.friday, weekend.saturday, weekend.sunday];
+    }
+    case "week":
+      return Array.from({ length: 7 }, (_, index) => addDays(today, index));
+    default: {
+      const unhandled: never = view;
+      return unhandled;
+    }
+  }
+}
+
+/** "Sep 29" for one day, "Oct 2 – 4" or "Oct 30 – Nov 1" for a span. */
+export function formatDateSpan(dates: readonly Date[]): string {
+  const first = dates[0];
+  const last = dates[dates.length - 1];
+  const format = new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" });
+  if (!last || sameDay(first.toISOString(), last)) return format.format(first);
+  return format.formatRange(first, last);
 }
 
 /** "Friday" */

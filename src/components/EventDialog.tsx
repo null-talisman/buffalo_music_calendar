@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import type { Show } from "../types";
 import { formatShowWhen } from "../lib/weekend";
+import { GenreTag } from "./GenreTag";
 
 export function EventDialog({ show, onClose }: { show: Show; onClose: () => void }) {
   const closeRef = useRef<HTMLButtonElement>(null);
@@ -33,6 +34,7 @@ export function EventDialog({ show, onClose }: { show: Show; onClose: () => void
           Close
         </button>
         <p className="popup-venue">{show.venue}</p>
+        {show.genre ? <GenreTag genre={show.genre} /> : null}
         <h2 id="event-dialog-title">{show.band}</h2>
         <p className="popup-when">{formatShowWhen(show.startsAt)}</p>
         {show.price ? <p className="price popup-price">{show.price}</p> : null}

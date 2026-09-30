@@ -24,6 +24,12 @@ async function main() {
     }
   }
 
+  for (const show of collected) {
+    const genre = inferGenre(`${show.band} ${show.summary ?? ""}`);
+    if (genre) show.genre = genre;
+    else delete show.genre;
+  }
+
   collected.sort((a, b) => a.startsAt.localeCompare(b.startsAt) || a.id.localeCompare(b.id));
   mkdirSync(dirname(eventsPath), { recursive: true });
   writeFileSync(eventsPath, `${JSON.stringify(collected, null, 2)}\n`);
@@ -48,6 +54,7 @@ const parsers = {
   ical: loadIcal,
   spoton: loadSpotOn,
   ticketweb: loadTicketWeb,
+  ticketmaster: loadTicketmaster,
 };
 
 async function loadVenue(venue) {
@@ -199,6 +206,38 @@ const NOT_MUSIC_WORDS = /\b(sabres|hockey|bills|watch party|pregame|open for|son
 
 function looksLikeMusic(title) {
   return MUSIC_WORDS.test(title) && !NOT_MUSIC_WORDS.test(title);
+}
+
+// None of the venue feeds publish a genre. The label is taken from the
+// listing itself, and only when it names one outright. First match wins,
+// so "punk rock" stays Punk.
+const GENRE_PATTERNS = [
+  ["Hip-Hop", /\bhip[-\s]?hop\b|\brap\b/i],
+  ["EDM", /\b(edm|techno|house music|deep house|tech house)\b/i],
+  ["Electronic", /\belectronic\b/i],
+  ["Punk", /\bpunk\b/i],
+  ["Metal", /\bmetal\b/i],
+  ["Blues", /\bblues\b/i],
+  ["Jazz", /\bjazz\b/i],
+  ["Soul", /\bsoul\b/i],
+  ["Funk", /\bfunk\b/i],
+  ["Folk", /\bfolk\b/i],
+  ["Country", /(?<!the )\bcountry\b/i],
+  ["Americana", /\bamericana\b|\bsinger-songwriter\b/i],
+  ["Reggae", /\breggae\b|\bska\b/i],
+  ["Latin", /\blatin\b|\bsalsa\b|\bcumbia\b/i],
+  ["Classical", /\bclassical\b|\borchestra\b/i],
+  ["Comedy", /\bcomedy\b|\bcomedian\b/i],
+  ["Karaoke", /\bkaraoke\b/i],
+  ["DJ", /\bdj\b/i],
+  ["Rock", /(?<!black )\brock\b/i],
+];
+
+function inferGenre(text) {
+  for (const [label, pattern] of GENRE_PATTERNS) {
+    if (pattern.test(text)) return label;
+  }
+  return undefined;
 }
 
 // --- Squarespace events collections (?format=json) ------------------------
@@ -377,6 +416,60 @@ async function loadTicketWeb(venue) {
   }
 
   return shows;
+}
+
+// --- Ticketmaster venue search ----------------------------------------------
+// buffaloriverworks.com answers every request with a SiteGround captcha.
+// Ticketmaster publishes this venue's onsale shows, which is the reachable list.
+
+async function loadTicketmaster(venue) {
+  const start = isoDate(new Date());
+  const endDate = new Date();
+  endDate.setDate(endDate.getDate() + horizonDays);
+  const end = isoDate(endDate);
+  const shows = [];
+
+  for (let page = 0; page < 10; page += 1) {
+    const url = new URL("https://www.ticketmaster.com/api/search/events/venue");
+    url.searchParams.set("venueId", venue.venueId);
+    url.searchParams.set("region", "200");
+    url.searchParams.set("page", String(page));
+    url.searchParams.set("sort", "date");
+    url.searchParams.set("addOnType", "EVENT");
+    url.searchParams.set("productStatuses", "onsale,offsale,rescheduled");
+    url.searchParams.set("startDate", start);
+    url.searchParams.set("endDate", end);
+    url.searchParams.set("useStrictDateRange", "true");
+    const data = await fetchJson(url.href);
+    for (const event of data.events ?? []) {
+      const show = showFromTicketmaster(event, venue);
+      if (show) shows.push(show);
+    }
+    if (shows.length >= (data.total ?? 0) || (data.events ?? []).length === 0) break;
+  }
+
+  return shows;
+}
+
+function showFromTicketmaster(event, venue) {
+  if (!event.title || !event.url || !event.dates?.startDate || event.cancelled) return null;
+  const startsAt = epochToEastern(Date.parse(event.dates.startDate));
+  if (!inWindow(startsAt)) return null;
+
+  const title = plain(event.title);
+  const openers = (event.artists ?? [])
+    .map((artist) => plain(artist.name ?? ""))
+    .filter((name) => name && !title.toLowerCase().includes(name.toLowerCase()));
+
+  return compactShow({
+    id: showId(venue, event.url),
+    band: title,
+    venue: venue.name,
+    startsAt,
+    summary: openers.length ? `With ${openers.join(", ")}.` : undefined,
+    eventUrl: event.url,
+    source: sourceOf(venue),
+  });
 }
 
 // --- Shared helpers ---------------------------------------------------------

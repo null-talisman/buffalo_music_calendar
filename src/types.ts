@@ -14,6 +14,7 @@ export type Show = {
   venue: string;
   startsAt: string;
   price?: string;
+  genre?: string;
   summary?: string;
   eventUrl: string;
   source: ShowSource;

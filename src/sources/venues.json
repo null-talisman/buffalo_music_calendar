@@ -12,6 +12,13 @@
     "parser": "tribe"
   },
   {
+    "id": "buffalo-riverworks",
+    "name": "Buffalo RiverWorks",
+    "website": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439",
+    "parser": "ticketmaster",
+    "venueId": "1439"
+  },
+  {
     "id": "electric-city",
     "name": "Electric City",
     "website": "https://electriccity.com/",

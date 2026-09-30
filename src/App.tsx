@@ -1,15 +1,22 @@
+import { useState } from "react";
 import { loadShows } from "./lib/loadEvents";
-import { formatWeekendRange, upcomingWeekend } from "./lib/weekend";
-import { WeekendBoard } from "./components/WeekendBoard";
-import venues from "./sources/venues.json";
+import { datesForView, formatDateSpan, type CalendarView } from "./lib/weekend";
+import { CalendarBoard } from "./components/CalendarBoard";
 
-const venueList = new Intl.ListFormat("en-US", { type: "conjunction" }).format(
-  venues.map((venue) => venue.name),
-);
+const VISITORS =
+  "https://hitscounter.dev/api/hit?url=www.buffalomusiccalendar.com&label=Visitors&icon=cup-straw&color=%230a58ca&message=&style=flat&tz=UTC";
+
+const VIEWS: readonly { id: CalendarView; label: string; caption: string }[] = [
+  { id: "today", label: "Today", caption: "Today" },
+  { id: "weekend", label: "Weekend", caption: "This weekend" },
+  { id: "week", label: "Week", caption: "Next 7 days" },
+];
 
 export default function App() {
-  const weekend = upcomingWeekend();
+  const [view, setView] = useState<CalendarView>("weekend");
+  const dates = datesForView(view);
   const shows = loadShows();
+  const current = VIEWS.find((item) => item.id === view) ?? VIEWS[1];
 
   return (
     <div className="page">
@@ -17,13 +24,29 @@ export default function App() {
         <p className="eyebrow">Buffalo</p>
         <h1>Music Calendar</h1>
         <p className="range">
-          <span>This weekend</span>
-          <time dateTime={weekend.friday.toISOString()}>{formatWeekendRange(weekend)}</time>
+          <span>{current.caption}</span>
+          <time dateTime={dates[0].toISOString()}>{formatDateSpan(dates)}</time>
         </p>
+        <div className="views" role="group" aria-label="Date range">
+          {VIEWS.map((item) => (
+            <button
+              key={item.id}
+              type="button"
+              aria-pressed={item.id === view}
+              onClick={() => setView(item.id)}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
       </header>
-      <WeekendBoard weekend={weekend} shows={shows} />
+      <CalendarBoard view={view} dates={dates} shows={shows} />
       <footer className="colophon">
-        <p>Listings from {venueList}.</p>
+        <p>
+          For questions or support, please email{" "}
+          <a href="mailto:support@buffalomusiccalendar.com">support@buffalomusiccalendar.com</a>
+        </p>
+        <img className="visitors" src={VISITORS} alt="Visitor count" />
       </footer>
     </div>
   );

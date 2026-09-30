@@ -25,6 +25,6 @@ jobs:
         with:
           commit-message: "Update show listings from venue websites"
           title: "Update show listings"
-          body: "Daily check of The Caz, Electric City, and Buffalo Iron Works websites."
+          body: "Daily check of the venue websites."
           branch: calendar/refresh
           delete-branch: true

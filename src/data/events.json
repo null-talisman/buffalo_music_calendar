@@ -37,6 +37,18 @@
     }
   },
   {
+    "id": "buffalo-riverworks-000064BDA120DFD4",
+    "band": "Mastodon",
+    "venue": "Buffalo RiverWorks",
+    "startsAt": "2026-09-29T19:00:00-04:00",
+    "eventUrl": "https://www.ticketmaster.com/mastodon-buffalo-new-york-09-29-2026/event/000064BDA120DFD4",
+    "source": {
+      "name": "Buffalo RiverWorks",
+      "kind": "website",
+      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
+    }
+  },
+  {
     "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9",
     "band": "Grace Lougen and Friends",
     "venue": "Jack Rabbit",
@@ -97,7 +109,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Punk"
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-july-2026-ng93f-y7cnb-7j5bw",
@@ -109,7 +122,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "nietzsches-the-stripteasers-buffalo-july-2026-9t6s8-434m5",
@@ -334,7 +348,8 @@
       "name": "Babeville",
       "kind": "website",
       "url": "https://babevillebuffalo.com/events/"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "buffalo-iron-works-mnm-presents-champagne-drip",
@@ -373,7 +388,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Electronic"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-el-scorcho-strictly-hip",
@@ -425,7 +441,8 @@
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
-    }
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "duende-3486965",
@@ -515,7 +532,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "nietzsches-ivyshome-and-friends",
@@ -554,7 +572,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-03",
@@ -567,7 +586,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "buffalo-iron-works-buffalo-events-marketplace-presents-daycrawlers-bazaar",
@@ -606,7 +626,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "duende-3340991",
@@ -671,7 +692,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Punk"
   },
   {
     "id": "nietzsches-jazz-cache-oct-2026",
@@ -683,7 +705,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "nietzsches-the-complete-unknowns-nietzsches-buffalo-october",
@@ -722,7 +745,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Electronic"
   },
   {
     "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october",
@@ -760,7 +784,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Blues"
   },
   {
     "id": "electric-city-michael-franti-trio-heartstrings-dynamite",
@@ -774,7 +799,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Hip-Hop"
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october",
@@ -786,7 +812,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "nietzsches-the-stripteasers-buffalo-october",
@@ -966,7 +993,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Electronic"
   },
   {
     "id": "nietzsches-side-eye-salt-road",
@@ -1106,7 +1134,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Country"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-more-country-hintz-of-thunder-live",
@@ -1119,7 +1148,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "Country"
   },
   {
     "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-5",
@@ -1132,7 +1162,8 @@
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
-    }
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "duende-3448668",
@@ -1220,7 +1251,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Hip-Hop"
   },
   {
     "id": "electric-city-maddy-smith",
@@ -1260,7 +1292,8 @@
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-10",
@@ -1273,7 +1306,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-10",
@@ -1286,7 +1320,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-bavarian-brunch-with-das-haus-duo-2",
@@ -1324,7 +1359,8 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "duende-3487236",
@@ -1400,7 +1436,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "rec-room-buffalo-bills-viewing-party-2026-10-12",
@@ -1530,7 +1567,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Blues"
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
@@ -1542,7 +1580,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "nietzsches-the-stripteasers-buffalo-october-klr6k",
@@ -1684,7 +1723,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Punk"
   },
   {
     "id": "nietzsches-jugband-buffalo",
@@ -1888,7 +1928,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Hip-Hop"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-the-black-rock-beatles-live-at-our-haus",
@@ -2040,7 +2081,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-17",
@@ -2053,7 +2095,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-sunday-brunch-with-maria-sebastian",
@@ -2066,7 +2109,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "rec-room-buffalo-bills-viewing-party-2026-10-18",
@@ -2091,7 +2135,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "duende-2623075",
@@ -2140,7 +2185,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "nietzsches-shaky-stage-nietzsches-october",
@@ -2267,7 +2313,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "nietzsches-the-stripteasers-buffalo-october-kkn79",
@@ -2291,7 +2338,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "town-ballroom-hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely",
@@ -2370,7 +2418,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-wolfman-jack-4",
@@ -2459,7 +2508,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "electric-city-all-them-witches-21-shows-21-days",
@@ -2473,7 +2523,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Blues"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-5",
@@ -2548,7 +2599,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Electronic"
   },
   {
     "id": "electric-city-walker-royce",
@@ -2562,7 +2614,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Electronic"
   },
   {
     "id": "nietzsches-staff-johnson-gaoh-socialite",
@@ -2601,7 +2654,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "Punk"
   },
   {
     "id": "duende-3448703",
@@ -2638,6 +2692,18 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-riverworks-Z7r9jZ1A7J3_z",
+    "band": "Thundercat w/ TiaCorine",
+    "venue": "Buffalo RiverWorks",
+    "startsAt": "2026-10-24T19:00:00-04:00",
+    "eventUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3_z",
+    "source": {
+      "name": "Buffalo RiverWorks",
+      "kind": "website",
+      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
     }
   },
   {
@@ -2679,7 +2745,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "town-ballroom-deathpact-presents-from-darkness-comes-light-eclipsed",
@@ -2704,7 +2771,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-24",
@@ -2717,7 +2785,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "DJ"
   },
   {
     "id": "nietzsches-hallowsleaze",
@@ -2780,7 +2849,8 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
@@ -2843,7 +2913,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Jazz"
   },
   {
     "id": "nietzsches-tom-robert-buffalo-october",
@@ -2907,7 +2978,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "babeville-the-lowest-pair",
@@ -2932,7 +3004,8 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "nietzsches-the-stripteasers-buffalo-october-dht8g",
@@ -3175,7 +3248,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "EDM"
   },
   {
     "id": "nietzsches-irving-halloween",
@@ -3225,7 +3299,8 @@
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
-    }
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "babeville-junior-jerry-jam-presents-grateful-dead-disco-halloween-w-pocketship",
@@ -3338,7 +3413,8 @@
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
-    }
+    },
+    "genre": "Metal"
   },
   {
     "id": "buffalo-iron-works-mnm-presents-halloweekend-night-2-mad-dubz-w-onara",
@@ -3441,7 +3517,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Americana"
   },
   {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-04",
@@ -3532,7 +3609,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "nietzsches-pentagram-buffalo",
@@ -3560,6 +3638,19 @@
     }
   },
   {
+    "id": "buffalo-riverworks-000064CCA08AC89B",
+    "band": "STATE CHAMPS - 10 YEARS OF 'AROUND THE WORLD AND BACK'",
+    "venue": "Buffalo RiverWorks",
+    "startsAt": "2026-11-06T19:00:00-05:00",
+    "summary": "With Cartel, Taylor Acorn, Like Roses.",
+    "eventUrl": "https://www.ticketmaster.com/state-champs-10-years-of-around-buffalo-new-york-11-06-2026/event/000064CCA08AC89B",
+    "source": {
+      "name": "Buffalo RiverWorks",
+      "kind": "website",
+      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
+    }
+  },
+  {
     "id": "electric-city-a-foreigners-journey-to-boston",
     "band": "A Foreigner’s Journey to Boston",
     "venue": "Electric City",
@@ -3571,7 +3662,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-upstate",
@@ -3584,7 +3676,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
@@ -3648,7 +3741,8 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
+    },
+    "genre": "Rock"
   },
   {
     "id": "buffalo-iron-works-austin-snell",
@@ -3661,7 +3755,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Country"
   },
   {
     "id": "nietzsches-mono-means-one-buffalo",
@@ -3698,6 +3793,19 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-riverworks-000064B4D3463EA0",
+    "band": "Alter Bridge - What Lies Within Tour",
+    "venue": "Buffalo RiverWorks",
+    "startsAt": "2026-11-08T19:00:00-05:00",
+    "summary": "With Big Wreck, Tim Montana.",
+    "eventUrl": "https://www.ticketmaster.com/alter-bridge-what-lies-within-tour-buffalo-new-york-11-08-2026/event/000064B4D3463EA0",
+    "source": {
+      "name": "Buffalo RiverWorks",
+      "kind": "website",
+      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
     }
   },
   {
@@ -3764,7 +3872,8 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
-    }
+    },
+    "genre": "Hip-Hop"
   },
   {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-11",
@@ -3830,7 +3939,8 @@
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
-    }
+    },
+    "genre": "Comedy"
   },
   {
     "id": "buffalo-iron-works-moonshine-bandits-w-big-murph",
@@ -3843,7 +3953,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Hip-Hop"
   },
   {
     "id": "rec-room-high-vis",
