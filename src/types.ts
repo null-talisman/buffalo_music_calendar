@@ -13,6 +13,8 @@ export type Show = {
   band: string;
   venue: string;
   startsAt: string;
+  /** The venue has posted the date but not the start time yet. */
+  timeTbd?: boolean;
   price?: string;
   genre?: string;
   summary?: string;

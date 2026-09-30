@@ -77,14 +77,14 @@ export function formatClock(iso: string): string {
 }
 
 /** "Friday, October 2 · 7:00 PM" */
-export function formatShowWhen(iso: string): string {
+export function formatShowWhen(iso: string, timeTbd = false): string {
   const date = new Date(iso);
   const day = new Intl.DateTimeFormat("en-US", {
     weekday: "long",
     month: "long",
     day: "numeric",
   }).format(date);
-  return `${day} · ${formatClock(iso)}`;
+  return `${day} · ${timeTbd ? "Time TBD" : formatClock(iso)}`;
 }
 
 export function sameDay(iso: string, date: Date): boolean {

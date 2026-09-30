@@ -71,5 +71,48 @@
     "website": "https://www.hofbrauhausbuffalo.com/events/",
     "parser": "tribe",
     "musicOnly": true
+  },
+  {
+    "id": "kleinhans",
+    "name": "Kleinhans Music Hall",
+    "website": "https://kleinhansbuffalo.org/events/",
+    "parser": "tribe"
+  },
+  {
+    "id": "bpo",
+    "name": "Kleinhans Music Hall",
+    "website": "https://bpo.org/events/",
+    "parser": "tribe",
+    "room": "kleinhans",
+    "defaultGenre": "Classical"
+  },
+  {
+    "id": "mohawk-place",
+    "name": "Mohawk Place",
+    "website": "https://mohawkplacebuffalo.com/events/",
+    "parser": "mohawk"
+  },
+  {
+    "id": "sportsmens-tavern",
+    "name": "Sportsmen's Tavern",
+    "website": "https://sportsmensbuffalo.com/calendar/",
+    "parser": "tribe",
+    "room": "^sportsmen",
+    "titleSuffix": "\\s*[–-]\\s*sport\\w*men'?s$",
+    "excludeTitle": "[–-]\\s*the cave$"
+  },
+  {
+    "id": "the-cave",
+    "name": "The Cave",
+    "website": "https://sportsmensbuffalo.com/stages/the-cave/",
+    "parser": "tribe",
+    "room": "^the cave",
+    "titleSuffix": "\\s*[–-]\\s*the cave$"
+  },
+  {
+    "id": "riviera-theatre",
+    "name": "Riviera Theatre",
+    "website": "https://rivieratheatre.org/",
+    "parser": "tribe"
   }
 ]

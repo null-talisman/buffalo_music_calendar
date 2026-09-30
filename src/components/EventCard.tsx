@@ -11,7 +11,7 @@ export function EventCard({
 }) {
   return (
     <button type="button" className="event" onClick={() => onOpen(show)}>
-      <time dateTime={show.startsAt}>{formatClock(show.startsAt)}</time>
+      <time dateTime={show.startsAt}>{show.timeTbd ? "Time TBD" : formatClock(show.startsAt)}</time>
       <span className="event-copy">
         <span className="event-band">{show.band}</span>
         <span className="event-venue">{show.venue}</span>

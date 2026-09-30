@@ -12,6 +12,8 @@ async function main() {
   const venues = JSON.parse(readFileSync(venuesPath, "utf8"));
   const previous = readEvents();
   const known = knownShows(previous);
+  // A venue may declare what it books when a listing says nothing about genre.
+  const defaultGenres = new Map(venues.map((venue) => [venue.website, venue.defaultGenre]));
 
   const collected = [];
   for (const venue of venues) {
@@ -20,14 +22,14 @@ async function main() {
       console.log(`${venue.name}: ${shows.length} shows`);
       collected.push(...shows);
     } catch (error) {
-      const kept = previous.filter((show) => show.source.name === venue.name);
+      const kept = previous.filter((show) => show.source.url === venue.website);
       console.error(`${venue.name} failed (${error.message}). Keeping ${kept.length} saved shows.`);
       collected.push(...kept);
     }
   }
 
   for (const show of collected) {
-    const genre = inferGenre(show.band, show.summary);
+    const genre = inferGenre(show.band, show.summary) ?? defaultGenres.get(show.source.url);
     if (genre) show.genre = genre;
     else delete show.genre;
   }
@@ -57,6 +59,7 @@ const parsers = {
   spoton: loadSpotOn,
   ticketweb: loadTicketWeb,
   ticketmaster: loadTicketmaster,
+  mohawk: loadMohawk,
 };
 
 async function loadVenue(venue, known) {
@@ -232,9 +235,20 @@ async function loadTribe(venue) {
   return shows;
 }
 
+// `room` keeps only events the feed places in that room, for sites that list
+// several rooms (Sportsmen's and The Cave) or several halls (the BPO). A
+// `titleSuffix` such as "– The Cave" also claims the show for that room and is
+// trimmed off the title; `excludeTitle` drops shows another room has claimed.
 function showFromTribe(event, venue) {
   if (!event.title || !event.url || !event.start_date) return null;
-  const band = plain(event.title);
+  let band = plain(event.title);
+  const suffix = venue.titleSuffix ? new RegExp(venue.titleSuffix, "i") : null;
+  if (venue.room) {
+    const inRoom = new RegExp(venue.room, "i").test(event.venue?.venue ?? "") || suffix?.test(band);
+    if (!inRoom) return null;
+  }
+  if (venue.excludeTitle && new RegExp(venue.excludeTitle, "i").test(band)) return null;
+  if (suffix) band = band.replace(suffix, "").trim();
   if (venue.musicOnly && !looksLikeMusic(band)) return null;
   const startsAt = tribeStart(event.start_date);
   if (!inWindow(startsAt)) return null;
@@ -257,6 +271,114 @@ const NOT_MUSIC_WORDS = /\b(sabres|hockey|bills|watch party|pregame|open for|son
 
 function looksLikeMusic(title) {
   return MUSIC_WORDS.test(title) && !NOT_MUSIC_WORDS.test(title);
+}
+
+// --- Mohawk Place: hand-written HTML, one <div class="show"> per night -----
+//
+// The "Upcoming" panel has dates, times and prices. "Coming Soon" below it
+// only has a date and the bill, so those shows are saved with timeTbd.
+
+async function loadMohawk(venue) {
+  const html = await fetchText(venue.website);
+  const upcoming = sliceBetween(html, 'class="panel panel-upcoming"', 'class="coming-soon"');
+  const comingSoon = sliceBetween(html, 'class="coming-soon"', 'class="panel panel-past"');
+  const shows = [];
+
+  let year = new Date().getFullYear();
+  const blocks = upcoming.matchAll(
+    /<div class="month-label">([^<]+)<\/div>|<div class="show">([\s\S]*?)(?=<div class="show">|<div class="month-label">|<!-- =|$)/g,
+  );
+  for (const [, monthLabel, block] of blocks) {
+    if (monthLabel) {
+      year = Number(/\d{4}/.exec(monthLabel)?.[0] ?? year);
+      continue;
+    }
+    const show = mohawkShow(block, year, venue);
+    if (show) shows.push(show);
+  }
+
+  for (const [, date, bill] of comingSoon.matchAll(
+    /<div class="cs-date">([^<]+)<\/div>\s*<div class="cs-bill">([\s\S]*?)<\/div>/g,
+  )) {
+    const parts = /^(\d{1,2})\/(\d{1,2})$/.exec(date.trim());
+    const band = plain(bill);
+    if (!parts || !band) continue;
+    const monthName = MONTHS[Number(parts[1]) - 1];
+    const startsAt = wallTimeToIso(yearFor(monthName, parts[2]), monthName, parts[2], "8:00 pm");
+    if (!inWindow(startsAt)) continue;
+    const ymd = startsAt.slice(0, 10);
+    shows.push(
+      compactShow({
+        id: `${venue.id}-${ymd}-${slugify(band)}`,
+        band,
+        venue: venue.name,
+        startsAt,
+        timeTbd: true,
+        eventUrl: venue.website,
+        source: sourceOf(venue),
+      }),
+    );
+  }
+
+  return shows;
+}
+
+function mohawkShow(block, year, venue) {
+  const field = (name) => {
+    const match = new RegExp(`<(?:div|p) class="${name}">([\\s\\S]*?)<\\/(?:div|p)>`).exec(block);
+    return match ? plain(match[1]) : "";
+  };
+  const date = /([A-Za-z]{3})\s+(\d{1,2})\s*$/.exec(field("date"));
+  const band = field("bill");
+  const price = field("price");
+  if (!date || !band || /cancel/i.test(price)) return null;
+
+  const times = field("times");
+  const clock =
+    /(\d{1,2}(?::\d{2})?\s*[ap]m)\s*show/i.exec(times)?.[1] ??
+    [...times.matchAll(/\d{1,2}(?::\d{2})?\s*[ap]m/gi)].at(-1)?.[0];
+  const startsAt = wallTimeToIso(year, date[1], date[2], clock ? withMinutes(clock) : "8:00 pm");
+  if (!inWindow(startsAt)) return null;
+
+  const facebook = /class="fb-link" href="([^"]+)"/.exec(block)?.[1];
+  const eventUrl = facebook ? decodeEntities(facebook) : venue.website;
+  const presents = field("presents");
+  const note = field("note");
+  const summary = clip([presents, note].filter(Boolean).join(" · "));
+
+  return compactShow({
+    id: `${venue.id}-${startsAt.slice(0, 10)}-${slugify(band)}`,
+    band,
+    venue: venue.name,
+    startsAt,
+    ...(clock ? {} : { timeTbd: true }),
+    price: cleanCost(price),
+    summary: summary || undefined,
+    eventUrl,
+    source: sourceOf(venue),
+  });
+}
+
+// "8pm" -> "8:00 pm" so wallTimeToIso can read it.
+function withMinutes(clock) {
+  return clock.replace(/^(\d{1,2})\s*([ap]m)$/i, "$1:00 $2");
+}
+
+function sliceBetween(text, startMarker, endMarker) {
+  const start = text.indexOf(startMarker);
+  if (start < 0) return "";
+  const end = text.indexOf(endMarker, start);
+  return text.slice(start, end < 0 ? undefined : end);
+}
+
+function slugify(text) {
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 48);
 }
 
 // --- Squarespace events collections (?format=json) ------------------------

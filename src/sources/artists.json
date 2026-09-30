@@ -3,45 +3,59 @@
     "mastodon", "type o negative", "korn", "corrosion of conformity", "the sword", "spite",
     "it dies today", "all out war", "the number twelve looks like you", "dark divine",
     "fire from the gods", "alter bridge", "big wreck", "texas hippie coalition", "kaonashi",
-    "sicksense"
+    "sicksense", "inter arma", "iron maiden", "geoff tate", "operation: mindcrime", "seven kingdoms"
   ],
   "Punk": [
     "gogol bordello", "agnostic front", "die spitz", "high vis", "warped tour", "warped band",
-    "state champs", "cartel", "beton arme", "restraining order", "bomb vest", "the ant hill kids"
+    "state champs", "cartel", "beton arme", "restraining order", "bomb vest", "the ant hill kids",
+    "the effigies", "the queers", "perilous"
   ],
   "Emo": ["taking back sunday", "hawthorne heights", "oso oso", "taylor acorn", "like roses"],
   "Rock": [
     "failure", "pat travers", "weezer", "el scorcho", "tragically hip", "strictly hip", "beatles",
     "fleetwood mac", "allman brothers", "the strokes", "the brokes", "noiseheads", "millington",
-    "wolf & bear", "the haunt", "music of chicago", "led zeppelin", "pink floyd", "the who",
-    "rolling stones", "tom petty", "bruce springsteen", "journey", "foreigner", "the eagles",
-    "steely dan", "bon jovi", "candlebox", "sawyer hill", "austin meade", "twin fin",
-    "cock robin"
+    "wolf & bear", "the haunt", "music of chicago", "led zeppelin", "zeppelin", "pink floyd",
+    "the who", "rolling stones", "tom petty", "bruce springsteen", "journey", "foreigner",
+    "the eagles", "eagles tribute", "steely dan", "bon jovi", "candlebox", "sawyer hill",
+    "austin meade", "twin fin", "cock robin", "van halen", "night ranger", "blue october",
+    "micky dolenz", "the monkees", "mike delguidice", "billy joel", "marshall crenshaw",
+    "the sheila divine", "the cars", "rush tribute", "genesis", "bee gees", "the voltage hogs",
+    "yacht rock"
   ],
-  "Indie": ["diiv", "kurt vile", "surf hat", "twisted teens", "ian mcconnell", "76th street"],
+  "Indie": [
+    "diiv", "kurt vile", "surf hat", "twisted teens", "ian mcconnell", "76th street", "choir boy",
+    "the leones"
+  ],
   "Jam": [
     "disco biscuits", "grateful dead", "bearly dead", "grateful dans", "eggy", "dogs in a pile",
     "moe.", "spafford", "big deep", "wolfman jack", "pocketship", "junior jerry jam", "phish",
     "widespread panic", "umphrey's mcgee", "strange machines", "mono means one", "melvin seals",
     "jgb", "kendall street company"
   ],
-  "Bluegrass": ["kitchen dwellers", "sicard hollow", "pentagram string band", "billy strings"],
+  "Bluegrass": [
+    "kitchen dwellers", "sicard hollow", "pentagram string band", "billy strings", "the gibson brothers"
+  ],
   "Folk": [
     "richard shindell", "the lowest pair", "spencer lajoye", "adam ezra", "james taylor",
     "tyler westcott", "folkfaces", "skiffle minstrels", "banog", "davey o", "peggy farrell",
-    "tom stahl"
+    "tom stahl", "willi carlisle", "joni mitchell", "leonard cohen", "uncle ben's remedy"
   ],
-  "Americana": ["jeff tweedy", "lucero", "greg klyma", "whiskey moon face", "the dolly sods", "the jayhawks"],
+  "Americana": [
+    "jeff tweedy", "lucero", "greg klyma", "whiskey moon face", "the dolly sods", "dolly sods",
+    "the jayhawks", "fred eaglesmith", "tom waits", "sarah borges", "eric ambel"
+  ],
   "Country": [
     "steam donkeys", "alana springsteen", "tim montana", "kyle schuesler", "ole 60",
-    "vincent neil emerson", "hayden redwine", "hintz of thunder"
+    "vincent neil emerson", "hayden redwine", "hintz of thunder", "micky and the motorcars",
+    "jason eady", "dolly parton", "garrett boys"
   ],
   "Jazz": [
     "pat metheny", "don was", "paul todaro", "will holton", "adam bronstein", "mood swingers",
-    "chet gary", "the standards"
+    "chet gary", "the standards", "nicole zuraitis"
   ],
-  "Funk": ["thundercat", "lettuce", "the motet", "dumpstaphunk"],
-  "Blues": ["tab benoit", "curtis salgado", "ghalia volt", "buddy guy"],
+  "Funk": ["thundercat", "lettuce", "the motet", "dumpstaphunk", "big shrimp"],
+  "Blues": ["tab benoit", "curtis salgado", "ghalia volt", "buddy guy", "danielle nicole", "the claudettes"],
+  "Soul": ["richard smallwood", "gospel"],
   "Hip-Hop": ["earl sweatshirt", "hurricane wisdom", "mac miller", "tiacorine", "mike's home on the range"],
   "EDM": [
     "deathpact", "eazybaked", "distinct motive", "sodown", "mad dubz", "champagne drip", "onara",
@@ -49,6 +63,6 @@
   ],
   "Reggae": ["bumpin uglies", "artikal sound system", "olmsted dub system", "slightly stoopid"],
   "Pop": ["abba", "maddie zahm", "xoxo pop band", "semler", "jobros", "jonas brothers"],
-  "Classical": ["buffalo chamber players", "parkside brass", "bach & brews", "pavlo"],
-  "Comedy": ["maddy smith"]
+  "Classical": ["buffalo chamber players", "parkside brass", "bach & brews", "pavlo", "oratorio"],
+  "Comedy": ["maddy smith", "darci lynne"]
 }
