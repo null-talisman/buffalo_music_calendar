@@ -8,10 +8,12 @@ export function CalendarBoard({
   view,
   dates,
   shows,
+  filtered,
 }: {
   view: CalendarView;
   dates: Date[];
   shows: Show[];
+  filtered: boolean;
 }) {
   const [selected, setSelected] = useState<Show | null>(null);
 
@@ -37,7 +39,7 @@ export function CalendarBoard({
                   ))}
                 </div>
               ) : (
-                <p className="empty">No shows posted</p>
+                <p className="empty">{filtered ? "No matching shows" : "No shows posted"}</p>
               )}
             </section>
           );

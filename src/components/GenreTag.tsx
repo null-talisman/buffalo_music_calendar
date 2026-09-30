@@ -1,8 +1,12 @@
 const GENRE_CLASS: Record<string, string> = {
   Rock: "rock",
+  Indie: "indie",
+  Emo: "emo",
   Punk: "punk",
   Metal: "metal",
+  Jam: "jam",
   Folk: "folk",
+  Bluegrass: "bluegrass",
   Country: "country",
   Americana: "americana",
   Blues: "blues",
@@ -14,10 +18,20 @@ const GENRE_CLASS: Record<string, string> = {
   Electronic: "electronic",
   Reggae: "reggae",
   Latin: "latin",
+  Pop: "pop",
   Classical: "classical",
+  German: "german",
+  Tribute: "tribute",
   Comedy: "comedy",
   Karaoke: "karaoke",
   DJ: "dj",
+  Piano: "piano",
+  "Open Mic": "openmic",
+  Burlesque: "burlesque",
+  "Dinner Show": "dinner",
+  "Watch Party": "watch",
+  Trivia: "trivia",
+  Talk: "talk",
 };
 
 export function GenreTag({ genre }: { genre: string }) {
