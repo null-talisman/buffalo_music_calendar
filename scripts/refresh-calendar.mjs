@@ -10,11 +10,12 @@ const horizonDays = 45;
 async function main() {
   const venues = JSON.parse(readFileSync(venuesPath, "utf8"));
   const previous = readEvents();
+  const known = knownShows(previous);
 
   const collected = [];
   for (const venue of venues) {
     try {
-      const shows = await loadVenue(venue);
+      const shows = await loadVenue(venue, known);
       console.log(`${venue.name}: ${shows.length} shows`);
       collected.push(...shows);
     } catch (error) {
@@ -57,15 +58,45 @@ const parsers = {
   ticketmaster: loadTicketmaster,
 };
 
-async function loadVenue(venue) {
+async function loadVenue(venue, known) {
   const parser = parsers[venue.parser];
   if (!parser) throw new Error(`No website parser "${venue.parser}" for ${venue.id}`);
-  return parser(venue);
+  return parser(venue, known);
+}
+
+// Detail pages are the slow part of the daily run. A show already saved and
+// still inside the listing window is reused instead of downloaded again.
+function knownShows(previous) {
+  const map = new Map();
+  for (const show of previous) {
+    if (!show?.eventUrl || !inWindow(show.startsAt)) continue;
+    for (const key of urlKeys(show.eventUrl)) map.set(key, show);
+  }
+  return map;
+}
+
+function urlKeys(url) {
+  try {
+    const parsed = new URL(url);
+    const stripped = `${parsed.origin}${parsed.pathname.replace(/\/+$/, "")}${parsed.search}`;
+    return [stripped, `${stripped}/`];
+  } catch {
+    return [url];
+  }
+}
+
+function savedShow(known, url, venueName) {
+  if (!known) return undefined;
+  for (const key of urlKeys(url)) {
+    const show = known.get(key);
+    if (show?.source?.name === venueName) return show;
+  }
+  return undefined;
 }
 
 // --- The Caz: one page per show, dates and times in visible text ---------
 
-async function loadCaz(venue) {
+async function loadCaz(venue, known) {
   const html = await fetchText(venue.website);
   const paths = unique(
     [...html.matchAll(/href="(\/shows\/[^"]+)"/g)]
@@ -73,13 +104,23 @@ async function loadCaz(venue) {
       .filter((path) => /-\d{2}-[a-z]{3}$/.test(path)),
   );
 
-  const pages = await mapPool(paths, 4, async (path) => {
+  const pending = [];
+  const shows = [];
+  for (const path of paths) {
+    const eventUrl = new URL(path, venue.website).href;
+    const saved = savedShow(known, eventUrl, venue.name);
+    if (saved) shows.push(saved);
+    else pending.push(path);
+  }
+  if (shows.length > 0) console.log(`${venue.name}: reused ${shows.length} saved pages, fetching ${pending.length}`);
+
+  const pages = await mapPool(pending, 4, async (path) => {
     const eventUrl = new URL(path, venue.website).href;
     const page = await fetchText(eventUrl);
     return showFromCaz(page, eventUrl, venue);
   });
 
-  return pages.filter(Boolean);
+  return [...shows, ...pages.filter(Boolean)];
 }
 
 function showFromCaz(html, eventUrl, venue) {
@@ -115,7 +156,7 @@ function showFromCaz(html, eventUrl, venue) {
 // --- WordPress venues with schema.org Event JSON-LD on each show page -----
 // Electric City lists /events/<slug>/; Town Ballroom lists /event/<slug>/...
 
-async function loadJsonLdPages(venue) {
+async function loadJsonLdPages(venue, known) {
   const html = await fetchText(venue.website);
   const urls = unique(
     [...html.matchAll(/href="([^"]+)"/gi)]
@@ -124,12 +165,21 @@ async function loadJsonLdPages(venue) {
       .map((url) => url.replace(/\/?$/, "/")),
   );
 
-  const pages = await mapPool(urls, 4, async (eventUrl) => {
+  const pending = [];
+  const shows = [];
+  for (const eventUrl of urls) {
+    const saved = savedShow(known, eventUrl, venue.name);
+    if (saved) shows.push(saved);
+    else pending.push(eventUrl);
+  }
+  if (shows.length > 0) console.log(`${venue.name}: reused ${shows.length} saved pages, fetching ${pending.length}`);
+
+  const pages = await mapPool(pending, 4, async (eventUrl) => {
     const page = await fetchText(eventUrl);
     return showFromJsonLd(page, eventUrl, venue);
   });
 
-  return pages.filter(Boolean);
+  return [...shows, ...pages.filter(Boolean)];
 }
 
 function isEventPath(pathname, eventPath) {
