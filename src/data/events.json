@@ -1,33 +1,159 @@
 [
   {
-    "id": "riviera-theatre-double-vision",
-    "band": "Double Vision: The Foreigner Experience",
-    "venue": "Riviera Theatre",
-    "startsAt": "2026-10-02T19:30:00-04:00",
-    "price": "$20",
-    "summary": "Buy Tickets Riviera Subscriber Presale: March 17 @ 12:00PM — Public On Sale: March 20 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Double Vision delivers the most energizing performance you…",
-    "eventUrl": "https://rivieratheatre.org/event/double-vision/",
+    "id": "duende-3514428",
+    "band": "SOPH",
+    "venue": "Duende",
+    "startsAt": "2026-10-07T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3514428",
     "source": {
-      "name": "Riviera Theatre",
+      "name": "Duende",
       "kind": "website",
-      "url": "https://rivieratheatre.org/"
-    },
-    "genre": "Rock"
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
-    "id": "riviera-theatre-mike-delguidice",
-    "band": "Mike DelGuidice – Live In Concert",
-    "venue": "Riviera Theatre",
-    "startsAt": "2026-10-03T19:30:00-04:00",
-    "price": "$39",
-    "summary": "Buy Tickets Riviera Subscriber Presale: March 31 @ 12:00PM — Public On Sale: April 3 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Mike DelGuidice is one of Long Island’s most celebrated…",
-    "eventUrl": "https://rivieratheatre.org/event/mike-delguidice/",
+    "id": "nietzsches-perry-gordon",
+    "band": "MK Nostalgia",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-07T18:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/perry-gordon",
     "source": {
-      "name": "Riviera Theatre",
+      "name": "Nietzsche's",
       "kind": "website",
-      "url": "https://rivieratheatre.org/"
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-07",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-07/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
-    "genre": "Rock"
+    "genre": "Open Mic"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-07",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-07/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "jack-rabbit-doug-yomens-and-the-low-blue-flame",
+    "band": "Doug Yomen's and the Low Blue Flame",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/doug-yomens-and-the-low-blue-flame",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "the-caz-greg-zeis-07-oct",
+    "band": "GREG ZEIS",
+    "venue": "The Caz",
+    "startsAt": "2026-10-07T19:00:00-04:00",
+    "price": "$10",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/greg-zeis-07-oct",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "duende-3511676",
+    "band": "From Presence to Power After Party",
+    "venue": "Duende",
+    "startsAt": "2026-10-07T19:30:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3511676",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx",
+    "band": "Wednesday Night Trivia in the Piano Room",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-10-07T19:30:00-04:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    },
+    "genre": "Trivia"
+  },
+  {
+    "id": "babeville-the-mid-week-vibe-xlviii",
+    "band": "The Mid-Week Vibe XLVIII-4 Year Anniversary!",
+    "venue": "Babeville",
+    "startsAt": "2026-10-07T20:00:00-04:00",
+    "summary": "The 9th Ward · Holton & Powell Entertainment present The Mid Week Vibe live in The 9th Ward September 2nd",
+    "eventUrl": "https://babevillebuffalo.com/events/the-mid-week-vibe-xlviii/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-76th-street",
+    "band": "76th Street",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-07T20:00:00-04:00",
+    "summary": "With Tornsey. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/76th-street/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Indie"
+  },
+  {
+    "id": "mr-goodbar-2026-10-07-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-07T21:00:00-04:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
+    "id": "nietzsches-nolen-durham",
+    "band": "Nolen Durham & Prince of Eden",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-10-07T21:00:00-04:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/nolen-durham",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
   },
   {
     "id": "duende-3511108",
@@ -111,6 +237,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Electronic"
+  },
+  {
+    "id": "mr-goodbar-2026-10-08-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-08T20:00:00-04:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-side-eye-salt-road",
@@ -332,6 +472,19 @@
     "genre": "Blues"
   },
   {
+    "id": "mr-goodbar-2026-10-09-2nd-floor-doors-bird-soup-podcast-live",
+    "band": "Bird Soup Podcast Live",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-09T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-more-country-hintz-of-thunder-live",
     "band": "Oktoberfest Continues with Hintz of Thunder LIVE + MECHANICAL BULL!",
     "venue": "Hofbräuhaus Buffalo",
@@ -355,6 +508,19 @@
       "name": "Jack Rabbit",
       "kind": "website",
       "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-10-09-1st-floor-bear-the-bronze",
+    "band": "Bear The Bronze",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-09T21:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -561,6 +727,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Comedy"
+  },
+  {
+    "id": "mr-goodbar-2026-10-10-2nd-floor-doors-the-honk-committee-tri-state-are",
+    "band": "The Honk Committee & Tri State Area & Buffalo Funk Brigade",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-10T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Funk"
   },
   {
     "id": "nietzsches-emo-night-2026",
@@ -1051,6 +1231,19 @@
     "genre": "Comedy"
   },
   {
+    "id": "mr-goodbar-2026-10-13-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-13T22:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-the-stripteasers-buffalo-october-klr6k",
     "band": "The Stripteasers Bar-Top Burlesque",
     "venue": "Nietzsche's",
@@ -1241,6 +1434,20 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-10-14-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-14T21:00:00-04:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "nietzsches-jugband-buffalo",
     "band": "Tyler Westcott’s Jugband Extravaganza",
     "venue": "Nietzsche's",
@@ -1375,6 +1582,20 @@
       "url": "https://mohawkplacebuffalo.com/events/"
     },
     "genre": "Americana"
+  },
+  {
+    "id": "mr-goodbar-2026-10-15-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-15T20:00:00-04:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-rigometrics-buffalo",
@@ -1585,6 +1806,19 @@
     "genre": "Hip-Hop"
   },
   {
+    "id": "mr-goodbar-2026-10-16-2nd-floor-doors-hot-stuff",
+    "band": "Hot Stuff",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-16T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-big-deep-buffalo",
     "band": "Big Deep ft Jordan Fairless (Formerly of Spafford) wsg Evergreen Echoes",
     "venue": "Nietzsche's",
@@ -1621,6 +1855,19 @@
       "name": "Jack Rabbit",
       "kind": "website",
       "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-10-16-1st-floor-smells-like-david-grohl",
+    "band": "Smells Like David Grohl",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-16T21:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -1773,6 +2020,19 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Rock"
+  },
+  {
+    "id": "mr-goodbar-2026-10-17-2nd-floor-doors-alex-francis-friends",
+    "band": "Alex Francis & Friends",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-17T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "nietzsches-hell-ever-after",
@@ -2147,6 +2407,19 @@
     "genre": "Comedy"
   },
   {
+    "id": "mr-goodbar-2026-10-20-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-20T22:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-the-stripteasers-buffalo-october-kkn79",
     "band": "The Stripteasers Bar-Top Burlesque",
     "venue": "Nietzsche's",
@@ -2298,6 +2571,20 @@
     "genre": "Jam"
   },
   {
+    "id": "mr-goodbar-2026-10-21-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-21T21:00:00-04:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "nietzsches-wed-tba",
     "band": "TBA",
     "venue": "Nietzsche's",
@@ -2390,6 +2677,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Blues"
+  },
+  {
+    "id": "mr-goodbar-2026-10-22-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-22T20:00:00-04:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-electro-buffalo",
@@ -2582,6 +2883,19 @@
     "genre": "Electronic"
   },
   {
+    "id": "mr-goodbar-2026-10-23-2nd-floor-doors-hard-stop-halloween-costume-part",
+    "band": "Hard Stop - Halloween Costume Party!",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-23T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-staff-johnson-gaoh-socialite",
     "band": "Socialite, GOAG, Harepin Tun & Staff Johnson",
     "venue": "Nietzsche's",
@@ -2621,6 +2935,19 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "Punk"
+  },
+  {
+    "id": "mr-goodbar-2026-10-23-1st-floor-doors-evergreen-echoes-halloween-costu",
+    "band": "Evergreen Echoes - Halloween Costume Party!",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-23T21:00:00-04:00",
+    "summary": "1st floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "duende-3448703",
@@ -2773,6 +3100,19 @@
     "genre": "DJ"
   },
   {
+    "id": "mr-goodbar-2026-10-24-2nd-floor-doors-costume-party-glizzy-mcguire-dag",
+    "band": "Costume Party - Glizzy McGuire, Daggermind - performing Black Sabbath",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-24T20:00:00-04:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "the-cave-big-shrimp-the-cave",
     "band": "Big Shrimp",
     "venue": "The Cave",
@@ -2841,17 +3181,18 @@
   },
   {
     "id": "riviera-theatre-rocky-horror-2026",
-    "band": "Rocky Horror Picture Show 2026: Rocky at the Riv",
+    "band": "Rocky Horror Picture Show 2026 – SOLD OUT",
     "venue": "Riviera Theatre",
     "startsAt": "2026-10-24T22:00:00-04:00",
     "price": "$20 – $35",
-    "summary": "Buy Tickets Riviera Subscriber Presale: June 9 @ 12:00PM — Public On Sale: June 12 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Rocky at the Riv is back again for 2026! The night begins at…",
+    "summary": "SOLD OUT Rocky at the Riv is back again for 2026! The night begins at 10pm with live burlesque and drag performances by Buffalo’s own Eye Candy Vixens and The Ladies of Illusion, followed by a screening of Rocky Horror Picture Show at midnight, starring the Francis Bacon…",
     "eventUrl": "https://rivieratheatre.org/event/rocky-horror-2026/",
     "source": {
       "name": "Riviera Theatre",
       "kind": "website",
       "url": "https://rivieratheatre.org/"
-    }
+    },
+    "genre": "Burlesque"
   },
   {
     "id": "sportsmens-tavern-23rd-annual-female-musicians-fighting-breast-cancer-sportsmens",
@@ -3136,6 +3477,19 @@
     "genre": "Comedy"
   },
   {
+    "id": "mr-goodbar-2026-10-27-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-27T22:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-the-stripteasers-buffalo-october-dht8g",
     "band": "The Stripteasers Bar-Top Burlesque",
     "venue": "Nietzsche's",
@@ -3272,6 +3626,20 @@
     "genre": "Pop"
   },
   {
+    "id": "mr-goodbar-2026-10-28-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-28T21:00:00-04:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "nietzsches-strongemen-jackie-rae",
     "band": "Jackie Rae Daniels & Mikee Strongmen",
     "venue": "Nietzsche's",
@@ -3376,6 +3744,20 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Rock"
+  },
+  {
+    "id": "mr-goodbar-2026-10-29-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-29T20:00:00-04:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-heavy-burden-ant-hill",
@@ -3556,6 +3938,19 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "mr-goodbar-2026-10-30-1st-floor-wasn-t-a-phase-halloween-party",
+    "band": "Wasn't A Phase - Halloween Party!",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-30T21:00:00-04:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "nietzsches-irving-halloween",
@@ -3814,6 +4209,19 @@
     "genre": "Pop"
   },
   {
+    "id": "mr-goodbar-2026-10-31-1st-floor-doors-slow-animals-halloween-bash",
+    "band": "Slow Animals - Halloween Bash!",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-10-31T21:00:00-04:00",
+    "summary": "1st floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "rec-room-buffalo-bills-viewing-party-2026-11-01",
     "band": "Buffalo Bills Viewing Party",
     "venue": "Rec Room",
@@ -3905,6 +4313,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-11-03-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-03T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -4005,6 +4426,20 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-11-04-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-04T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "duende-3494601",
     "band": "Wind & Wire",
     "venue": "Duende",
@@ -4058,6 +4493,20 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "mr-goodbar-2026-11-05-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-05T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-pentagram-buffalo",
@@ -4185,6 +4634,20 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-11-06-2nd-floor-doors-buffalo-funk-brigade",
+    "band": "Buffalo Funk Brigade",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Funk"
+  },
+  {
     "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
     "band": "Sax In The City Part 7 Will Holton",
     "venue": "The Caz",
@@ -4211,6 +4674,19 @@
       "url": "https://townballroom.com/events/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "mr-goodbar-2026-11-06-1st-floor-part-time-genius-the-spinwires",
+    "band": "Part-Time Genius & The Spinwires",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-06T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "nietzsches-rigometrics-buffalo-72lkw",
@@ -4335,6 +4811,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-11-07-2nd-floor-doors-socialite-little-liar-girl-stuf",
+    "band": "Socialite, Little Liar, Girl Stuf",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-07T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -4503,6 +4992,19 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-11-10-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-10T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "electric-city-pouya-the-forever-glades-tour",
     "band": "Pouya – The Forever Glades Tour",
     "venue": "Electric City",
@@ -4603,6 +5105,20 @@
     "genre": "Rock"
   },
   {
+    "id": "mr-goodbar-2026-11-11-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-11T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "the-caz-furg-comedy-at-the-caz-12-nov",
     "band": "Furg - Comedy at The Caz",
     "venue": "The Caz",
@@ -4658,6 +5174,20 @@
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
     }
+  },
+  {
+    "id": "mr-goodbar-2026-11-12-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-12T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   },
   {
     "id": "rec-room-high-vis",
@@ -4797,6 +5327,19 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-11-13-2nd-floor-doors-not-normal",
+    "band": "Not Normal",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-untz-is-dead-day-one",
     "band": "Untz is Dead ft Allen Aucoin DAY ONE",
     "venue": "Nietzsche's",
@@ -4835,6 +5378,19 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "Rock"
+  },
+  {
+    "id": "mr-goodbar-2026-11-13-1st-floor-slow-animals",
+    "band": "Slow Animals",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-13T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-7",
@@ -4908,6 +5464,21 @@
     "genre": "Comedy"
   },
   {
+    "id": "riviera-theatre-hotel-california-14",
+    "band": "Hotel California: The Original Eagles Tribute",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-14T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 21 @ 12:00PM — Public On Sale: April 24 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. For over three decades now, HOTEL CALIFORNIA has been…",
+    "eventUrl": "https://rivieratheatre.org/event/hotel-california-14/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "buffalo-iron-works-great-lake-swimmers",
     "band": "Great Lake Swimmers w/ Tough Old Bird",
     "venue": "Buffalo Iron Works",
@@ -4945,6 +5516,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-11-14-2nd-floor-doors-sailing-stones",
+    "band": "Sailing Stones",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-14T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -5058,6 +5642,19 @@
     "genre": "Punk"
   },
   {
+    "id": "buffalo-riverworks-000064C5E009F066",
+    "band": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+    "venue": "Buffalo RiverWorks",
+    "startsAt": "2026-11-17T19:00:00-05:00",
+    "summary": "With We Came As Romans, Varials, Cane Hill.",
+    "eventUrl": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-buffalo-new-york-11-17-2026/event/000064C5E009F066",
+    "source": {
+      "name": "Buffalo RiverWorks",
+      "kind": "website",
+      "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
+    }
+  },
+  {
     "id": "electric-city-the-record-company-give-it-back-to-you-10th-anniversary-tour",
     "band": "The Record Company – Give It Back To You 10th Anniversary Tour",
     "venue": "Electric City",
@@ -5109,6 +5706,19 @@
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-11-17-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-17T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -5166,6 +5776,20 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-11-18-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-18T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "sportsmens-tavern-kelsey-waldon-sportsmens",
     "band": "Kelsey Waldon",
     "venue": "Sportsmen's Tavern",
@@ -5193,6 +5817,21 @@
     "genre": "Talk"
   },
   {
+    "id": "riviera-theatre-brass-transit-19",
+    "band": "Brass Transit: The Musical Legacy of Chicago",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-19T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 28 @ 12:00PM — Public On Sale: May 1 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Brass Transit was formed in 2008, with an accomplished,…",
+    "eventUrl": "https://rivieratheatre.org/event/brass-transit-19/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "electric-city-trae-crowder",
     "band": "Trae Crowder",
     "venue": "Electric City",
@@ -5208,6 +5847,20 @@
     "genre": "Comedy"
   },
   {
+    "id": "mr-goodbar-2026-11-19-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-19T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
     "id": "hofbrauhaus-buffalo-hank-and-katie-live-for-dinner",
     "band": "Hank and Katie LIVE for Dinner!",
     "venue": "Hofbräuhaus Buffalo",
@@ -5219,6 +5872,21 @@
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     }
+  },
+  {
+    "id": "riviera-theatre-brass-transit-20",
+    "band": "Brass Transit: The Musical Legacy of Chicago",
+    "venue": "Riviera Theatre",
+    "startsAt": "2026-11-20T19:30:00-05:00",
+    "price": "$20",
+    "summary": "Buy Tickets Riviera Subscriber Presale: April 28 @ 12:00PM — Public On Sale: May 1 @ 10:00AM. *Online ticket sales are closed 3 hours prior to events. Tickets will be available at the door, 1 hour prior to the event. Brass Transit was formed in 2008, with an accomplished,…",
+    "eventUrl": "https://rivieratheatre.org/event/brass-transit-20/",
+    "source": {
+      "name": "Riviera Theatre",
+      "kind": "website",
+      "url": "https://rivieratheatre.org/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "babeville-buffalos-the-last-waltz-live-9",
@@ -5260,6 +5928,19 @@
       "url": "https://mohawkplacebuffalo.com/events/"
     },
     "genre": "Punk"
+  },
+  {
+    "id": "mr-goodbar-2026-11-20-2nd-floor-doors-brittle-minds",
+    "band": "Brittle Minds",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-20T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   },
   {
     "id": "sportsmens-tavern-the-talking-dead-heads-night-one-sportsmens",
@@ -5314,6 +5995,19 @@
     "genre": "Tribute"
   },
   {
+    "id": "mr-goodbar-2026-11-20-1st-floor-bear-the-bronze",
+    "band": "Bear The Bronze",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-20T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "electric-city-kawaii-rave",
     "band": "Kawaii Rave",
     "venue": "Electric City",
@@ -5327,19 +6021,5 @@
       "url": "https://electriccity.com/"
     },
     "genre": "EDM"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-with-hops-and-schnapps",
-    "band": "LIVE with Hops and Schnapps!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-21T17:30:00-05:00",
-    "summary": "🇩🇪🍺 HOPS & SCHNAPPS ARE BACK AT THE HAUS! Get ready for an evening packed with authentic German music, cold Hofbräu bier and plenty of PROSTING! Hops & Schnapps bring the full Bavarian sound with brass, clarinet, percussion and all the energy you want from a night at…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-with-hops-and-schnapps/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Classical"
   }
 ]

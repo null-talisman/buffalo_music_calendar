@@ -60,6 +60,7 @@ const parsers = {
   ticketweb: loadTicketWeb,
   ticketmaster: loadTicketmaster,
   mohawk: loadMohawk,
+  "simple-calendar": loadSimpleCalendar,
 };
 
 async function loadVenue(venue, known) {
@@ -611,6 +612,155 @@ function showFromTicketmaster(event, venue) {
     eventUrl: event.url,
     source: sourceOf(venue),
   });
+}
+
+// --- Simple Calendar grid (Mr. Goodbar) ------------------------------------
+// The Google Calendar plugin draws one month into the page and loads the
+// others from admin-ajax.php. Drink specials share the grid with the bands,
+// so a title has to name a show before it is kept.
+
+const SIMPLE_CALENDAR_SHOW = /\b(bands?|djs?|karaoke|live music|comedy|open mic)\b/i;
+
+async function loadSimpleCalendar(venue) {
+  const html = await fetchText(venue.website);
+  const id = html.match(/data-calendar-id="(\d+)"/)?.[1];
+  const nonce = html.match(/"nonce":"([0-9a-f]+)"/)?.[1];
+  if (!id || !nonce) throw new Error(`No Simple Calendar on ${venue.website}`);
+
+  const embedded = embeddedCalendarMonth(html);
+  const shows = [];
+  const seen = new Set();
+  for (const { year, month } of monthsInWindow()) {
+    const markup =
+      embedded?.year === year && embedded?.month === month
+        ? html
+        : await fetchSimpleCalendarMonth(venue.website, id, nonce, year, month);
+    for (const show of showsFromSimpleCalendar(markup, venue, year, month)) {
+      if (seen.has(show.id)) continue;
+      seen.add(show.id);
+      shows.push(show);
+    }
+  }
+  return shows;
+}
+
+function embeddedCalendarMonth(html) {
+  const name = html.match(/class="simcal-current-month">([^<]+)</)?.[1];
+  const year = html.match(/class="simcal-current-year">(\d{4})</)?.[1];
+  if (!name || !year) return null;
+  return { year: Number(year), month: monthIndex(name) + 1 };
+}
+
+function monthsInWindow() {
+  const months = [];
+  const cursor = new Date();
+  cursor.setHours(12, 0, 0, 0);
+  cursor.setDate(1);
+  const horizon = new Date();
+  horizon.setHours(12, 0, 0, 0);
+  horizon.setDate(horizon.getDate() + horizonDays);
+  while (cursor <= horizon) {
+    months.push({ year: cursor.getFullYear(), month: cursor.getMonth() + 1 });
+    cursor.setMonth(cursor.getMonth() + 1, 1);
+  }
+  return months;
+}
+
+async function fetchSimpleCalendarMonth(website, id, nonce, year, month) {
+  const response = await fetch(new URL("/wp-admin/admin-ajax.php", website), {
+    method: "POST",
+    headers: {
+      "user-agent": "buffalo-music-calendar",
+      "content-type": "application/x-www-form-urlencoded",
+      accept: "application/json",
+    },
+    body: new URLSearchParams({
+      action: "simcal_default_calendar_draw_grid",
+      month: String(month),
+      year: String(year),
+      id,
+      nonce,
+    }),
+  });
+  if (!response.ok) throw new Error(`${response.status} for ${website} ${year}-${month}`);
+  const payload = await response.json();
+  if (!payload.success || typeof payload.data !== "string") {
+    throw new Error(`Simple Calendar rejected ${year}-${month}`);
+  }
+  return payload.data;
+}
+
+function showsFromSimpleCalendar(html, venue, year, month) {
+  const shows = [];
+  const dayPattern =
+    /class="simcal-day-(\d+)[^"]*simcal-day-has-events[^"]*"[\s\S]*?<ul class="simcal-events">([\s\S]*?)<\/ul>/g;
+  for (const match of html.matchAll(dayPattern)) {
+    const day = match[1];
+    for (const title of simpleCalendarTitles(match[2])) {
+      if (!SIMPLE_CALENDAR_SHOW.test(title)) continue;
+      const show = showFromSimpleCalendar(title, venue, year, month, day);
+      if (show) shows.push(show);
+    }
+  }
+  return shows;
+}
+
+function simpleCalendarTitles(listHtml) {
+  const titles = [];
+  for (const match of listHtml.matchAll(/<span class="simcal-event-title">([^<]*)<\/span>/g)) {
+    const title = plain(match[1]);
+    if (title && !titles.includes(title)) titles.push(title);
+  }
+  return titles;
+}
+
+function showFromSimpleCalendar(title, venue, year, month, day) {
+  const act = simpleCalendarAct(title);
+  const clock = lastClock(title);
+  if (!act || !clock) return null;
+  const monthName = MONTHS[month - 1];
+  const startsAt = wallTimeToIso(year, monthName, day, clock);
+  if (!inWindow(startsAt)) return null;
+  const ymd = startsAt.slice(0, 10);
+  return compactShow({
+    id: `${venue.id}-${ymd}-${slugify(`${act.summary}-${act.band}`)}`,
+    band: act.band,
+    venue: venue.name,
+    startsAt,
+    summary: act.summary,
+    eventUrl: venue.website,
+    source: sourceOf(venue),
+  });
+}
+
+// "1st Floor Band - Daze Ago - 9pm" keeps the bill. The weekly blurbs
+// (drink-night karaoke, rotating DJs, open mic) become a short title.
+function simpleCalendarAct(title) {
+  const billed = title.match(/^(1st|2nd) Floor Bands?\s+[–—:-]\s+(.+)$/i);
+  if (billed) {
+    const band = billed[2]
+      .replace(/\s*(?:[–—-]|@)\s*(?:doors at\s+)?\d{1,2}(?::\d{2})?\s*[ap]m\.?\s*$/i, "")
+      .trim();
+    const doors = /doors at\s+\d/i.test(title) ? "Doors" : "";
+    return { band, summary: [`${billed[1]} floor`, doors].filter(Boolean).join(". ") };
+  }
+  if (/^rotating djs\b/i.test(title)) return { band: "Rotating DJs", summary: "1st floor" };
+  if (/^karaoke in the attic\b/i.test(title)) {
+    return { band: "Karaoke and rotating Live Music", summary: "Attic and 1st floor" };
+  }
+  if (/^open mic comedy\b/i.test(title)) {
+    return { band: "Open Mic Comedy", summary: "Attic. DJ Mike West on the 1st floor." };
+  }
+  const karaoke = title.match(/^(1st|2nd) Floor Karaoke:\s*(.+)$/i);
+  if (karaoke) return { band: "Karaoke", summary: `${karaoke[1]} floor. ${karaoke[2].replace(/\.$/, "")}` };
+  return null;
+}
+
+function lastClock(title) {
+  const matches = [...title.matchAll(/\b(\d{1,2})(?::(\d{2}))?\s*([ap]m)\b/gi)];
+  const last = matches.at(-1);
+  if (!last) return null;
+  return `${last[1]}:${last[2] ?? "00"} ${last[3]}`;
 }
 
 // --- Shared helpers ---------------------------------------------------------

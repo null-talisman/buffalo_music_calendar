@@ -114,5 +114,11 @@
     "name": "Riviera Theatre",
     "website": "https://rivieratheatre.org/",
     "parser": "tribe"
+  },
+  {
+    "id": "mr-goodbar",
+    "name": "Mr. Goodbar",
+    "website": "https://mrgoodbarbuffalo.com/calendar/",
+    "parser": "simple-calendar"
   }
 ]
