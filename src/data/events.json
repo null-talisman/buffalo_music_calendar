@@ -30,45 +30,6 @@
     "genre": "Rock"
   },
   {
-    "id": "babeville-the-mid-week-vibe-xlviii",
-    "band": "The Mid-Week Vibe XLVIII-4 Year Anniversary!",
-    "venue": "Babeville",
-    "startsAt": "2026-10-07T20:00:00-04:00",
-    "summary": "The 9th Ward · Holton & Powell Entertainment present The Mid Week Vibe live in The 9th Ward September 2nd",
-    "eventUrl": "https://babevillebuffalo.com/events/the-mid-week-vibe-xlviii/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "rec-room-76th-street",
-    "band": "76th Street",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-07T20:00:00-04:00",
-    "summary": "With Tornsey. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/76th-street/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Indie"
-  },
-  {
-    "id": "nietzsches-nolen-durham",
-    "band": "Nolen Durham & Prince of Eden",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-07T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/nolen-durham",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "duende-3511108",
     "band": "BNR Land Trust Fall Fest",
     "venue": "Duende",
@@ -1200,7 +1161,7 @@
   },
   {
     "id": "buffalo-iron-works-austin-meade-2",
-    "band": "Austin Meade",
+    "band": "Austin Meade w/ Chris Casale",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-10-14T19:30:00-04:00",
     "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
@@ -3323,6 +3284,18 @@
     }
   },
   {
+    "id": "duende-3527737",
+    "band": "Artemis X",
+    "venue": "Duende",
+    "startsAt": "2026-10-29T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3527737",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-hedons",
     "band": "Justin Wade Thompson’s Uptown Hedonist Jams",
     "venue": "Nietzsche's",
@@ -3831,7 +3804,7 @@
     "band": "Annual Halloween Party with XOXO Pop Band",
     "venue": "Hofbräuhaus Buffalo",
     "startsAt": "2026-10-31T21:00:00-04:00",
-    "summary": "More info to come & will be available on Facebook.",
+    "summary": "🎃 BUFFALO’S HALLOWEEN TRADITION IS BACK! 🎃 Halloween night at Hofbräuhaus Buffalo means one thing… XOXO POP BAND! 👻🎶 XOXO returns for our annual Halloween Party October 31st from 9PM–Midnight — and once again, we’re going BIG with the costume contest. 🏆 BEST COSTUME…",
     "eventUrl": "https://www.hofbrauhausbuffalo.com/event/annual-halloween-party-with-xoxo-pop-band/",
     "source": {
       "name": "Hofbräuhaus Buffalo",
