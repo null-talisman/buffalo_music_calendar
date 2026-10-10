@@ -1,155 +1,5 @@
 [
   {
-    "id": "mr-goodbar-2026-10-08-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-08T20:00:00-04:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "buffalo-iron-works-dj-brownie-2",
-    "band": "DJ Brownie",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-09T00:00:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/dj-brownie-2/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-2",
-    "band": "Oktoberfest LIVE German Music – Die Haus Band",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-09T16:30:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-2/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3411347",
-    "band": "The Skiffle Minstrels",
-    "venue": "Duende",
-    "startsAt": "2026-10-09T18:00:00-04:00",
-    "summary": "Monthly on every second Friday",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3411347",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "electric-city-bingo-loco-presents-name-that-song",
-    "band": "Bingo Loco Presents: Name That Song",
-    "venue": "Electric City",
-    "startsAt": "2026-10-09T18:00:00-04:00",
-    "price": "$33–$35",
-    "summary": "Bingo Loco is an innovative and exhilarating event experience that combines the classic game of bingo with a high-energy party atmosphere. Founded in Dublin, this unique concept has quickly gained popularity across the globe, captivating audiences with its lively music,…",
-    "eventUrl": "https://electriccity.com/events/bingo-loco-presents-name-that-song/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "mohawk-place-2026-10-09-joe-donohue",
-    "band": "Joe Donohue",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-09T18:00:00-04:00",
-    "price": "$5 sugg. donation",
-    "eventUrl": "https://www.facebook.com/events/4058008587836152",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-greg-klyma-band",
-    "band": "The Greg Klyma Band",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-09T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/greg-klyma-band",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "nietzsches-greg-klyma-band-ltxd3",
-    "band": "The Dolly Sods Album Release wsg Two Point Oh & Sertraline",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-09T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/greg-klyma-band-ltxd3",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "the-caz-the-emerge-effect-live-still-becoming-09-oct",
-    "band": "The Emerge Effect Live: Still Becoming",
-    "venue": "The Caz",
-    "startsAt": "2026-10-09T19:00:00-04:00",
-    "price": "$30",
-    "summary": "Doors 6:00 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/the-emerge-effect-live-still-becoming-09-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "town-ballroom-the-disco-biscuits-2-night-pass-4",
-    "band": "The Disco Biscuits 2 Night Pass",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-09T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/the-disco-biscuits-2-night-pass-4/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "town-ballroom-the-disco-biscuits-night-1-2",
-    "band": "The Disco Biscuits [NIGHT 1]",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-09T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/the-disco-biscuits-night-1-2/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Jam"
-  },
-  {
     "id": "riviera-theatre-night-fever-1",
     "band": "Night Fever – A Tribute to The Bee Gees",
     "venue": "Riviera Theatre",
@@ -177,20 +27,6 @@
       "url": "https://babevillebuffalo.com/events/"
     },
     "genre": "Folk"
-  },
-  {
-    "id": "buffalo-iron-works-the-sadies",
-    "band": "The Sadies",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-09T20:00:00-04:00",
-    "summary": "The Sadies The Sadies have played all over the world where, for the last 30 years, they have astonished audiences with their earthy arsenal of roots music, country, spaghetti western, surf, garage rock, psychedelia, and the slippery beast known as alt rock, all with uncanny…",
-    "eventUrl": "https://buffaloironworks.com/event/the-sadies/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Country"
   },
   {
     "id": "mohawk-place-2026-10-09-the-salt-road-trio",
@@ -221,32 +57,6 @@
     }
   },
   {
-    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-more-country-hintz-of-thunder-live",
-    "band": "Oktoberfest Continues with Hintz of Thunder LIVE + MECHANICAL BULL!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-09T21:00:00-04:00",
-    "summary": "⚡ A storm is rolling into the Bierhall! Hintz of Thunder is bringing a high-energy mix of today’s country hits, throwback favorites and pop-rock crowd-pleasers to Hofbräuhaus Buffalo. Led by dynamic female vocals and backed by a powerhouse band, this is one Oktoberfest party…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-more-country-hintz-of-thunder-live/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-part-time-geniuses",
-    "band": "Part Time Geniuses",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-09T21:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/part-time-geniuses",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-10-09-1st-floor-bear-the-bronze",
     "band": "Bear The Bronze",
     "venue": "Mr. Goodbar",
@@ -258,20 +68,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-5",
-    "band": "Live Band Karaoke 90s Rock and Pop Edition",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-09T22:00:00-04:00",
-    "summary": "21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-5/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Karaoke"
   },
   {
     "id": "duende-3448668",
@@ -5310,6 +5106,20 @@
     "genre": "German"
   },
   {
+    "id": "duende-3532909",
+    "band": "The Skiffle Minstrels",
+    "venue": "Duende",
+    "startsAt": "2026-11-13T18:00:00-05:00",
+    "summary": "Monthly on every second Friday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3532909",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Folk"
+  },
+  {
     "id": "nietzsches-flatbed",
     "band": "Flatbed",
     "venue": "Nietzsche's",
@@ -6554,5 +6364,44 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "the-caz-the-nick-moss-band-ft-dennis-gruenling-22-nov",
+    "band": "The Nick Moss Band ft. Dennis Gruenling",
+    "venue": "The Caz",
+    "startsAt": "2026-11-22T19:00:00-05:00",
+    "price": "$20",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/the-nick-moss-band-ft-dennis-gruenling-22-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-64nsd",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-22T20:30:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-64nsd",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Jazz"
+  },
+  {
+    "id": "nietzsches-tba-monday",
+    "band": "TBA",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-23T18:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-monday",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
   }
 ]
