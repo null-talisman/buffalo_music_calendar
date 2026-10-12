@@ -44,208 +44,6 @@
     "genre": "Funk"
   },
   {
-    "id": "hofbrauhaus-buffalo-bavarian-brunch-with-das-haus-duo-2",
-    "band": "Bavarian Brunch with Das Haus Duo!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-11T11:00:00-04:00",
-    "summary": "Bavarian Brunch with Das Haus Duo!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/bavarian-brunch-with-das-haus-duo-2/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "nietzsches-steam-donkeys-penny",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-11T12:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-penny",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-dead-brunch-with-buffalo-dead-all-stars",
-    "band": "Dead Brunch with Buffalo Dead All Stars",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-11T13:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/dead-brunch-with-buffalo-dead-all-stars",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "bpo-francis-2026-10-11",
-    "band": "Francis: An Oratorio in Nine Scenes",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-11T14:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Experience a major world premiere as the BPO brings Richard Danielpour’s Francis: An Oratorio in Nine Scenes to life — an expansive new work inspired by St. Francis of Assisi and marking the 800th anniversary of his death. Through…",
-    "eventUrl": "https://bpo.org/event/francis/2026-10-11/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "nietzsches-grateful-dans-oct-2026",
-    "band": "The Grateful Dans",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-11T15:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "duende-3417719",
-    "band": "The Susan Peters Jazz Band",
-    "venue": "Duende",
-    "startsAt": "2026-10-11T16:00:00-04:00",
-    "summary": "Monthly on every second Sunday Featuring: Abdul Rahman Qadir on drums, Piccirilli on upright bass, Wally Jederman on vibes and George Kane on guitar!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3417719",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "duende-3487236",
-    "band": "BOOTEA",
-    "venue": "Duende",
-    "startsAt": "2026-10-11T16:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3487236",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "buffalo-iron-works-daycrawlers-bazaar-1970",
-    "band": "Daycrawlers Bazaar 1970",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-11T17:00:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/daycrawlers-bazaar-1970/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-the-claudettes-sportmens",
-    "band": "The Claudettes",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-10-11T17:00:00-04:00",
-    "summary": "Sportsmens presents The Claudettes Sunday, October 11, 2026 $15/ad + Online fee, $20door 5pm Doors, 7pm Showtime Six albums into their lauded career, the Claudettes continue to put a fascinating spin on American roots music with their 2026 Pravda Records album GARAGE GLAMOUR.…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-claudettes-sportmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Blues"
-  },
-  {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-11T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "rec-room-oso-oso",
-    "band": "Oso Oso",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-11T19:00:00-04:00",
-    "summary": "With Leisure Hour, Bad Luck., The Weather Might Say Otherwise. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/oso-oso/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Emo"
-  },
-  {
-    "id": "the-caz-sydney-sterlace-dinner-show-experience-11-oct",
-    "band": "Sydney Sterlace - Dinner & Show Experience",
-    "venue": "The Caz",
-    "startsAt": "2026-10-11T19:00:00-04:00",
-    "price": "$59.95–$69.95",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/sydney-sterlace-dinner-show-experience-11-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Dinner Show"
-  },
-  {
-    "id": "babeville-don-was-the-pan-detroit-ensemble",
-    "band": "Don Was & The Pan-Detroit Ensemble",
-    "venue": "Babeville",
-    "startsAt": "2026-10-11T20:00:00-04:00",
-    "summary": "Asbury · DSP Shows presents Don Was & The Pan Detroit Ensemble live at Asbury Hall October 11, 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/don-was-the-pan-detroit-ensemble/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-11T20:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-10-12",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-12T17:15:00-04:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-12/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
     "id": "mohawk-place-2026-10-12-biff-party-zubazpalooza",
     "band": "BIFF Party: Zubazpalooza",
     "venue": "Mohawk Place",
@@ -295,6 +93,20 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
+    },
+    "genre": "Watch Party"
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-10-12",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-12T20:15:00-04:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-12/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Watch Party"
   },
@@ -1112,6 +924,19 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "rec-room-honey",
+    "band": "Honey",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-16T22:00:00-04:00",
+    "summary": "With Honey Bflo. All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/honey/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -3209,20 +3034,6 @@
     }
   },
   {
-    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-6",
-    "band": "Live Band Karaoke 90s Rock and Pop Edition",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-30T22:00:00-04:00",
-    "summary": "21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-6/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Karaoke"
-  },
-  {
     "id": "babeville-junior-jerry-jam-presents-grateful-dead-disco-halloween-w-pocketship",
     "band": "Junior Jerry Jam presents Grateful Dead Disco Halloween w/ Pocketship",
     "venue": "Babeville",
@@ -4044,6 +3855,19 @@
     "genre": "Funk"
   },
   {
+    "id": "the-cave-too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave",
+    "band": "Too Many Guitars Vol. 1 Hosted by Rick Strauss",
+    "venue": "The Cave",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "summary": "The Cave presents Too Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 7pm Doos/8pm Showtime Screenshot",
+    "eventUrl": "https://sportsmensbuffalo.com/single/too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
     "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
     "band": "Sax In The City Part 7 Will Holton",
     "venue": "The Caz",
@@ -4313,6 +4137,20 @@
       "name": "Kleinhans Music Hall",
       "kind": "website",
       "url": "https://kleinhansbuffalo.org/events/"
+    },
+    "genre": "Jazz"
+  },
+  {
+    "id": "duende-3539851",
+    "band": "The Susan Peters Jazz Band",
+    "venue": "Duende",
+    "startsAt": "2026-11-08T16:00:00-05:00",
+    "summary": "Monthly on every second Sunday Featuring: Abdul Rahman Qadir on drums, Piccirilli on upright bass, Wally Jederman on vibes and George Kane on guitar!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3539851",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     },
     "genre": "Jazz"
   },
@@ -4817,6 +4655,20 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "rec-room-dueling-pianos-2",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-13T18:00:00-05:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-2/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
   },
   {
     "id": "town-ballroom-saosin",
@@ -6140,6 +5992,85 @@
       "name": "Town Ballroom",
       "kind": "website",
       "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-kelli-baker-band-24-nov",
+    "band": "Kelli Baker Band",
+    "venue": "The Caz",
+    "startsAt": "2026-11-24T19:00:00-05:00",
+    "price": "$20–$25",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/kelli-baker-band-24-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-11-24-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-24T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-bs3pd",
+    "band": "Rust Belt Comedy Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-24T21:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-bs3pd",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Comedy"
+  },
+  {
+    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-x32e2",
+    "band": "The Stripteasers Bar-Top Burlesque",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-24T22:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k-x32e2",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Burlesque"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-25",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-25T16:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-25/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "nietzsches-beave-and-friends",
+    "band": "Beave & Friends",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-25T18:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/beave-and-friends",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
     }
   }
 ]
