@@ -30,87 +30,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-10-2nd-floor-doors-the-honk-committee-tri-state-are",
-    "band": "The Honk Committee & Tri State Area & Buffalo Funk Brigade",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-10T20:00:00-04:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Funk"
-  },
-  {
-    "id": "mohawk-place-2026-10-12-biff-party-zubazpalooza",
-    "band": "BIFF Party: Zubazpalooza",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-12T18:00:00-04:00",
-    "price": "Free",
-    "summary": "Buffalo International Film Festival presents · Free to attend and open to the public — cocktails, conversation, great music, and more. Bison Pass holders get one drink ticket; cash bar open all night with food for sale. As BIFF says: “If you’re not wearing Zubaz… you’re just…",
-    "eventUrl": "https://www.buffalofilm.org/events/zubazpalooza-2026/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-comienzos-buffalo-october",
-    "band": "Comienzos",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-12T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/comienzos-buffalo-october",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w",
-    "band": "Open Mic + Songwriter Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-12T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-rams",
-    "band": "103.3 The Edge Bills Away Game Party: Bills vs. Rams",
-    "venue": "Electric City",
-    "startsAt": "2026-10-12T20:15:00-04:00",
-    "summary": "Bills fans, this is home base on the road. Join 103.3 The Edge for WNY’s BIGGEST Bills Watch Parties, live every away game, on our massive 20½-foot (250″) LED wall with WNY’s best sound system. Doors open one hour before kickoff – grab a seat, mingle with The Edge’s on-air…",
-    "eventUrl": "https://electriccity.com/events/103-3-the-edge-bills-away-game-party-bills-vs-rams/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-10-12",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-12T20:15:00-04:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-12/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
     "id": "duende-3401473",
     "band": "Open Mic hosted by Tom Stahl",
     "venue": "Duende",
@@ -173,20 +92,6 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "the-caz-rhythm-sound-soundbath-sessions-13-oct",
-    "band": "Rhythm & Sound: Soundbath Sessions",
-    "venue": "The Caz",
-    "startsAt": "2026-10-13T19:00:00-04:00",
-    "price": "$15",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/rhythm-sound-soundbath-sessions-13-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
     }
   },
   {
@@ -3815,6 +3720,21 @@
     "genre": "Folk"
   },
   {
+    "id": "electric-city-stone-city-band",
+    "band": "Stone City Band",
+    "venue": "Electric City",
+    "startsAt": "2026-11-06T20:00:00-05:00",
+    "price": "$39–$51",
+    "summary": "The Stone City Band, known for their dynamic blend of funk, R&B, and soul, has been a significant force in the music scene since their formation. Originally serving as the backing band for legendary artist Rick James, they have carved out their own identity with a series of…",
+    "eventUrl": "https://electriccity.com/events/stone-city-band/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Soul"
+  },
+  {
     "id": "mohawk-place-2026-11-06-after-show-isded-tunic-queen-city-collective",
     "band": "After show: isded, Tunic, Queen City Collective",
     "venue": "Mohawk Place",
@@ -4846,18 +4766,18 @@
     }
   },
   {
-    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-7",
-    "band": "Live Band Karaoke 90s Rock and Pop Edition",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-13T22:00:00-05:00",
-    "summary": "21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-7/",
+    "id": "the-caz-randle-the-late-night-scandals-14-nov",
+    "band": "Randle & The Late Night Scandals",
+    "venue": "The Caz",
+    "startsAt": "2026-11-14T14:00:00-05:00",
+    "price": "$12.68",
+    "summary": "Doors 1:30 pm. Show 2:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/randle-the-late-night-scandals-14-nov",
     "source": {
-      "name": "Rec Room",
+      "name": "The Caz",
       "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Karaoke"
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
   },
   {
     "id": "nietzsches-celtic-sessions-october-yhw2w-8gfay",
@@ -6035,6 +5955,19 @@
     "genre": "Comedy"
   },
   {
+    "id": "mr-goodbar-2026-11-24-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-24T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-x32e2",
     "band": "The Stripteasers Bar-Top Burlesque",
     "venue": "Nietzsche's",
@@ -6072,5 +6005,127 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-25",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-25T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-25/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-25",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-25T19:00:00-05:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-25/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "town-ballroom-the-strictly-hip-7",
+    "band": "The Strictly Hip",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-25T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/the-strictly-hip-7/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "buffalo-iron-works-silver-maple-w-blume",
+    "band": "Silver Maple w/ Blume",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-25T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/silver-maple-w-blume/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
+    "band": "Punksgiving: Rat Hazard, Cowboy Vampires, Broken Locker, Thunder Station Dirtbag Coalition, Infrared Radiation Orchestra",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-25T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "nietzsches-thanksgiving-eve",
+    "band": "Pocketship + Zak Ward & the Million Dollar Question Thanksgiving Eve Throwdown",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-25T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Jam"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-%f0%9f%8e%b6-funk-before-the-feast-%f0%9f%a6%83-live-with-the-funkensteins",
+    "band": "🎶 FUNK BEFORE THE FEAST! 🦃 – LIVE with the Funkensteins!!!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-25T21:00:00-05:00",
+    "summary": "🎶 FUNK BEFORE THE FEAST! 🦃 Before you pass the potatoes, pass us your best dance moves! The Funkensteins are taking over the Haus for the biggest party night of the year. Come dance off the calories before you eat them, because Thanksgiving dinner tastes even better after a…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/%f0%9f%8e%b6-funk-before-the-feast-%f0%9f%a6%83-live-with-the-funkensteins/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Funk"
+  },
+  {
+    "id": "mr-goodbar-2026-11-25-1st-floor-off-the-wall",
+    "band": "Off The Wall",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-25T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-11-25-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-25T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
   }
 ]
