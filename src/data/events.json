@@ -30,142 +30,6 @@
     "genre": "Rock"
   },
   {
-    "id": "duende-3401473",
-    "band": "Open Mic hosted by Tom Stahl",
-    "venue": "Duende",
-    "startsAt": "2026-10-13T18:00:00-04:00",
-    "summary": "Monthly on every second Tuesday",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3401473",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "duende-3494547",
-    "band": "Chess @ the Silos",
-    "venue": "Duende",
-    "startsAt": "2026-10-13T18:00:00-04:00",
-    "summary": "Monthly on every second Tuesday Free to enter! Trophy Awarded!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494547",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-13T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-13T19:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-10-13-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-13T19:00:00-04:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766045019606",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "rec-room-inter-arma-with-chained-to-the-botton-of-the-ocean",
-    "band": "Inter Arma with Chained To The Botton Of The Ocean",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-13T19:30:00-04:00",
-    "summary": "With Inter Arma, Chained To The Bottom Of The Ocean, One Way Terror, Cemetery Echo. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/inter-arma-with-chained-to-the-botton-of-the-ocean/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Metal"
-  },
-  {
-    "id": "babeville-richard-shindell-2",
-    "band": "Richard Shindell",
-    "venue": "Babeville",
-    "startsAt": "2026-10-13T20:00:00-04:00",
-    "summary": "Tuesday, October 13, 2026 DSP Shows presents Richard Shindell live in The 9th Ward 7pm doors, 8pm show Tickets: General Admission Seated – $28 advance, $32 day of show available at TixR.com or in person at the Babeville Box Office (M-F 11a-5p) – 3% credit card fee, no fee for…",
-    "eventUrl": "https://babevillebuffalo.com/events/richard-shindell-2/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "buffalo-iron-works-alana-springsteen-w-kyle-schuesler",
-    "band": "Alana Springsteen w/ Kyle Schuesler",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-13T20:00:00-04:00",
-    "price": "$25",
-    "summary": "Alana Springsteen A fearless storyteller with an unshakable sense of self, Alana Springsteen has built her career on telling the truth, no matter how messy or hard-fought. Across high-concept projects like her three-part debut album TWENTY SOMETHING and highly awaited sophomore…",
-    "eventUrl": "https://buffaloironworks.com/event/alana-springsteen-w-kyle-schuesler/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "electric-city-christone-kingfish-ingram-the-hard-road-tour",
-    "band": "Christone “Kingfish” Ingram: The Hard Road Tour",
-    "venue": "Electric City",
-    "startsAt": "2026-10-13T20:00:00-04:00",
-    "price": "$35–$135",
-    "summary": "Christone “Kingfish” Ingram is a rising star in the blues genre, renowned for his remarkable guitar skills and soulful voice. Hailing from Clarksdale, Mississippi, Kingfish has quickly made a name for himself by revitalizing traditional blues with his unique blend of…",
-    "eventUrl": "https://electriccity.com/events/christone-kingfish-ingram-the-hard-road-tour/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Blues"
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-13T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-10-13-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -177,19 +41,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-13T22:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3404889",
@@ -997,7 +848,7 @@
   },
   {
     "id": "mr-goodbar-2026-10-17-2nd-floor-doors-alex-francis-friends-midnight-fe",
-    "band": "Alex Francis & Friends, Midnight Feature, L!que",
+    "band": "Alex Francis & Friends, Midnight Feature, L!que, & Redcorn",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-10-17T20:00:00-04:00",
     "summary": "2nd floor. Doors",
@@ -2788,6 +2639,18 @@
     "genre": "German"
   },
   {
+    "id": "duende-3545334",
+    "band": "Tina Williams and the Coydogs",
+    "venue": "Duende",
+    "startsAt": "2026-10-30T18:00:00-04:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545334",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-ratlns",
     "band": "Randle & the Late Night Scandals Halloween Happy Hour",
     "venue": "Nietzsche's",
@@ -2936,6 +2799,19 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-honey-halloween",
+    "band": "Honey Halloween",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-30T23:00:00-04:00",
+    "summary": "With Honey Bflo. All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/honey-halloween/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -3179,6 +3055,19 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "rec-room-halloween-night-with-biacco",
+    "band": "Halloween Night with Biacco",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-31T23:00:00-04:00",
+    "summary": "With Biacco. All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/halloween-night-with-biacco/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -3676,21 +3565,6 @@
     "genre": "Punk"
   },
   {
-    "id": "electric-city-a-foreigners-journey-to-boston",
-    "band": "A Foreigner’s Journey to Boston",
-    "venue": "Electric City",
-    "startsAt": "2026-11-06T19:30:00-05:00",
-    "price": "$32–$52",
-    "summary": "A Foreigner’s Journey is a dynamic tribute band that pays homage to two of rock’s most iconic bands, Foreigner and Journey. With a unique blend of classic rock anthems, they deliver an exhilarating live experience that captivates audiences across the country. The band features…",
-    "eventUrl": "https://electriccity.com/events/a-foreigners-journey-to-boston/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Rock"
-  },
-  {
     "id": "riviera-theatre-zepp-reimagined-1",
     "band": "Zeppelin Reimagined",
     "venue": "Riviera Theatre",
@@ -4179,6 +4053,33 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Watch Party"
+  },
+  {
+    "id": "duende-3545981",
+    "band": "Open Mic hosted by Tom Stahl",
+    "venue": "Duende",
+    "startsAt": "2026-11-10T18:00:00-05:00",
+    "summary": "Monthly on every second Tuesday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545981",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "duende-3545983",
+    "band": "Chess @ the Silos",
+    "venue": "Duende",
+    "startsAt": "2026-11-10T18:00:00-05:00",
+    "summary": "Monthly on every second Tuesday Free to enter! Trophy Awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545983",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-6kcp8",
@@ -4670,6 +4571,18 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Indie"
+  },
+  {
+    "id": "duende-3548721",
+    "band": "Science Man Album Release Show",
+    "venue": "Duende",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3548721",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "electric-city-hot-in-herre-2000s-dance-party",
@@ -5638,6 +5551,21 @@
     "genre": "Bluegrass"
   },
   {
+    "id": "the-caz-flashback-performing-the-music-of-bob-seger-21-nov",
+    "band": "FLASHBACK - Performing the Music of BOB SEGER",
+    "venue": "The Caz",
+    "startsAt": "2026-11-21T19:00:00-05:00",
+    "price": "$23.51–$28.66",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/flashback-performing-the-music-of-bob-seger-21-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Tribute"
+  },
+  {
     "id": "bpo-vaughan-williams-double-bass-2026-11-21",
     "band": "Vaughan Williams & Double Bass",
     "venue": "Kleinhans Music Hall",
@@ -6127,5 +6055,72 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "mr-goodbar-2026-11-26-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-26T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "nietzsches-thanksgiving-eve-frkwp",
+    "band": "LATE OPEN & Thanksgiving Day Jam + Potluck",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-26T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve-frkwp",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Jam"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-27",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-27T16:00:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-27/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "nietzsches-thanksgiving-eve-frkwp-awpaw",
+    "band": "Little Cake",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-27T18:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve-frkwp-awpaw",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "rec-room-dueling-pianos-3",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-27T18:30:00-05:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-3/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
   }
 ]
