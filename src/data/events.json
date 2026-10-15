@@ -30,196 +30,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-13-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-13T22:00:00-04:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3404889",
-    "band": "Taproom Trivia",
-    "venue": "Duende",
-    "startsAt": "2026-10-14T18:00:00-04:00",
-    "summary": "Monthly on every second Wednesday Free to join! Prizes awarded!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3404889",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "nietzsches-east-coast-dave-2026",
-    "band": "East Coast Dave",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-14T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/east-coast-dave-2026",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-14",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-14T19:00:00-04:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-14/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-14",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-14T19:00:00-04:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-14/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "rec-room-agnostic-front",
-    "band": "Agnostic Front",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-14T19:00:00-04:00",
-    "summary": "With Béton Armé, Restraining Order, Bomb Vest. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/agnostic-front/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "the-caz-curtis-saldago-14-oct",
-    "band": "Curtis Salgado",
-    "venue": "The Caz",
-    "startsAt": "2026-10-14T19:00:00-04:00",
-    "price": "$20–$25",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/curtis-saldago-14-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Blues"
-  },
-  {
-    "id": "town-ballroom-lucero",
-    "band": "Lucero",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-14T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/lucero/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "buffalo-iron-works-austin-meade-2",
-    "band": "Austin Meade w/ Chris Casale",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-14T19:30:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/austin-meade-2/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-14T19:30:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "kleinhans-sigrid-nunez",
-    "band": "BABEL | Sigrid Nunez",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-14T19:30:00-04:00",
-    "summary": "Just Buffalo Literary Center presents BABEL featuring Sigrid Nunez Wednesday, October 14, 2026 7:30 pm Doors open at 6:30 p.m. Author Reception for Premium Access ticketholders starts at 6:30pm Join Just Buffalo Literary Center’s BABEL Author Series for an evening with Sigrid…",
-    "eventUrl": "https://kleinhansbuffalo.org/event/sigrid-nunez/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://kleinhansbuffalo.org/events/"
-    },
-    "genre": "Talk"
-  },
-  {
-    "id": "babeville-fuzzy-the-rustbelts",
-    "band": "Fuzzy & The Rustbelts",
-    "venue": "Babeville",
-    "startsAt": "2026-10-14T20:00:00-04:00",
-    "summary": "The 9th Ward · Fuzzy & The Rustbelts live in the 9th Ward",
-    "eventUrl": "https://babevillebuffalo.com/events/fuzzy-the-rustbelts/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "electric-city-sweet-pill",
-    "band": "Sweet Pill",
-    "venue": "Electric City",
-    "startsAt": "2026-10-14T20:00:00-04:00",
-    "price": "$6–$46",
-    "summary": "Sweet Pill is an electrifying band known for their vibrant blend of pop-punk and alternative rock. With their infectious melodies and powerful lyrics, they have quickly made a name for themselves in the music scene. Their dynamic sound is characterized by energetic guitar riffs…",
-    "eventUrl": "https://electriccity.com/events/sweet-pill/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "jack-rabbit-x3jntpxwec5e6hpkrsxff4xfjbr64c",
-    "band": "Music Is Art Showcase",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-14T20:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/x3jntpxwec5e6hpkrsxff4xfjbr64c",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-10-14-attic-and-1st-floor-karaoke-and-rotating-live-mu",
     "band": "Karaoke and rotating Live Music",
     "venue": "Mr. Goodbar",
@@ -232,18 +42,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "nietzsches-jugband-buffalo",
-    "band": "Arthur Buezo",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-14T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jugband-buffalo",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
   },
   {
     "id": "hofbrauhaus-buffalo-haus-duo",
@@ -3650,10 +3448,10 @@
   },
   {
     "id": "the-cave-too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave",
-    "band": "Too Many Guitars Vol. 1 Hosted by Rick Strauss",
+    "band": "To Many Guitars Vol. 1 Hosted by Rick Strauss",
     "venue": "The Cave",
     "startsAt": "2026-11-06T20:00:00-05:00",
-    "summary": "The Cave presents Too Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 7pm Doos/8pm Showtime Screenshot",
+    "summary": "The Cave presents To Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 7pm Doos/8pm Showtime Screenshot",
     "eventUrl": "https://sportsmensbuffalo.com/single/too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave/",
     "source": {
       "name": "The Cave",
@@ -4173,6 +3971,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Burlesque"
+  },
+  {
+    "id": "duende-3550918",
+    "band": "Taproom Trivia",
+    "venue": "Duende",
+    "startsAt": "2026-11-11T18:00:00-05:00",
+    "summary": "Monthly on every second Wednesday Free to join! Prizes awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3550918",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Trivia"
   },
   {
     "id": "nietzsches-freddy-hill",
@@ -4841,6 +4653,20 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "the-cave-country-honk-the-cave",
+    "band": "Country Honk",
+    "venue": "The Cave",
+    "startsAt": "2026-11-14T20:00:00-05:00",
+    "summary": "The Cave presents Country Honk Saturday, November 14, 2026 $15.00 + Online Fee 7pm Doors, 8pm Showtime Country Honk is a Cleveland-based four-piece playing classic country, honky tonk, and country rock with a sound rooted in the ’60s and ’70s. Drawing from artists like Hank…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/country-honk-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Country"
   },
   {
     "id": "the-caz-blizzard-of-ozz-a-tribute-to-ozzy-osbourne-black-sabbath-randy-rhoads-w-sicard-hollow-14-nov",
@@ -6122,5 +5948,138 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "town-ballroom-54%c2%b740",
+    "band": "54·40",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-11-27T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/54%c2%b740/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-stoneflower-buffalo-live-with-a-tribute-to-tom-petty",
+    "band": "Stoneflower Buffalo LIVE with a Tribute to Tom Petty!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-27T19:30:00-05:00",
+    "summary": "🎸 Don’t do us like that, Buffalo! Stoneflower returns to Hofbräuhaus Buffalo with the music of Tom Petty and The Traveling Wilburys. Get ready for a night packed with classic rock, huge sing-alongs and fan favorites that will have the entire Bierhall singing from the first…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/stoneflower-buffalo-live-with-a-tribute-to-tom-petty/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "buffalo-iron-works-mack-geiger",
+    "band": "Mack Geiger w/ Trey Pendley",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-27T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/mack-geiger/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-11-27-depeche-mode-vs-new-order-transmission-dance-par",
+    "band": "Depeche Mode vs. New Order Transmission Dance Party",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-27T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "DJ"
+  },
+  {
+    "id": "nietzsches-thanksgiving-eve-frkwp-awpaw-5bzsk",
+    "band": "Stephen Babcock Black Friday Banger",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-27T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve-frkwp-awpaw-5bzsk",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-cave-the-smiths-etc-tribute-to-the-smiths-the-cave",
+    "band": "THE SMITHS etc Tribute to The Smiths",
+    "venue": "The Cave",
+    "startsAt": "2026-11-27T20:00:00-05:00",
+    "summary": "The Cave presents THE SMITHS etc Tribute to The Smiths Fri, Nov 27 The Cave 71 Military Rd, Buffalo, NY 14207 Doors 7pm • Show 8pm The Smiths etc, a tribute to The Smiths, return on Black Friday to The Cave for another lively and engaging celebration of the greatest and most…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-smiths-etc-tribute-to-the-smiths-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    },
+    "genre": "Tribute"
+  },
+  {
+    "id": "mr-goodbar-2026-11-27-1st-floor-daze-ago",
+    "band": "Daze Ago",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-11-27T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-8",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-27T22:00:00-05:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-8/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Karaoke"
+  },
+  {
+    "id": "nietzsches-celtic-sessions-october-yhw2w-ygf54",
+    "band": "Celtic Sessions",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-28T16:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-ygf54",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Folk"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-28",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-28T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-28/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
   }
 ]
