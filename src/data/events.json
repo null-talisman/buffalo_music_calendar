@@ -45,186 +45,6 @@
     "genre": "Comedy"
   },
   {
-    "id": "mohawk-place-2026-10-15-mark-winters-ian-mccuen",
-    "band": "Mark Winters, Ian McCuen",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-15T20:00:00-04:00",
-    "price": "$10",
-    "summary": "Sugar Land, Texas-based singer-songwriter — and bonafide rocket scientist — Mark Winters plays “rock with a positive vibe,” drawing on influences from John Mayer to Tom Petty. His sophomore album, Boundary Layer , is out now.",
-    "eventUrl": "https://www.facebook.com/events/1613217066893255",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "mr-goodbar-2026-10-15-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-15T20:00:00-04:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-4",
-    "band": "Oktoberfest LIVE German Music – Die Haus Band",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-16T16:00:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-4/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3523981",
-    "band": "The Responsive Silo: Experimental Visual and Acoustical Spaces",
-    "venue": "Duende",
-    "startsAt": "2026-10-16T17:30:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3523981",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "duende-3423069",
-    "band": "The Mood Swingers",
-    "venue": "Duende",
-    "startsAt": "2026-10-16T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3423069",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "nietzsches-tom-stahl-band",
-    "band": "Tom Stahl Band",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-16T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tom-stahl-band",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "rec-room-dueling-pianos-2026-10-16",
-    "band": "Dueling Pianos",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-16T18:30:00-04:00",
-    "summary": "and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-2026-10-16/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "mohawk-place-2026-10-16-nini-seven-kingdoms-otherworldly-entity-memory",
-    "band": "NINI, Seven Kingdoms, Otherworldly Entity, Memory",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-16T19:00:00-04:00",
-    "price": "$25 (21+) / $30 (18–20)",
-    "summary": "Nini Music is a Taiwan-born folk metal musician fusing traditional Chinese instruments — including her signature electric lute, the DaoYu — with heavy metal, rock, and EDM. With over 2 million followers and a standout appearance on America’s Got Talent Season 19, she’s one of…",
-    "eventUrl": "https://www.facebook.com/events/1365517985554251",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Metal"
-  },
-  {
-    "id": "sportsmens-tavern-grosh-w-perilous-sportsmens",
-    "band": "GROSH w/Perilous",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-10-16T19:00:00-04:00",
-    "summary": "Sportsmens presents GROSH w/Perilous Friday, October 16, 2026",
-    "eventUrl": "https://sportsmensbuffalo.com/single/grosh-w-perilous-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "the-caz-james-taylor-tribute-caz-2nd-anniversary-show-jake-schneider-16-oct",
-    "band": "James Taylor Tribute & CAZ 2nd Anniversary Show - Jake Schneider",
-    "venue": "The Caz",
-    "startsAt": "2026-10-16T19:00:00-04:00",
-    "price": "$25–$35",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/james-taylor-tribute-caz-2nd-anniversary-show-jake-schneider-16-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "town-ballroom-failure",
-    "band": "FAILURE",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-16T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/failure/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "bpo-a-gospel-symphony-tribute-to-richard-smallwood",
-    "band": "A Gospel Symphony Tribute to Richard Smallwood",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-16T19:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text]This concert honors a towering figure in gospel music, Richard Smallwood, through the combined power of orchestra and choir. The BPO joins the Buffalo United Community Choir for an evening rooted in faith, artistry, and the kind of music that…",
-    "eventUrl": "https://bpo.org/event/a-gospel-symphony-tribute-to-richard-smallwood/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Soul"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-the-black-rock-beatles-live-at-our-haus",
-    "band": "Oktoberfest Continues with the Black Rock Beatles LIVE at our HAUS!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-16T19:30:00-04:00",
-    "summary": "🎶 The Beatles meet Oktoberfest at Hofbräuhaus Buffalo! The Black Rock Beatles are taking over the Bierhall with a live celebration of the music that changed the world. No wigs. No costumes. No gimmicks. Just talented Buffalo musicians performing the timeless Beatles songs…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-the-black-rock-beatles-live-at-our-haus/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Rock"
-  },
-  {
     "id": "riviera-theatre-brain-damage",
     "band": "Brain Damage – A Tribute to Pink Floyd",
     "venue": "Riviera Theatre",
@@ -254,36 +74,6 @@
     "genre": "Classical"
   },
   {
-    "id": "buffalo-iron-works-the-warped-band",
-    "band": "The Warped Band",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "price": "$20",
-    "summary": "The Warped Band: The Official Tribute to The Warped Tour bring their Fall Tour to Buffalo Iron Works on Friday, October 16th! All-In Pricing Notice In accordance with New York State law, all ticketed events must display the total price of admission upfront — including all fees,…",
-    "eventUrl": "https://buffaloironworks.com/event/the-warped-band/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "electric-city-armand-hammer",
-    "band": "Armand Hammer",
-    "venue": "Electric City",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "price": "$24–$40",
-    "summary": "Armand Hammer is a dynamic hip-hop duo comprised of rappers Billy Woods and Elucid. Known for their innovative approach to lyricism and production, the duo has carved out a unique niche in the underground music scene with their thought-provoking themes and experimental sound.…",
-    "eventUrl": "https://electriccity.com/events/armand-hammer/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Hip-Hop"
-  },
-  {
     "id": "mr-goodbar-2026-10-16-2nd-floor-doors-hot-stuff-spud-justin-wade-harep",
     "band": "Hot Stuff, Spud, Justin Wade, Harepin Turn",
     "venue": "Mr. Goodbar",
@@ -297,45 +87,6 @@
     }
   },
   {
-    "id": "nietzsches-big-deep-buffalo",
-    "band": "Big Deep ft Jordan Fairless (Formerly of Spafford) wsg Evergreen Echoes",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/big-deep-buffalo",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "the-cave-analog-kids-rush-tribute-the-cave-2",
-    "band": "Analog Kids RUSH Tribute",
-    "venue": "The Cave",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "summary": "The Cave presents Analog Kids RUSH Tribute Friday, October 16, 2024 $20.00 + online fee 7pm Doors, 8pm Showtime",
-    "eventUrl": "https://sportsmensbuffalo.com/single/analog-kids-rush-tribute-the-cave-2/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "jack-rabbit-aircraft-adelaide",
-    "band": "Aircraft / Adelaide",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-16T21:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/aircraft-adelaide",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-10-16-1st-floor-smells-like-david-grohl",
     "band": "Smells Like David Grohl",
     "venue": "Mr. Goodbar",
@@ -346,19 +97,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "rec-room-honey",
-    "band": "Honey",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-16T22:00:00-04:00",
-    "summary": "With Honey Bflo. All Ages",
-    "eventUrl": "https://recroombuffalo.com/tm-event/honey/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -3589,10 +3327,10 @@
   },
   {
     "id": "kleinhans-zuraitis",
-    "band": "Nicole Zuraitis Quintet",
+    "band": "Nicole Zuraitis Quartet",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-08T15:00:00-05:00",
-    "summary": "Kleinhans Music Hall and JazzBuffalo are pleased to present The Nicole Zuraitis Quintet Sunday, November 8 | 3 PM The Mary Seaton Room Jazz at Kleinhans proudly welcomes one of the most dynamic and decorated voices in contemporary jazz — two-time GRAMMY® winner and six-time…",
+    "summary": "Kleinhans Music Hall and JazzBuffalo are pleased to present The Nicole Zuraitis Quartet Sunday, November 8 | 3 PM The Mary Seaton Room Jazz at Kleinhans proudly welcomes one of the most dynamic and decorated voices in contemporary jazz — two-time GRAMMY® winner and six-time…",
     "eventUrl": "https://kleinhansbuffalo.org/event/zuraitis/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -3600,6 +3338,19 @@
       "url": "https://kleinhansbuffalo.org/events/"
     },
     "genre": "Jazz"
+  },
+  {
+    "id": "the-cave-the-garage-doors-the-cave-2",
+    "band": "The Garage Doors",
+    "venue": "The Cave",
+    "startsAt": "2026-11-08T15:00:00-05:00",
+    "summary": "The Cave presents The Garage Doors An afternoon of the music and poetry of The Doors Sunday, November 8, 2026 $15.00 + Onile Fee 2pm Doors, 3pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/the-garage-doors-the-cave-2/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
   },
   {
     "id": "duende-3539851",
@@ -6150,5 +5901,44 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "the-caz-the-tradesmen-w-the-coughlin-trio-31-jul",
+    "band": "THE TRADESMEN w/ The Coughlin Trio",
+    "venue": "The Caz",
+    "startsAt": "2026-11-29T19:00:00-05:00",
+    "price": "$15",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/the-tradesmen-w-the-coughlin-trio-31-jul",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-hyjee",
+    "band": "Jazz Cache",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-29T20:30:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-hyjee",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Jazz"
+  },
+  {
+    "id": "nietzsches-feathery-down",
+    "band": "Feathery Down",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-30T18:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/feathery-down",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
   }
 ]
