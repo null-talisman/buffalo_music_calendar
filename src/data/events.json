@@ -60,154 +60,6 @@
     "genre": "Rock"
   },
   {
-    "id": "babeville-pavlo-and-band-in-concert",
-    "band": "Pavlo and Band in concert!",
-    "venue": "Babeville",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "summary": "Asbury · Pavlo and Band live in concert at Asbury Hall October 16, 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/pavlo-and-band-in-concert/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "mr-goodbar-2026-10-16-2nd-floor-doors-hot-stuff-spud-justin-wade-harep",
-    "band": "Hot Stuff, Spud, Justin Wade, Harepin Turn",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-16T20:00:00-04:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-10-16-1st-floor-smells-like-david-grohl",
-    "band": "Smells Like David Grohl",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-16T21:00:00-04:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3448702",
-    "band": "Mimosas & Minuets: Chamber Music @ duende",
-    "venue": "Duende",
-    "startsAt": "2026-10-17T13:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448702",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "mohawk-place-2026-10-17-jony-james-band",
-    "band": "Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-17T14:00:00-04:00",
-    "price": "Free",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-celtic-sessions-october-yhw2w-7tlhb",
-    "band": "Celtic Sessions",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-17T16:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-7tlhb",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-parkside-brass",
-    "band": "Oktoberfest LIVE German Music – Parkside Brass",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-17T17:30:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-parkside-brass/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "mohawk-place-2026-10-17-doug-paul-memorial-show-malignancy-leprosy-kurnu",
-    "band": "Doug Paul Memorial Show: Malignancy, Leprosy, Kurnugia, Blood Coven, Blood Desecration, Morgue Terror",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-17T17:30:00-04:00",
-    "price": "$25 (21+) / $30 (18–20)",
-    "summary": "Coming of RAGE Productions presents",
-    "eventUrl": "https://www.facebook.com/events/1760943181768946",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "rec-room-home-by-10-a-dance-party-for-adults-halloween-edition",
-    "band": "Home By 10 – A Dance Party For Adults Halloween Edition",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-17T18:00:00-04:00",
-    "summary": "With Home By 10 - A Dance Party For Adults Halloween Edition. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/home-by-10-a-dance-party-for-adults-halloween-edition/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "town-ballroom-the-jayhawks",
-    "band": "The Jayhawks",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-17T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/the-jayhawks/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "bpo-smooth-sailing-yacht-rock-of-the-70s-80s",
-    "band": "Smooth Sailing: Yacht Rock of the ’70s & ’80s",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-17T19:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Jason Seber, conductor Morgan James, vocals Doug Wamble, guitar, vocals John Scarpulla, saxophone, vocals This is your soundtrack in full color, breezy, nostalgic, and built for a true night out. With Jason Seber conducting, vocalist…",
-    "eventUrl": "https://bpo.org/event/smooth-sailing-yacht-rock-of-the-70s-80s/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Rock"
-  },
-  {
     "id": "riviera-theatre-micky-dolenz",
     "band": "Micky Dolenz – 60 Years of The Monkees",
     "venue": "Riviera Theatre",
@@ -223,34 +75,6 @@
     "genre": "Rock"
   },
   {
-    "id": "babeville-vincent-neil-emerson",
-    "band": "Vincent Neil Emerson with Hayden Redwine",
-    "venue": "Babeville",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "summary": "The 9th Ward · Vincent Neil Emerson with special guest Hayden Redwine",
-    "eventUrl": "https://babevillebuffalo.com/events/vincent-neil-emerson/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "buffalo-iron-works-great-wide-open-tom-petty-birthday-party-2",
-    "band": "Great Wide Open – Tom Petty Birthday Party",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "summary": "Great Wide Open celebrates Tom Petty’s birthday with a special tribute show and party at Buffalo Iron Works on Saturday, October 17th! Great Wide Open Great Wide Open brings together five seasoned Buffalo-area musicians whose combined experience spans decades of live…",
-    "eventUrl": "https://buffaloironworks.com/event/great-wide-open-tom-petty-birthday-party-2/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
     "id": "mr-goodbar-2026-10-17-2nd-floor-doors-alex-francis-friends-midnight-fe",
     "band": "Alex Francis & Friends, Midnight Feature, L!que, & Redcorn",
     "venue": "Mr. Goodbar",
@@ -262,101 +86,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-hell-ever-after",
-    "band": "Hell Ever After, Velvet Bethany, & Amish Noise",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/hell-ever-after",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-heart-attacks-valentines-all-the-racket-in-the-world-the-music-of-tom-waits-sportsmens",
-    "band": "Heart Attacks & Valentines All The Racket In The World The Music of Tom Waits",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "summary": "Sportsmens presents Heart Attacks & Valentines All The Racket In The World The Music of Tom Waits Saturday, October 17, 2026 8pm $20.00 + Online fee",
-    "eventUrl": "https://sportsmensbuffalo.com/single/heart-attacks-valentines-all-the-racket-in-the-world-the-music-of-tom-waits-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "the-cave-dart-brothers-the-cave",
-    "band": "Dart Brothers",
-    "venue": "The Cave",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "summary": "The Cave presents Dart Brothers Saturday, October 17, 2026 7pm Doors, 8pm Showtime $10.00 + online fee",
-    "eventUrl": "https://sportsmensbuffalo.com/single/dart-brothers-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    }
-  },
-  {
-    "id": "the-caz-wny-s-hi-octane-dueling-pianos-17-oct",
-    "band": "WNY's Hi-Octane Dueling Pianos",
-    "venue": "The Caz",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "price": "$15–$17.84",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/wny-s-hi-octane-dueling-pianos-17-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-17",
-    "band": "Oktoberfest DJ Late Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-17T21:00:00-04:00",
-    "summary": "Oktoberfest DJ Late Night",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-17/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-17",
-    "band": "Saturday DJ LATE NIGHT!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-17T21:00:00-04:00",
-    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-17/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "jack-rabbit-pocketship-4",
-    "band": "Pocketship",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-17T21:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/pocketship-4",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Jam"
   },
   {
     "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-sunday-brunch-with-maria-sebastian",
@@ -5940,5 +5669,18 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-fd86w",
+    "band": "Open Mic + Songwriter Showcase",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-30T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-fd86w",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    },
+    "genre": "Open Mic"
   }
 ]
