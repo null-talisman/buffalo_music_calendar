@@ -88,123 +88,6 @@
     }
   },
   {
-    "id": "hofbrauhaus-buffalo-oktoberfest-continues-with-sunday-brunch-with-maria-sebastian",
-    "band": "Oktoberfest Continues with Sunday Brunch with Maria Sebastian!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-18T11:00:00-04:00",
-    "summary": "🎶 Spend your afternoon with one of Buffalo’s most accomplished singer-songwriters! Buffalo Music Hall of Fame inductee Maria Sebastian brings an incredible mix of folk, rock, ’90s alternative, Americana, classic pop and original music to Hofbräuhaus Buffalo. Maria has earned…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-continues-with-sunday-brunch-with-maria-sebastian/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "jack-rabbit-99xrccc8e5prwrbct9wdhexrhj6g5s-spalw",
-    "band": "90's Brunch With Ed Wyner",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-18T13:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/99xrccc8e5prwrbct9wdhexrhj6g5s-spalw",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-10-18",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-18T13:25:00-04:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-10-18/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "duende-3498773",
-    "band": "Long Drink Sampling Event",
-    "venue": "Duende",
-    "startsAt": "2026-10-18T15:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3498773",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-dr-jazz-buffalo-oct-2026-7yxt9",
-    "band": "Dr. Jazz & the Jazz Bugs @ Nietszches Buffalo",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-18T15:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/dr-jazz-buffalo-oct-2026-7yxt9",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "duende-2623075",
-    "band": "Croft, Wasik, Docenko do Guaraldi",
-    "venue": "Duende",
-    "startsAt": "2026-10-18T16:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#2623075",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-raiders",
-    "band": "103.3 The Edge Bills Away Game Party: Bills vs. Raiders",
-    "venue": "Electric City",
-    "startsAt": "2026-10-18T16:30:00-04:00",
-    "summary": "Bills fans, this is home base on the road. Join 103.3 The Edge for WNY’s BIGGEST Bills Watch Parties, live every away game, on our massive 20½-foot (250″) LED wall with WNY’s best sound system. Doors open one hour before kickoff – grab a seat, mingle with The Edge’s on-air…",
-    "eventUrl": "https://electriccity.com/events/103-3-the-edge-bills-away-game-party-bills-vs-raiders/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-18T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-fbh4h",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-18T20:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
     "id": "nietzsches-shaky-stage-nietzsches-october",
     "band": "Shaky Stage",
     "venue": "Nietzsche's",
@@ -906,6 +789,20 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-23T22:00:00-04:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "duende-3448703",
@@ -2673,6 +2570,18 @@
     "genre": "German"
   },
   {
+    "id": "duende-3577953",
+    "band": "Alison Pipitone",
+    "venue": "Duende",
+    "startsAt": "2026-11-06T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577953",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-band-named-sue-october-ez5ne",
     "band": "Buffalo’s Band Named Sue",
     "venue": "Nietzsche's",
@@ -2850,6 +2759,31 @@
     "genre": "Jam"
   },
   {
+    "id": "duende-3577950",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-11-07T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577950",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "duende-3577954",
+    "band": "Masti World Music Ensemble",
+    "venue": "Duende",
+    "startsAt": "2026-11-07T15:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577954",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-celtic-sessions-october-yhw2w-3mrxd",
     "band": "Celtic Sessions",
     "venue": "Nietzsche's",
@@ -2875,6 +2809,18 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Metal"
+  },
+  {
+    "id": "duende-3577957",
+    "band": "The Divi Romē Band",
+    "venue": "Duende",
+    "startsAt": "2026-11-07T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577957",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "hofbrauhaus-buffalo-cock-robin-live-at-our-haus-no-german-music",
@@ -3489,6 +3435,18 @@
     }
   },
   {
+    "id": "duende-3577960",
+    "band": "Ulysses Lima",
+    "venue": "Duende",
+    "startsAt": "2026-11-12T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577960",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-abtrio-buffalo-october-nkjdw",
     "band": "Adam Bronstein & ABTrio",
     "venue": "Nietzsche's",
@@ -3854,6 +3812,19 @@
     }
   },
   {
+    "id": "duende-3577962",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-11-14T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577962",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "the-caz-randle-the-late-night-scandals-14-nov",
     "band": "Randle & The Late Night Scandals",
     "venue": "The Caz",
@@ -3893,6 +3864,18 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "German"
+  },
+  {
+    "id": "duende-3577965",
+    "band": "The Junkman's Choir",
+    "venue": "Duende",
+    "startsAt": "2026-11-14T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577965",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "rec-room-home-by-10-a-dance-party-for-adults-2",
@@ -4111,6 +4094,19 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Watch Party"
+  },
+  {
+    "id": "duende-3577966",
+    "band": "The Wazmopolitans",
+    "venue": "Duende",
+    "startsAt": "2026-11-15T16:00:00-05:00",
+    "summary": "MORE INFO HERE http://www.thewaz.com/",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577966",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb-3d9wx-8xwax",
@@ -4418,6 +4414,19 @@
     }
   },
   {
+    "id": "duende-3577968",
+    "band": "Davey O.",
+    "venue": "Duende",
+    "startsAt": "2026-11-19T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577968",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Folk"
+  },
+  {
     "id": "nietzsches-ryan-zimmerman",
     "band": "Ryan Zimmerman",
     "venue": "Nietzsche's",
@@ -4523,6 +4532,18 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3578053",
+    "band": "Joe Rozler's Rockin' Little Trio",
+    "venue": "Duende",
+    "startsAt": "2026-11-20T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578053",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
   },
   {
@@ -4697,6 +4718,19 @@
       "url": "https://electriccity.com/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "duende-3578089",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-11-21T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578089",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
   },
   {
     "id": "nietzsches-celtic-sessions-october-yhw2w-kphym",
@@ -5112,6 +5146,18 @@
     "genre": "German"
   },
   {
+    "id": "duende-3578092",
+    "band": "Mark Dux & The Bender Project",
+    "venue": "Duende",
+    "startsAt": "2026-11-25T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578092",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-beave-and-friends",
     "band": "Beave & Friends",
     "venue": "Nietzsche's",
@@ -5203,6 +5249,21 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "electric-city-holiday-house-party-3",
+    "band": "Holiday House Party 3",
+    "venue": "Electric City",
+    "startsAt": "2026-11-25T21:00:00-05:00",
+    "price": "$17–$52",
+    "summary": "Holiday House Party 3 is an electrifying collective that brings together some of the most dynamic artists in the contemporary music scene. Known for their genre-blending sound, they effortlessly merge elements of pop, R&B, and electronic music, creating an experience that…",
+    "eventUrl": "https://electriccity.com/events/holiday-house-party-3/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Electronic"
   },
   {
     "id": "hofbrauhaus-buffalo-%f0%9f%8e%b6-funk-before-the-feast-%f0%9f%a6%83-live-with-the-funkensteins",
@@ -5417,6 +5478,19 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "duende-3578097",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-11-28T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578097",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
   },
   {
     "id": "nietzsches-celtic-sessions-october-yhw2w-ygf54",
@@ -5682,5 +5756,43 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Open Mic"
+  },
+  {
+    "id": "rec-room-i-am-the-avalanche",
+    "band": "I Am The Avalanche",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-01T19:30:00-05:00",
+    "summary": "With Matt Embree. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/i-am-the-avalanche/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-01-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-01T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "duende-3578111",
+    "band": "Tom Robert",
+    "venue": "Duende",
+    "startsAt": "2026-12-02T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578111",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   }
 ]
