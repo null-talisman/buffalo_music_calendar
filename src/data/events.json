@@ -88,58 +88,6 @@
     }
   },
   {
-    "id": "nietzsches-shaky-stage-nietzsches-october",
-    "band": "Shaky Stage",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-19T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/shaky-stage-nietzsches-october",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "town-ballroom-melvin-seals-jgb",
-    "band": "Melvin Seals & JGB",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-19T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/melvin-seals-jgb/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "buffalo-iron-works-twenty6-productions-presents-melvin-seals-jgb-at-town-ballroom",
-    "band": "Twenty6 Productions Presents: Melvin Seals & JGB at Town Ballroom",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-19T20:00:00-04:00",
-    "summary": "Twenty6 Productions Presents: Melvin Seals & JGB at Town Ballroom on October 19th! This show is being held at Town Ballroom located at: 681 Main St, Buffalo, NY 14203 Melvin Seals Melvin Seals is a powerhouse Hammond B-3 organist, producer and arranger whose sound has become…",
-    "eventUrl": "https://buffaloironworks.com/event/twenty6-productions-presents-melvin-seals-jgb-at-town-ballroom/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2",
-    "band": "Open Mic + Songwriter Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-19T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Open Mic"
-  },
-  {
     "id": "buffalo-iron-works-jobros-all-over-again-pre-show-party",
     "band": "JoBros All Over Again: Pre-Show Party",
     "venue": "Buffalo Iron Works",
@@ -2499,6 +2447,19 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
+  },
+  {
+    "id": "babeville-the-mid-week-vibe-xlix",
+    "band": "The Mid-Week Vibe XLIX",
+    "venue": "Babeville",
+    "startsAt": "2026-11-05T20:00:00-05:00",
+    "summary": "The 9th Ward · Holton & Powell Entertainment present The Mid Week Vibe live in The 9th Ward November 5th 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/the-mid-week-vibe-xlix/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
   },
   {
     "id": "buffalo-iron-works-kendall-street-company-w-roy-g-biv",
@@ -5793,6 +5754,59 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-02",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-02T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-12-02/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-12-02",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-02T19:00:00-05:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-12-02/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "town-ballroom-dexter-and-the-moonrocks-2",
+    "band": "Dexter and The Moonrocks",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-02T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/dexter-and-the-moonrocks-2/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-mihali",
+    "band": "Mihali w/ Stone Throwers",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-02T20:00:00-05:00",
+    "summary": "Mihali presents: Mihalidaze at Buffalo Iron Works on Wednesday, December 2nd! Mihali For Mihali, music behaves much like a living being. It grows, it matures, and it changes with a sentient consciousness and with whims of its own. And just like music, the Vermont-based singer,…",
+    "eventUrl": "https://buffaloironworks.com/event/mihali/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
     }
   }
 ]
