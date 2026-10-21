@@ -75,127 +75,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-17-2nd-floor-doors-alex-francis-friends-midnight-fe",
-    "band": "Alex Francis & Friends, Midnight Feature, L!que, & Redcorn",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-17T20:00:00-04:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "buffalo-iron-works-jobros-all-over-again-pre-show-party",
-    "band": "JoBros All Over Again: Pre-Show Party",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-20T16:30:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/jobros-all-over-again-pre-show-party/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Pop"
-  },
-  {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-2jkh7",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-20T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-2jkh7",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-20T19:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-10-20-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-20T19:00:00-04:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766118352932",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "the-caz-murder-in-the-cellar-a-1920s-murder-mystery-20-oct",
-    "band": "Murder in the Cellar - A 1920s Murder Mystery!",
-    "venue": "The Caz",
-    "startsAt": "2026-10-20T19:00:00-04:00",
-    "price": "$35",
-    "summary": "Doors 6:00 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/murder-in-the-cellar-a-1920s-murder-mystery-20-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Dinner Show"
-  },
-  {
-    "id": "electric-city-mania-the-abba-tribute",
-    "band": "Mania: The ABBA Tribute",
-    "venue": "Electric City",
-    "startsAt": "2026-10-20T19:30:00-04:00",
-    "price": "$24–$89",
-    "summary": "Mania: The ABBA Tribute is a sensational homage to one of the most beloved pop bands in music history. This dynamic group captures the essence of ABBA’s timeless hits, delivering an energetic and authentic live experience that transports audiences back to the golden era of…",
-    "eventUrl": "https://electriccity.com/events/mania-the-abba-tribute/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Pop"
-  },
-  {
-    "id": "babeville-silver-arrow-band-free-showcase-19",
-    "band": "Silver Arrow Band * FREE SHOWCASE *",
-    "venue": "Babeville",
-    "startsAt": "2026-10-20T20:00:00-04:00",
-    "summary": "The 9th Ward · Silver Arrow Band live in The 9th Ward October 20, 2026 FREE EVENT!",
-    "eventUrl": "https://babevillebuffalo.com/events/silver-arrow-band-free-showcase-19/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-20T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-10-20-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -207,19 +86,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-kkn79",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-20T22:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-kkn79",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3494567",
@@ -1015,7 +881,7 @@
     "band": "Symphonic Spooktacular",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-10-25T14:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text]Costumes encouraged and curiosity required. Symphonic Spooktacular is a family-friendly way to celebrate the season with spooky music, big orchestral sounds, and a concert hall that feels welcoming and playful. With Grant O’Brien conducting,…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Costumes encouraged and curiosity required. Symphonic Spooktacular is a family-friendly way to celebrate the season with spooky music, big orchestral sounds, and a concert hall that feels welcoming and playful. With Grant O’Brien…",
     "eventUrl": "https://bpo.org/event/symphonic-spooktacular/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -1211,6 +1077,19 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Country"
+  },
+  {
+    "id": "jack-rabbit-q2h7k3nxyecr59fusbsst9xekmdzmq",
+    "band": "Halloween Drag Bingo",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-10-27T18:30:00-04:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/q2h7k3nxyecr59fusbsst9xekmdzmq",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    },
+    "genre": "Trivia"
   },
   {
     "id": "electric-city-to-buffalo-with-love-marc-scibilia-live-at-electric-city",
@@ -2507,7 +2386,7 @@
     "band": "Bronfman Plays Mozart",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-06T10:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””] JoAnn Falletta, conductor Yefim Bronfman, piano JOHN ADAMS The Chairman Dances MOZART Piano Concerto No. 24 R. STRAUSS Also Sprach Zarathustra Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance,…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance, and emotional depth. Pianist Yefim Bronfman brings commanding presence to the solo role, partnered by JoAnn Falletta and the BPO. John Adams’…",
     "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-06/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -2817,7 +2696,7 @@
     "band": "Bronfman Plays Mozart",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-07T19:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””] JoAnn Falletta, conductor Yefim Bronfman, piano JOHN ADAMS The Chairman Dances MOZART Piano Concerto No. 24 R. STRAUSS Also Sprach Zarathustra Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance,…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance, and emotional depth. Pianist Yefim Bronfman brings commanding presence to the solo role, partnered by JoAnn Falletta and the BPO. John Adams’…",
     "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-07/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -3718,6 +3597,20 @@
     }
   },
   {
+    "id": "sportsmens-tavern-zuffalo-sportsmens-2",
+    "band": "Zuffalo",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-13T20:00:00-05:00",
+    "summary": "Sportsmens presents Zuffalo Friday, November 13, 2026 8pm $15ad + Online fee /$20door Zuffalo is a groove-driven four-piece psychedelic rock n’ roll band from Toronto, ON, built around thick vocal harmonies, funky bass, explosive drumming, and intertwining guitar, keys, and…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/zuffalo-sportsmens-2/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Rock"
+  },
+  {
     "id": "the-cave-hot-for-teacher-van-halen-tribute-hurricane-rocks-scorpions-tribute-the-cave",
     "band": "Hot For Teacher Van Halen Tribute & Hurricane Rocks Scorpions Tribute",
     "venue": "The Cave",
@@ -3857,7 +3750,7 @@
     "band": "Chris Botti",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-14T19:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””] **Single tickets for the 2026-27 season go on sale Saturday, July 11.** Ron Spigelman, conductor Chris Botti, trumpet Trumpeter Chris Botti brings a signature sound that is intimate, warm, and beautifully refined. With Ron Spigelman…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Ron Spigelman, conductor Chris Botti, trumpet Trumpeter Chris Botti brings a signature sound that is intimate, warm, and beautifully refined. With Ron Spigelman and the BPO, this concert offers a rare blend of virtuosity and atmosphere,…",
     "eventUrl": "https://bpo.org/event/chris-botti/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -4754,14 +4647,14 @@
     "band": "Vaughan Williams & Double Bass",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-21T19:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text] Keith Lockhart, conductor Xavier Foley, double bass CHADWICK Symphonic Sketches No. 1, “Jubilee” XAVIER FOLEY Soul Bass Concerto VAUGHAN WILLIAMS Symphony No. 2, “A London Symphony” Step into the sweep of a great city and the intimacy of a…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Step into the sweep of a great city and the intimacy of a singular voice. Keith Lockhart leads Vaughan Williams’ Symphony No. 2, “A London Symphony,” a richly detailed portrait that moves from bustle to reflection to open sky. Double…",
     "eventUrl": "https://bpo.org/event/vaughan-williams-double-bass/2026-11-21/",
     "source": {
       "name": "Kleinhans Music Hall",
       "kind": "website",
       "url": "https://bpo.org/events/"
     },
-    "genre": "Soul"
+    "genre": "Classical"
   },
   {
     "id": "electric-city-jstjr",
@@ -4888,14 +4781,14 @@
     "band": "Vaughan Williams & Double Bass",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-22T14:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text] Keith Lockhart, conductor Xavier Foley, double bass CHADWICK Symphonic Sketches No. 1, “Jubilee” XAVIER FOLEY Soul Bass Concerto VAUGHAN WILLIAMS Symphony No. 2, “A London Symphony” Step into the sweep of a great city and the intimacy of a…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Step into the sweep of a great city and the intimacy of a singular voice. Keith Lockhart leads Vaughan Williams’ Symphony No. 2, “A London Symphony,” a richly detailed portrait that moves from bustle to reflection to open sky. Double…",
     "eventUrl": "https://bpo.org/event/vaughan-williams-double-bass/2026-11-22/",
     "source": {
       "name": "Kleinhans Music Hall",
       "kind": "website",
       "url": "https://bpo.org/events/"
     },
-    "genre": "Soul"
+    "genre": "Classical"
   },
   {
     "id": "nietzsches-grateful-dans-oct-2026-7y3pm",
@@ -5745,6 +5638,19 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-12-01-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-01T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "duende-3578111",
     "band": "Tom Robert",
     "venue": "Duende",
@@ -5807,6 +5713,86 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-02-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-02T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
+    "id": "mohawk-place-2026-12-03-the-queers-johnny-revolting-the-barksdales-the-s",
+    "band": "The Queers, Johnny Revolting, The Barksdales, The Sneers, Abandoned Trains, BastardBastardBastard",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-03T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Punk"
+  },
+  {
+    "id": "mr-goodbar-2026-12-03-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-03T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "nietzsches-annie-fungk-buffalo",
+    "band": "Annie in the Water & Fungkshui",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-12-03T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/annie-fungk-buffalo",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-04",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-04T16:00:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-04/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "duende-3548726",
+    "band": "Evan Anstey & The Old Ways",
+    "venue": "Duende",
+    "startsAt": "2026-12-04T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3548726",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
   }
 ]
