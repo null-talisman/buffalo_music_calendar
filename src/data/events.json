@@ -75,157 +75,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-20-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-20T22:00:00-04:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3494567",
-    "band": "Sara Elizabeth",
-    "venue": "Duende",
-    "startsAt": "2026-10-21T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494567",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-trad-jazz",
-    "band": "Tyler Westcott, Dr. Jazz, & Mark Harris",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-21T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/trad-jazz",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "town-ballroom-hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely",
-    "band": "Hawthorne Heights: 20th Anniversary of If Only You Were Lonely",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-21T18:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Emo"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-21",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-21T19:00:00-04:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-21/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-21",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-21T19:00:00-04:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-21/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "the-caz-ged-fest-26-w-the-strictly-hip-17-oct",
-    "band": "GED FEST 26 w/ The Strictly Hip",
-    "venue": "The Caz",
-    "startsAt": "2026-10-21T19:00:00-04:00",
-    "price": "$25–$35",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/ged-fest-26-w-the-strictly-hip-17-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "babeville-buffalo-chamber-players-roaring-twenties",
-    "band": "Buffalo Chamber Players - Roaring Twenties!",
-    "venue": "Babeville",
-    "startsAt": "2026-10-21T19:30:00-04:00",
-    "summary": "Asbury · Buffalo Chamber Players presents \"Roaring Twenties!\"",
-    "eventUrl": "https://babevillebuffalo.com/events/buffalo-chamber-players-roaring-twenties/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "electric-city-candlebox-cant-quit-you-tour-fall-2026",
-    "band": "Candlebox – Can’t Quit You Tour, Fall 2026",
-    "venue": "Electric City",
-    "startsAt": "2026-10-21T19:30:00-04:00",
-    "price": "$45–$75",
-    "summary": "Candlebox is an iconic rock band that emerged from the Seattle music scene in the early 1990s. Known for their powerful sound that blends post-grunge and alternative rock, Candlebox quickly gained recognition with their self-titled debut album, featuring hits that resonated…",
-    "eventUrl": "https://electriccity.com/events/candlebox-cant-quit-you-tour-fall-2026/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-21T19:30:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "buffalo-iron-works-wolfman-jack-4",
-    "band": "Wolfman Jack",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-21T20:00:00-04:00",
-    "price": "$20",
-    "summary": "WOLFMAN JACK Wolfman Jack is a live music project of musicians from the New England area performing the psychedelic and electrifying Live Dead to Europe 72′ era of The Grateful Dead. A true dance band in the style of such legendary venues as The Fillmores’, Carousel Ballroom,…",
-    "eventUrl": "https://buffaloironworks.com/event/wolfman-jack-4/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Jam"
-  },
-  {
     "id": "mr-goodbar-2026-10-21-attic-and-1st-floor-karaoke-and-rotating-live-mu",
     "band": "Karaoke and rotating Live Music",
     "venue": "Mr. Goodbar",
@@ -238,18 +87,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "nietzsches-wed-tba",
-    "band": "Henry’s Summer Kitchen",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-21T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/wed-tba",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
   },
   {
     "id": "duende-3494579",
@@ -987,7 +824,7 @@
   },
   {
     "id": "duende-3365112",
-    "band": "Jungle Steve + Jacob Pere + Philip Stephen",
+    "band": "Jungle Steve + Jacob Perez + Philip Stephen",
     "venue": "Duende",
     "startsAt": "2026-10-25T19:00:00-04:00",
     "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3365112",
@@ -2073,6 +1910,19 @@
     "genre": "Country"
   },
   {
+    "id": "mohawk-place-2026-11-03-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-03T19:00:00-05:00",
+    "price": "$10",
+    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766118352932",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "rec-room-wolf-bear",
     "band": "Wolf & Bear",
     "venue": "Rec Room",
@@ -2085,19 +1935,6 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "mohawk-place-2026-11-03-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-03T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ps2mg",
@@ -2492,25 +2329,13 @@
     "genre": "Soul"
   },
   {
-    "id": "mohawk-place-2026-11-06-after-show-isded-tunic-queen-city-collective",
-    "band": "After show: isded, Tunic, Queen City Collective",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-06-silver-proof-mickey-moone-skamagotchi-heart-for-",
     "band": "Silver Proof, Mickey Moone, Skamagotchi, Heart For Sale",
     "venue": "Mohawk Place",
     "startsAt": "2026-11-06T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "price": "$10",
+    "summary": "Mickey Moone is a Canadian one-man-band.",
+    "eventUrl": "https://www.facebook.com/events/1587278833145904",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -2599,6 +2424,20 @@
     "genre": "Jam"
   },
   {
+    "id": "mohawk-place-2026-11-06-isded-tunic-queen-city-collective",
+    "band": "isded, Tunic, Queen City Collective",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-06T23:30:00-05:00",
+    "price": "$12 now / $20 at door",
+    "summary": "DNGR presents · Following the Eazybaked & Distinct Motive show at the Town Ballroom. Advance price goes up to $15 starting next week.",
+    "eventUrl": "https://www.facebook.com/events/1373638954919544",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "duende-3577950",
     "band": "Mimosas & Minuets",
     "venue": "Duende",
@@ -2610,6 +2449,19 @@
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     },
     "genre": "Classical"
+  },
+  {
+    "id": "mohawk-place-2026-11-07-jony-james-band",
+    "band": "Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-07T14:00:00-05:00",
+    "price": "Free",
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "duende-3577954",
@@ -2739,20 +2591,7 @@
     "band": "Amateur Hockey Club, We Were Blank, Johnny & the Man Kids, Skyway",
     "venue": "Mohawk Place",
     "startsAt": "2026-11-07T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-11-07-early-show-jony-james-band",
-    "band": "Early Show: Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "timeTbd": true,
+    "price": "$15 adv / $20 at door",
     "eventUrl": "https://mohawkplacebuffalo.com/events/",
     "source": {
       "name": "Mohawk Place",
@@ -3298,6 +3137,19 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jazz"
+  },
+  {
+    "id": "the-cave-matt-woods-mic-harrison-the-cave",
+    "band": "Matt Woods & Mic Harrison",
+    "venue": "The Cave",
+    "startsAt": "2026-11-12T19:00:00-05:00",
+    "summary": "The Cave presents Matt Woods & Mic Harrison Thursday, November 12, 2026 $15.00 + Online fee 6pm Doors, 7pm Showtime Matt Woods is a product of Appalachia. You can hear his East Tennessee roots tangled in the lines of his songs and it is through this filter he distills the…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/matt-woods-mic-harrison-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
   },
   {
     "id": "the-caz-furg-comedy-at-the-caz-12-nov",
@@ -3963,6 +3815,19 @@
     }
   },
   {
+    "id": "sportsmens-tavern-bruce-katz-band-sportsmens-2",
+    "band": "Bruce Katz Band",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-15T17:00:00-05:00",
+    "summary": "Sportsmens presents Bruce Katz Band Sunday, november 15, 2026 $20/00 + Online fee 3pm Doors, 5pm Showtime Bruce Katz is a legendary keyboardist (Hammond B3 and pi- ano) who has released 12 CDs as a leader and has appeared on nearly 80 other CDs with the likes of John Hammond,…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/bruce-katz-band-sportsmens-2/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb-3d9wx-8xwax",
     "band": "Piano Party w Ann Philippone",
     "venue": "Nietzsche's",
@@ -4612,6 +4477,19 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "Classical"
+  },
+  {
+    "id": "duende-3585720",
+    "band": "The Mood Swingers",
+    "venue": "Duende",
+    "startsAt": "2026-11-21T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3585720",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Jazz"
   },
   {
     "id": "duende-3514772",
@@ -5521,6 +5399,19 @@
     }
   },
   {
+    "id": "sportsmens-tavern-freightrains-15th-annual-toy-drive-sportsmens",
+    "band": "Freightrain’s 15th Annual Toy Drive",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-29T14:00:00-05:00",
+    "summary": "Sportsmens presents Freightrain’s 15th Annual Toy Drive Sunday, November 29, 2026 $20.00 + Online Fee 2pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/freightrains-15th-annual-toy-drive-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "bpo-home-alone-film-in-concert-2026-11-29",
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
@@ -5789,6 +5680,164 @@
     "venue": "Duende",
     "startsAt": "2026-12-04T18:00:00-05:00",
     "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3548726",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-friendship-and-charlotte-cornfield",
+    "band": "Friendship and Charlotte Cornfield",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-04T19:00:00-05:00",
+    "summary": "With Friendship, Charlotte Cornfield, More Eaze. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/friendship-and-charlotte-cornfield/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "town-ballroom-aqueous-night-1",
+    "band": "Aqueous [Night 1]",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-04T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/aqueous-night-1/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-black-rock-beatles-live-at-our-haus",
+    "band": "Black Rock Beatles LIVE at our HAUS!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-04T19:30:00-05:00",
+    "summary": "🎶 Come together for a night of Beatles classics! The Black Rock Beatles return to Hofbräuhaus Buffalo for an unforgettable live celebration of one of the greatest bands of all time. From the early hits to the songs that changed rock and roll forever, this is your chance to…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/black-rock-beatles-live-at-our-haus/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "buffalo-iron-works-the-hip-experience-7",
+    "band": "The Hip Experience",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-04T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/the-hip-experience-7/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-04-leanna-firestone-sydney-sprague",
+    "band": "Leanna Firestone, Sydney Sprague",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-04T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-04-2nd-floor-doors-hard-stop",
+    "band": "Hard Stop",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-04T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "the-cave-smells-like-seattle-w-smells-like-dave-grohl-north-of-normal-the-cave",
+    "band": "Smells Like Seattle w/Smells Like Dave Grohl & North of Normal",
+    "venue": "The Cave",
+    "startsAt": "2026-12-04T20:00:00-05:00",
+    "summary": "The Cave presents Smells Like Seattle Tribute Friday, December 4, 2026 7pm Doors, 8pm Show $10ad + online fee / $15 at the door",
+    "eventUrl": "https://sportsmensbuffalo.com/single/smells-like-seattle-w-smells-like-dave-grohl-north-of-normal-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
+    "id": "the-caz-fully-clothed-gents-the-music-of-barenaked-ladies-04-dec",
+    "band": "FULLY CLOTHED GENTS - The Music Of Barenaked Ladies",
+    "venue": "The Caz",
+    "startsAt": "2026-12-04T20:00:00-05:00",
+    "price": "$15",
+    "summary": "Doors 6:30 pm. Show 8:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/fully-clothed-gents-the-music-of-barenaked-ladies-04-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Tribute"
+  },
+  {
+    "id": "mr-goodbar-2026-12-04-1st-floor-middle-aged-dirtbags",
+    "band": "Middle Aged Dirtbags",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-04T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-christkindlmarkt-continues-with-45-rpm",
+    "band": "Christkindlmarkt Continues with 45 RPM!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-05T13:00:00-05:00",
+    "summary": "🎄🎸 CHRISTKINDLMARKT + 45 RPM! Take a break from your holiday shopping and spend the afternoon with 45 RPM , bringing the sounds of the British Invasion, the ’60s and more to the Haus! From the music that defined a generation to the songs you still know every word to, 45 RPM…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/christkindlmarkt-continues-with-45-rpm/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-05",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-05T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-05/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "duende-3578131",
+    "band": "The Divi Romē Band",
+    "venue": "Duende",
+    "startsAt": "2026-12-05T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578131",
     "source": {
       "name": "Duende",
       "kind": "website",
