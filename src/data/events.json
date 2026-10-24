@@ -75,127 +75,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-21-attic-and-1st-floor-karaoke-and-rotating-live-mu",
-    "band": "Karaoke and rotating Live Music",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-21T21:00:00-04:00",
-    "summary": "Attic and 1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Karaoke"
-  },
-  {
-    "id": "mr-goodbar-2026-10-22-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-22T20:00:00-04:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "bpo-glidden-plays-bruch-2026-10-23",
-    "band": "Glidden Plays Bruch",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-23T10:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]This program offers a satisfying arc from the new to the beloved. BPO Associate concertmaster Amy Glidden joins JoAnn Falletta for Bruch’s Violin Concerto No. 1, a Romantic favorite filled with lyricism, drama, and heart. You will also…",
-    "eventUrl": "https://bpo.org/event/glidden-plays-bruch/2026-10-23/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-5",
-    "band": "Oktoberfest LIVE German Music – Die Haus Band",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-23T16:30:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-5/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3494581",
-    "band": "Mark Winsick",
-    "venue": "Duende",
-    "startsAt": "2026-10-23T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494581",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-daves-anniversary",
-    "band": "Dave’s Anniversary Extravaganza",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-23T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/daves-anniversary",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "town-ballroom-spite",
-    "band": "SPITE",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-23T18:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/spite/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Metal"
-  },
-  {
-    "id": "mohawk-place-2026-10-23-uncle-ben-s-remedy-folkfaces-witty-tarbox-kevin-",
-    "band": "Uncle Ben’s Remedy, Folkfaces, Witty Tarbox, Kevin Sampson and the Night Shift, TJ Zindle",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-23T19:00:00-04:00",
-    "price": "$15",
-    "summary": "Uncle Ben’s Remedy takes the stage to celebrate the release of their new album, Garage Country . Come see the revamped Mohawk, hear the new record, and get weird with UBR and friends.",
-    "eventUrl": "https://www.facebook.com/events/1802666157579484",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "town-ballroom-jeff-tweedy-at-rit-performing-arts-center",
-    "band": "Jeff Tweedy at RIT Performing Arts Center",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-23T19:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/jeff-tweedy-at-rit-performing-arts-center/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Americana"
-  },
-  {
     "id": "riviera-theatre-seconds-out",
     "band": "Seconds Out – A Tribute to the Music of Genesis",
     "venue": "Riviera Theatre",
@@ -211,49 +90,6 @@
     "genre": "Rock"
   },
   {
-    "id": "babeville-that-comedy-show-at-babeville-20",
-    "band": "That Comedy Show at Babeville",
-    "venue": "Babeville",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "summary": "That Comedy Show at Babeville is live at The 9th Ward October 23 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/that-comedy-show-at-babeville-20/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Comedy"
-  },
-  {
-    "id": "buffalo-iron-works-jimkata",
-    "band": "Jimkata w/ Sophistafunk",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "summary": "Jimkata Blurring the line between rock band and electronic act, Jimkata is onto an entirely new era on stage. Once again a quartet, the band has been proving that no songs from their extensive catalog is off limits. Described as “A hard hitting dance party with soaring guitar…",
-    "eventUrl": "https://buffaloironworks.com/event/jimkata/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Electronic"
-  },
-  {
-    "id": "electric-city-walker-royce",
-    "band": "Walker & Royce",
-    "venue": "Electric City",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "price": "$17–$65",
-    "summary": "Walker & Royce is a dynamic DJ and production duo known for their infectious blend of house and electronic music. Comprising Sam Walker and Gavin Royce, the pair has carved a niche for themselves in the electronic dance music scene with their distinctive sound that fuses groovy…",
-    "eventUrl": "https://electriccity.com/events/walker-royce/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Electronic"
-  },
-  {
     "id": "mr-goodbar-2026-10-23-2nd-floor-doors-hard-stop-night-owls-james-thoma",
     "band": "Hard Stop, Night Owls, James Thomas Project - Halloween Costume Party!",
     "venue": "Mr. Goodbar",
@@ -264,18 +100,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-staff-johnson-gaoh-socialite",
-    "band": "Socialite, GOAG, Harepin Tun & Staff Johnson",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/staff-johnson-gaoh-socialite",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
     }
   },
   {
@@ -292,20 +116,6 @@
       "url": "https://www.thecazbuffalo.com/shows"
     },
     "genre": "Tribute"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-nineties-by-nature-in-the-haus",
-    "band": "Nineties By Nature in the HAUS!!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-23T21:00:00-04:00",
-    "summary": "📼 Break out the flannel, grab your scrunchies and prepare to party like it’s 1999! Nineties by Nature is taking over Oktoberfest with a high-energy tribute to the decade that gave us grunge, alternative rock, pop-punk and songs we still know every word to. 📅 October 23 ⏰ 9 PM…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/nineties-by-nature-in-the-haus/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Punk"
   },
   {
     "id": "mr-goodbar-2026-10-23-1st-floor-doors-evergreen-echoes-halloween-costu",
@@ -5552,6 +5362,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-05-2nd-floor-doors-blume",
+    "band": "Blume",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-05T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
