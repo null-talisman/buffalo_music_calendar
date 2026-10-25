@@ -90,112 +90,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-10-23-2nd-floor-doors-hard-stop-night-owls-james-thoma",
-    "band": "Hard Stop, Night Owls, James Thomas Project - Halloween Costume Party!",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "the-caz-unplugged-mtv-unplugged-tribute-band-23-oct",
-    "band": "UNPLUGGED - MTV Unplugged Tribute Band",
-    "venue": "The Caz",
-    "startsAt": "2026-10-23T20:00:00-04:00",
-    "price": "$23.51",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/unplugged-mtv-unplugged-tribute-band-23-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Tribute"
-  },
-  {
-    "id": "mr-goodbar-2026-10-23-1st-floor-doors-evergreen-echoes-halloween-costu",
-    "band": "Evergreen Echoes - Halloween Costume Party!",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-23T21:00:00-04:00",
-    "summary": "1st floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3448703",
-    "band": "Mimosas & Minuets: Chamber Music @ duende",
-    "venue": "Duende",
-    "startsAt": "2026-10-24T13:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448703",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "mohawk-place-2026-10-24-jony-james-band",
-    "band": "Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-24T14:00:00-04:00",
-    "price": "Free",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-celtic-sessions-october-yhw2w-7tlhb-46xyy",
-    "band": "Celtic Sessions",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-24T16:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-7tlhb-46xyy",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-band-6",
-    "band": "Oktoberfest LIVE German Music – Die Haus Band",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-24T17:30:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-band-6/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3494584",
-    "band": "Maria Aurigema",
-    "venue": "Duende",
-    "startsAt": "2026-10-24T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494584",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
     "id": "buffalo-riverworks-Z7r9jZ1A7J3_z",
     "band": "Thundercat w/ TiaCorine",
     "venue": "Buffalo RiverWorks",
@@ -209,78 +103,6 @@
     "genre": "Funk"
   },
   {
-    "id": "mohawk-place-2026-10-24-axioma-radian-funeral-dancer-feverhawk-bifurcate",
-    "band": "Axioma, Radian, Funeral Dancer, Feverhawk, Bifurcate",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-24T19:00:00-04:00",
-    "price": "$20 adv / $25 dos (21+) / $30 dos (18+)",
-    "summary": "Graveside Lullabies Productions presents",
-    "eventUrl": "https://www.facebook.com/events/1353094947027235",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "the-caz-r-b-ain-t-dead-an-r-b-showcase-24-oct",
-    "band": "R&B Ain't Dead - An R&B Showcase",
-    "venue": "The Caz",
-    "startsAt": "2026-10-24T19:00:00-04:00",
-    "price": "$30",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/r-b-ain-t-dead-an-r-b-showcase-24-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Soul"
-  },
-  {
-    "id": "bpo-glidden-plays-bruch-2026-10-24",
-    "band": "Glidden Plays Bruch",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-24T19:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]This program offers a satisfying arc from the new to the beloved. BPO Associate concertmaster Amy Glidden joins JoAnn Falletta for Bruch’s Violin Concerto No. 1, a Romantic favorite filled with lyricism, drama, and heart. You will also…",
-    "eventUrl": "https://bpo.org/event/glidden-plays-bruch/2026-10-24/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "buffalo-iron-works-songbirds-a-tribute-to-fleetwood-mac-4",
-    "band": "Songbirds: A Tribute to Fleetwood Mac",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-24T20:00:00-04:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/songbirds-a-tribute-to-fleetwood-mac-4/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "electric-city-night-flight",
-    "band": "Night Flight",
-    "venue": "Electric City",
-    "startsAt": "2026-10-24T20:00:00-04:00",
-    "price": "$15–$30",
-    "summary": "WESTERN NEW YORK… IT’S TIME TO GO BACK! Before social media. Before streaming. Before the party was in your phone. There was ZOO BAR. KIXX. THE PIER. PLEASUREDOME. The lights. The sweat. The anthems. THE DANCEFLOOR. NIGHT FLIGHT THE ULTIMATE WAY BACK EXPERIENCE DJ Anthony & DJ…",
-    "eventUrl": "https://electriccity.com/events/night-flight/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "DJ"
-  },
-  {
     "id": "mr-goodbar-2026-10-24-2nd-floor-doors-costume-party-glizzy-mcguire-dag",
     "band": "Costume Party - Glizzy McGuire, Daggermind - performing Black Sabbath",
     "venue": "Mr. Goodbar",
@@ -291,73 +113,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "the-cave-big-shrimp-the-cave",
-    "band": "Big Shrimp",
-    "venue": "The Cave",
-    "startsAt": "2026-10-24T20:00:00-04:00",
-    "summary": "The Cave presents Big Shrimp Saturday, October 24, 2026 7pm Doors, 8pm Show $15.00 + Online fee Big Shrimp is a young high-octane progressive improvised rock quartet formed in 2024 in Bridgeport, Connecticut, blending danceable funk, exploratory rock, and fearless improvisation…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/big-shrimp-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    },
-    "genre": "Funk"
-  },
-  {
-    "id": "town-ballroom-deathpact-presents-from-darkness-comes-light-eclipsed",
-    "band": "Deathpact presents: FROM DARKNESS, COMES LIGHT: ECLIPSED",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-24T20:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/deathpact-presents-from-darkness-comes-light-eclipsed/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "EDM"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-dj-late-night-2026-10-24",
-    "band": "Oktoberfest DJ Late Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-24T21:00:00-04:00",
-    "summary": "Oktoberfest DJ Late Night",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-dj-late-night/2026-10-24/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-10-24",
-    "band": "Saturday DJ LATE NIGHT!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-24T21:00:00-04:00",
-    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-10-24/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "nietzsches-hallowsleaze",
-    "band": "Hallowsleaze: The Twilight Party",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-24T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/hallowsleaze",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
     }
   },
   {
@@ -3667,6 +3422,21 @@
     }
   },
   {
+    "id": "the-caz-unplugged-mtv-unplugged-tribute-band-23-oct",
+    "band": "UNPLUGGED - MTV Unplugged Tribute Band",
+    "venue": "The Caz",
+    "startsAt": "2026-11-19T19:00:00-05:00",
+    "price": "$23.51",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/unplugged-mtv-unplugged-tribute-band-23-oct",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Tribute"
+  },
+  {
     "id": "kleinhans-kaveh-akbar",
     "band": "BABEL | Kaveh Akbar",
     "venue": "Kleinhans Music Hall",
@@ -5433,5 +5203,19 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Watch Party"
+  },
+  {
+    "id": "sportsmens-tavern-bill-kirchens-honky-tonk-holiday-show-sportsmens",
+    "band": "Bill Kirchen’s Honky Tonk Holiday Show!",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-12-07T19:00:00-05:00",
+    "summary": "Sportsmens presents Bill Kirchen’s Honky Tonk Holiday Show! Monday, December 7, 2026 5pm Doors, 7pm Showtime $30.00+ Online Fee HONKY TONK HOLIDAY TOUR! Bill Kirchen and The Two Turtle Doves (Jack Saunders and Rick Richards) will make a stop on their annual Honky Tonk Holiday…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/bill-kirchens-honky-tonk-holiday-show-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Country"
   }
 ]
