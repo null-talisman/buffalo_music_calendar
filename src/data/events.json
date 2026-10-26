@@ -103,19 +103,6 @@
     "genre": "Funk"
   },
   {
-    "id": "mr-goodbar-2026-10-24-2nd-floor-doors-costume-party-glizzy-mcguire-dag",
-    "band": "Costume Party - Glizzy McGuire, Daggermind - performing Black Sabbath",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-24T20:00:00-04:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
     "id": "riviera-theatre-rocky-horror-2026",
     "band": "Rocky Horror Picture Show 2026 – SOLD OUT",
     "venue": "Riviera Theatre",
@@ -129,154 +116,6 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Burlesque"
-  },
-  {
-    "id": "sportsmens-tavern-23rd-annual-female-musicians-fighting-breast-cancer-sportsmens",
-    "band": "23rd Annual Female Musicians Fighting Breast Cancer",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-10-25T13:00:00-04:00",
-    "summary": "Sportsmens presents 23rd Annual Female Musicians Fighting Breast Cancer Sunday, October 25, 2026 1pm $10.00 + Online Fee",
-    "eventUrl": "https://sportsmensbuffalo.com/single/23rd-annual-female-musicians-fighting-breast-cancer-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "bpo-symphonic-spooktacular",
-    "band": "Symphonic Spooktacular",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-25T14:30:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Costumes encouraged and curiosity required. Symphonic Spooktacular is a family-friendly way to celebrate the season with spooky music, big orchestral sounds, and a concert hall that feels welcoming and playful. With Grant O’Brien…",
-    "eventUrl": "https://bpo.org/event/symphonic-spooktacular/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "electric-city-hocus-pocus-taste-a-long-experience",
-    "band": "Hocus Pocus Taste-a-Long Experience",
-    "venue": "Electric City",
-    "startsAt": "2026-10-25T15:00:00-04:00",
-    "price": "$39",
-    "summary": "The Hocus Pocus Taste-a-Long Experience is a unique culinary and entertainment event that brings together fans of the beloved Halloween classic. This interactive experience combines themed food and drinks with a lively screening of the film, allowing attendees to indulge in a…",
-    "eventUrl": "https://electriccity.com/events/hocus-pocus-taste-a-long-experience/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Dinner Show"
-  },
-  {
-    "id": "town-ballroom-bye-week-ball",
-    "band": "Bye Week Ball",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-25T15:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/bye-week-ball/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-grateful-dans-oct-2026-gp724",
-    "band": "The Grateful Dans",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-25T15:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026-gp724",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "duende-3472535",
-    "band": "John Bacon Jazz",
-    "venue": "Duende",
-    "startsAt": "2026-10-25T16:00:00-04:00",
-    "summary": "Monthly on every last Sunday",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3472535",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "the-cave-the-empty-pockets-the-cave",
-    "band": "The Empty Pockets",
-    "venue": "The Cave",
-    "startsAt": "2026-10-25T16:00:00-04:00",
-    "summary": "The Cave presents The Empty Pockets Sunday, October 25, 2026 3pm Doors, 4pm Showtime $20.00ad + Online fee/ $25.00 at the door The Empty Pockets are a Chicago based quartet blending blues, Americana, folk, and rock and roll with a streak of roots soul. The band features Josh…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-empty-pockets-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    },
-    "genre": "Blues"
-  },
-  {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-25T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-fbh4h-3s4jt",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "duende-3365112",
-    "band": "Jungle Steve + Jacob Perez + Philip Stephen",
-    "venue": "Duende",
-    "startsAt": "2026-10-25T19:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3365112",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "the-caz-paul-todaro-the-standards-caz-supper-club-25-oct",
-    "band": "Paul Todaro & The Standards - CAZ Supper Club",
-    "venue": "The Caz",
-    "startsAt": "2026-10-25T19:00:00-04:00",
-    "price": "$10–$15",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/paul-todaro-the-standards-caz-supper-club-25-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Dinner Show"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-25T20:30:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
   },
   {
     "id": "nietzsches-tom-robert-buffalo-october",
@@ -2503,7 +2342,7 @@
   },
   {
     "id": "buffalo-iron-works-moonshine-bandits-w-big-murph",
-    "band": "Moonshine Bandits w/ JJ Lang Band",
+    "band": "Moonshine Bandits w/ Big Murph, Kelsey Lynn & JJ Lang Band",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-12T20:00:00-05:00",
     "summary": "Moonshine Bandits Blazing their own trail in the world of country rap, Moonshine Bandits have spent over a decade turning outlaw anthems into a movement and in 2026, their fire burns hotter than ever.Hailing from California’s Central Valley, Tex and Bird have built a cult-like…",
@@ -3529,6 +3368,19 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "kleinhans-foodforall",
+    "band": "Food For All: A 10-Year Celebration & Barnraiser",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-11-20T18:00:00-05:00",
+    "summary": "Join Groundwork Market Garden and Fare Share WNY for an unforgettable evening celebrating 10 years of urban farming, local food, and community in Buffalo! Enjoy delicious food from local chefs and restaurants, live music, drinks, raffles, a silent auction, and more as we…",
+    "eventUrl": "https://kleinhansbuffalo.org/event/foodforall/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://kleinhansbuffalo.org/events/"
     }
   },
   {
@@ -4676,6 +4528,20 @@
     }
   },
   {
+    "id": "duende-3600910",
+    "band": "John Bacon Jazz",
+    "venue": "Duende",
+    "startsAt": "2026-11-29T16:00:00-05:00",
+    "summary": "Monthly on every last Sunday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3600910",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Jazz"
+  },
+  {
     "id": "nietzsches-ann-philippone-oct-2026-7z6jb-ybx2l",
     "band": "Piano Party w Ann Philippone",
     "venue": "Nietzsche's",
@@ -5217,5 +5083,61 @@
       "url": "https://sportsmensbuffalo.com/calendar/"
     },
     "genre": "Country"
+  },
+  {
+    "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-vaudeville-burlesque-08-dec",
+    "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - Vaudeville & Burlesque",
+    "venue": "The Caz",
+    "startsAt": "2026-12-08T19:00:00-05:00",
+    "price": "$20–$25",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/caz-convo-rick-falkowski-buffalo-music-history-vaudeville-burlesque-08-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Burlesque"
+  },
+  {
+    "id": "electric-city-kyle-gordon",
+    "band": "Kyle Gordon",
+    "venue": "Electric City",
+    "startsAt": "2026-12-08T20:00:00-05:00",
+    "price": "$25–$50",
+    "summary": "Kyle Gordon is an innovative artist known for his unique blend of pop and electronic music. With a sound that fuses catchy melodies with modern production techniques, he has quickly made a name for himself in the music industry. His engaging performances and charismatic…",
+    "eventUrl": "https://electriccity.com/events/kyle-gordon/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Electronic"
+  },
+  {
+    "id": "mohawk-place-2026-12-08-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-08T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-08-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-08T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   }
 ]
