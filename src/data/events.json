@@ -118,46 +118,6 @@
     "genre": "Burlesque"
   },
   {
-    "id": "nietzsches-tom-robert-buffalo-october",
-    "band": "Tom Robert & the Mystics",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-26T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tom-robert-buffalo-october",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "the-caz-murder-in-the-cellar-a-1920s-murder-mystery-2nd-show-26-oct",
-    "band": "Murder in the Cellar - A 1920s Murder Mystery! - 2nd Show",
-    "venue": "The Caz",
-    "startsAt": "2026-10-26T19:00:00-04:00",
-    "price": "$35",
-    "summary": "Doors 6:00 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/murder-in-the-cellar-a-1920s-murder-mystery-2nd-show-26-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Dinner Show"
-  },
-  {
-    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2-njf3g",
-    "band": "Open Mic + Songwriter Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-26T20:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-kcmz2-njf3g",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Open Mic"
-  },
-  {
     "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-2jkh7-tb2mb",
     "band": "The Steam Donkeys",
     "venue": "Nietzsche's",
@@ -602,7 +562,7 @@
     "band": "BPO UpClose: How Music Speaks",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-10-30T19:00:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text]Sit close to the musicians and experience classical music from an entirely new perspective. Amy Glidden and Jonathan Borden lead this intimate, informal performance, sharing the stories behind short classical works while the audience surrounds…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Experience the BPO like never before! Sit close to the musicians, surround the orchestra, and discover classical music from an entirely new perspective. You’ll see the musicians interact, feel the energy of the performance, and…",
     "eventUrl": "https://bpo.org/event/bpo-upclose-1/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -742,7 +702,7 @@
     "band": "Junior Jerry Jam presents Grateful Dead Disco Halloween w/ Pocketship",
     "venue": "Babeville",
     "startsAt": "2026-10-31T12:00:00-04:00",
-    "summary": "Saturday, October 31. 2026 Junior Jerry Jam presents Grateful Dead Disco Halloween w/ Pocketship at Asbury Hall 11:30 doors, 12:00-3:00 show Tickets: General Admission Adult $15 available at TixR.comor in person at the Babeville Box Office (M-F 11a-5p) – 3% credit card fee, no…",
+    "summary": "Asbury · Junior Jerry Jam Disco Halloween with Pocketship",
     "eventUrl": "https://babevillebuffalo.com/events/junior-jerry-jam-presents-grateful-dead-disco-halloween-w-pocketship/",
     "source": {
       "name": "Babeville",
@@ -3117,6 +3077,19 @@
     "genre": "Burlesque"
   },
   {
+    "id": "duende-3606310",
+    "band": "Hall Pass Heros",
+    "venue": "Duende",
+    "startsAt": "2026-11-18T18:00:00-05:00",
+    "summary": "Bin Floor",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3606310",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "nietzsches-river-glen",
     "band": "River Glen",
     "venue": "Nietzsche's",
@@ -5138,6 +5111,85 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-09",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-09T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-12-09/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-12-09",
+    "band": "Wing Night + Open Mic Night with Mike Hund",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-09T19:00:00-05:00",
+    "summary": "More info to come after 8/15, and will be available Facebook.",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-12-09/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "bpo-cody-fry-christmas",
+    "band": "Cody Fry Christmas",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-09T19:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text]Cody Fry, piano, guitar, vocals Cody Fry brings a holiday concert shaped by orchestral color, storytelling, and a uniquely heartfelt tone. With Fry on piano, guitar, and vocals, the evening blends nostalgic holiday classics with his own…",
+    "eventUrl": "https://bpo.org/event/cody-fry-christmas/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "mohawk-place-2026-12-09-war-on-women-makewar",
+    "band": "War On Women, MakeWar",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-09T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-daily-bread-vanishing-point-tour",
+    "band": "Daily Bread: Vanishing Point Tour",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-09T20:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/daily-bread-vanishing-point-tour/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "duende-3578140",
+    "band": "Buffalo Choro Trio",
+    "venue": "Duende",
+    "startsAt": "2026-12-10T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578140",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
   }
 ]
