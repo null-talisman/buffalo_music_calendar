@@ -118,99 +118,6 @@
     "genre": "Burlesque"
   },
   {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-2jkh7-tb2mb",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-27T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-2jkh7-tb2mb",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-q2h7k3nxyecr59fusbsst9xekmdzmq",
-    "band": "Halloween Drag Bingo",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-27T18:30:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/q2h7k3nxyecr59fusbsst9xekmdzmq",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "electric-city-to-buffalo-with-love-marc-scibilia-live-at-electric-city",
-    "band": "To Buffalo, With Love – Marc Scibilia Live at Electric City",
-    "venue": "Electric City",
-    "startsAt": "2026-10-27T19:00:00-04:00",
-    "price": "$29–$279",
-    "summary": "Marc Scibilia is an acclaimed singer-songwriter known for his emotive storytelling and captivating melodies. With a unique blend of folk, rock, and pop influences, his music resonates deeply with listeners, showcasing his exceptional talent as both a vocalist and a guitarist.…",
-    "eventUrl": "https://electriccity.com/events/to-buffalo-with-love-marc-scibilia-live-at-electric-city/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49-z6laf",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-27T19:00:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49-z6laf",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-10-27-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-27T19:00:00-04:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766118352932",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "babeville-the-lowest-pair",
-    "band": "The Lowest Pair",
-    "venue": "Babeville",
-    "startsAt": "2026-10-27T20:00:00-04:00",
-    "summary": "DSP Shows presents The Lowest Pair live at The 9th Ward October 27, 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/the-lowest-pair/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2-hs2k3",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-27T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-th8a2-hs2k3",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-10-27-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -222,19 +129,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-dht8g",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-27T22:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-dht8g",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3494585",
@@ -927,12 +821,12 @@
     "genre": "Pop"
   },
   {
-    "id": "mohawk-place-2026-10-31-thirst-traps-from-the-grave-the-glam-vamps-the-s",
-    "band": "Thirst Traps from the Grave: The Glam Vamps, The Spit Sisters, Racehearse, DJ Boobie Riot",
+    "id": "mohawk-place-2026-10-31-ghoul-n-grind-the-glam-vamps-spud-racehearse-dj-",
+    "band": "Ghoul’n’Grind: The Glam Vamps, Spud, Racehearse, DJ Boobie Riot",
     "venue": "Mohawk Place",
     "startsAt": "2026-10-31T21:00:00-04:00",
     "price": "$15 adv / $20 dos",
-    "summary": "Halloween Party · Join us on Halloween night! DJ Boobie Riot kicks things off, followed by sets from Racehearse and The Spit Sisters, plus a drag and burlesque set from The Glam Vamps hosted by Vageena George. Performers include The Glam Vamps’ own Kerry Fey, SugaTush, Lookie…",
+    "summary": "Halloween Show · In memory of Tia Brown — well liked in both the music and art communities, part of the BTPM/WBFO team, and recently the new lead vocalist of The Spit Sisters, who were scheduled to play this show. Spud will be taking their place. Part of the proceeds will go to…",
     "eventUrl": "https://www.facebook.com/events/1579528553848683",
     "source": {
       "name": "Mohawk Place",
@@ -1135,11 +1029,11 @@
     }
   },
   {
-    "id": "nietzsches-tba-nov-2026",
-    "band": "TBA",
+    "id": "nietzsches-sara-nov-2026",
+    "band": "Sara Elizabeth",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-04T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-nov-2026",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/sara-nov-2026",
     "source": {
       "name": "Nietzsche's",
       "kind": "website",
@@ -1246,16 +1140,17 @@
     "genre": "Karaoke"
   },
   {
-    "id": "nietzsches-tba-nov-2026-n4t3a",
-    "band": "TBA",
+    "id": "nietzsches-tender-t",
+    "band": "Tyler Westcott & Friends",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-04T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-nov-2026-n4t3a",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tender-t",
     "source": {
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "duende-3494601",
@@ -1432,6 +1327,19 @@
     "genre": "Punk"
   },
   {
+    "id": "the-cave-too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave",
+    "band": "To Many Guitars Vol. 1 Hosted by Rick Strauss",
+    "venue": "The Cave",
+    "startsAt": "2026-11-06T19:00:00-05:00",
+    "summary": "The Cave presents To Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 6pm Doos/7pm Showtime Screenshot",
+    "eventUrl": "https://sportsmensbuffalo.com/single/too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
     "id": "riviera-theatre-zepp-reimagined-1",
     "band": "Zeppelin Reimagined",
     "venue": "Riviera Theatre",
@@ -1502,19 +1410,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Funk"
-  },
-  {
-    "id": "the-cave-too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave",
-    "band": "To Many Guitars Vol. 1 Hosted by Rick Strauss",
-    "venue": "The Cave",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "summary": "The Cave presents To Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 7pm Doos/8pm Showtime Screenshot",
-    "eventUrl": "https://sportsmensbuffalo.com/single/too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    }
   },
   {
     "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
@@ -2221,16 +2116,17 @@
     "genre": "Karaoke"
   },
   {
-    "id": "nietzsches-tba-nov-2026-n4t3a-2edgw",
-    "band": "TBA",
+    "id": "nietzsches-tender-t-2",
+    "band": "Tyler Westcott & Friends",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-11T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-nov-2026-n4t3a-2edgw",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tender-t-2",
     "source": {
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "duende-3577960",
@@ -3184,16 +3080,17 @@
     "genre": "Karaoke"
   },
   {
-    "id": "nietzsches-tba-nov-2026-n4t3a-2edgw-kr6w9",
-    "band": "TBA",
+    "id": "nietzsches-jug-band",
+    "band": "Roux Burns Jug Band",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-18T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-nov-2026-n4t3a-2edgw-kr6w9",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jug-band",
     "source": {
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
+    },
+    "genre": "Bluegrass"
   },
   {
     "id": "duende-3577968",
@@ -3308,9 +3205,9 @@
   },
   {
     "id": "nietzsches-tba-nov-2026-late",
-    "band": "TBA",
+    "band": "Trio Donny",
     "venue": "Nietzsche's",
-    "startsAt": "2026-11-19T20:00:00-05:00",
+    "startsAt": "2026-11-19T20:30:00-05:00",
     "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-nov-2026-late",
     "source": {
       "name": "Nietzsche's",
@@ -3759,6 +3656,18 @@
     "genre": "Jam"
   },
   {
+    "id": "duende-3610021",
+    "band": "Becky Davis",
+    "venue": "Duende",
+    "startsAt": "2026-11-22T16:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3610021",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "sportsmens-tavern-eilen-jewell-sportsmens",
     "band": "Eilen Jewell",
     "venue": "Sportsmen's Tavern",
@@ -3812,11 +3721,11 @@
     "genre": "Jazz"
   },
   {
-    "id": "nietzsches-tba-monday",
-    "band": "TBA",
+    "id": "nietzsches-danielle-a",
+    "band": "Danielle A",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-23T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tba-monday",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/danielle-a",
     "source": {
       "name": "Nietzsche's",
       "kind": "website",
@@ -5181,6 +5090,20 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-12-09-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-09T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
+  },
+  {
     "id": "duende-3578140",
     "band": "Buffalo Choro Trio",
     "venue": "Duende",
@@ -5191,5 +5114,85 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
+  },
+  {
+    "id": "buffalo-iron-works-fireside-collective",
+    "band": "Fireside Collective w/ The Rollin’ Rust",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-10T20:00:00-05:00",
+    "summary": "Fireside Collective Inspired by the burgeoning art scene, close knit community, and natural beauty of Asheville, North Carolina, newgrass turned eclectic jam band Fireside Collective has spent a decade working towards this very pinnacle. Original band members Joe Cicero,…",
+    "eventUrl": "https://buffaloironworks.com/event/fireside-collective/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "electric-city-jacques-ze-whipper-circus-kid",
+    "band": "Jacques ze Whipper: Circus Kid",
+    "venue": "Electric City",
+    "startsAt": "2026-12-10T20:00:00-05:00",
+    "price": "$25–$45",
+    "eventUrl": "https://electriccity.com/events/jacques-ze-whipper-circus-kid/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-10-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-10T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "nietzsches-tim-pole-cat",
+    "band": "Tim Polecat wsg Flat Top Riot, Vrrus, & Gumshoe",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-12-10T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tim-pole-cat",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "bpo-joanns-classical-christmas-2026-12-11",
+    "band": "JoAnn’s Classical Christmas",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-11T10:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]If you love the season’s glow but crave something quieter and more luminous, this concert is your tradition. JoAnn Falletta leads an elegant program with tenor John Riesen and the Buffalo Philharmonic Chorus, shaped for reflection as…",
+    "eventUrl": "https://bpo.org/event/joanns-classical-christmas/2026-12-11/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-11",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-11T16:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-11/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
   }
 ]
