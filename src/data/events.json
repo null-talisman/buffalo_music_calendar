@@ -118,114 +118,6 @@
     "genre": "Burlesque"
   },
   {
-    "id": "mr-goodbar-2026-10-27-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-27T22:00:00-04:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3494585",
-    "band": "Mark Dux & the Bender Project",
-    "venue": "Duende",
-    "startsAt": "2026-10-28T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494585",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-tender-tyler",
-    "band": "Tyler Westcott",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-28T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tender-tyler",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-10-28",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-28T19:00:00-04:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-10-28/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-10-28",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-28T19:00:00-04:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-10-28/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "sportsmens-tavern-marshall-crenshaw-band-sportsmens",
-    "band": "Marshall Crenshaw Band wsg Sarah Borges & Eric Ambel",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-10-28T19:00:00-04:00",
-    "summary": "Sportsmens presents Marshall Crenshaw wsg Sarah Borges & Eric Ambel Wednesday, October 28, 2026 5pm Doors, 7pm Show $40.00 + Online fee Born in 1953 in Detroit, Michigan, Marshall Crenshaw learned to tune a guitar correctly at age ten and has been trying ever since. His first…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/marshall-crenshaw-band-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-the-1950-s-ft-the-hubcaps-28-oct",
-    "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - The 1950's ft. The Hubcaps",
-    "venue": "The Caz",
-    "startsAt": "2026-10-28T19:00:00-04:00",
-    "price": "$20–$25",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/caz-convo-rick-falkowski-buffalo-music-history-the-1950-s-ft-the-hubcaps-28-oct",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Talk"
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-10-28T19:30:00-04:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
     "id": "riviera-theatre-vampire-circus",
     "band": "The Vampire Circus – The Scariest Side of Cirque",
     "venue": "Riviera Theatre",
@@ -240,20 +132,6 @@
     }
   },
   {
-    "id": "babeville-maddie-zahm-everything-all-the-time-tour",
-    "band": "Maddie Zahm: Everything All The Time Tour w. Semler",
-    "venue": "Babeville",
-    "startsAt": "2026-10-28T20:00:00-04:00",
-    "summary": "Asbury · DSP Shows presents Maddie Zahm: Everything All the Time Tour live at Asbury Hall October 28 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/maddie-zahm-everything-all-the-time-tour/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Pop"
-  },
-  {
     "id": "mr-goodbar-2026-10-28-attic-and-1st-floor-karaoke-and-rotating-live-mu",
     "band": "Karaoke and rotating Live Music",
     "venue": "Mr. Goodbar",
@@ -266,18 +144,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "nietzsches-strongemen-jackie-rae",
-    "band": "Jackie Rae Daniels & Mikee Strongmen",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-28T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/strongemen-jackie-rae",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
   },
   {
     "id": "duende-3527737",
@@ -1827,20 +1693,6 @@
     "genre": "Open Mic"
   },
   {
-    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-vikings",
-    "band": "103.3 The Edge Bills Away Game Party: Bills vs. Vikings",
-    "venue": "Electric City",
-    "startsAt": "2026-11-09T20:15:00-05:00",
-    "summary": "Join us for the ultimate game day experience as 103.3 The Edge presents the Bills Away Game Party featuring the thrilling match-up between the Buffalo Bills and the Minnesota Vikings. This exciting event promises to bring fans together to cheer on the Bills in a lively…",
-    "eventUrl": "https://electriccity.com/events/103-3-the-edge-bills-away-game-party-bills-vs-vikings/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Watch Party"
-  },
-  {
     "id": "duende-3545981",
     "band": "Open Mic hosted by Tom Stahl",
     "venue": "Duende",
@@ -2411,8 +2263,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-11-13-2nd-floor-doors-not-normal",
-    "band": "Not Normal",
+    "id": "mr-goodbar-2026-11-13-2nd-floor-doors-not-normal-march-lions-john-rich",
+    "band": "Not Normal, March Lions, & John Richter",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-11-13T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -2655,8 +2507,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-11-14-2nd-floor-doors-sailing-stones",
-    "band": "Sailing Stones",
+    "id": "mr-goodbar-2026-11-14-2nd-floor-doors-middle-aged-dirtbags-catch-phras",
+    "band": "Middle Aged Dirtbags, Catch Phrase & Advice for Strangers",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-11-14T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -2745,20 +2597,6 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
-  },
-  {
-    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-jets",
-    "band": "103.3 The Edge Bills Away Game Party: Bills vs. Jets",
-    "venue": "Electric City",
-    "startsAt": "2026-11-15T13:00:00-05:00",
-    "summary": "Join us for the ultimate game-day experience at the 103.3 The Edge Bills Away Game Party as the Buffalo Bills take on the New York Jets! This electrifying event promises an atmosphere filled with excitement, camaraderie, and the thrill of live football. Expect a day packed with…",
-    "eventUrl": "https://electriccity.com/events/103-3-the-edge-bills-away-game-party-bills-vs-jets/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Watch Party"
   },
   {
     "id": "duende-3577966",
@@ -3310,8 +3148,8 @@
     "genre": "Punk"
   },
   {
-    "id": "mr-goodbar-2026-11-20-2nd-floor-doors-brittle-minds",
-    "band": "Brittle Minds",
+    "id": "mr-goodbar-2026-11-20-2nd-floor-doors-brittle-minds-suspicious-mimes",
+    "band": "Brittle Minds & Suspicious Mimes",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-11-20T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -4171,8 +4009,8 @@
     "genre": "Tribute"
   },
   {
-    "id": "mr-goodbar-2026-11-27-1st-floor-daze-ago",
-    "band": "Daze Ago",
+    "id": "mr-goodbar-2026-11-27-1st-floor-crush-crush-crush",
+    "band": "Crush, Crush, Crush",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-11-27T21:00:00-05:00",
     "summary": "1st floor",
@@ -4712,8 +4550,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-12-04-2nd-floor-doors-hard-stop",
-    "band": "Hard Stop",
+    "id": "mr-goodbar-2026-12-04-2nd-floor-doors-tba",
+    "band": "TBA",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-12-04T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -4937,20 +4775,6 @@
       "url": "https://kleinhansbuffalo.org/events/"
     },
     "genre": "Jazz"
-  },
-  {
-    "id": "electric-city-103-3-the-edge-bills-away-game-party-bills-vs-patriots",
-    "band": "103.3 The Edge Bills Away Game Party: Bills vs. Patriots",
-    "venue": "Electric City",
-    "startsAt": "2026-12-06T16:30:00-05:00",
-    "summary": "Bills fans, this is home base on the road. Join 103.3 The Edge for WNY’s BIGGEST Bills Watch Parties, live every away game, on our massive 20½-foot (250″) LED wall with WNY’s best sound system. Doors open one hour before kickoff – grab a seat, mingle with The Edge’s on-air…",
-    "eventUrl": "https://electriccity.com/events/103-3-the-edge-bills-away-game-party-bills-vs-patriots/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Watch Party"
   },
   {
     "id": "sportsmens-tavern-bill-kirchens-honky-tonk-holiday-show-sportsmens",
@@ -5194,5 +5018,208 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "German"
+  },
+  {
+    "id": "the-caz-lee-dewyze-11-dec",
+    "band": "Lee DeWyze",
+    "venue": "The Caz",
+    "startsAt": "2026-12-11T19:00:00-05:00",
+    "price": "$50.82–$61.13",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/lee-dewyze-11-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "town-ballroom-willie-nile-and-his-band",
+    "band": "Willie Nile and His Band",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-11T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/willie-nile-and-his-band/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "babeville-nikki-timothy-chooi-double",
+    "band": "Nikki & Timothy Chooi: Double",
+    "venue": "Babeville",
+    "startsAt": "2026-12-11T19:30:00-05:00",
+    "summary": "Buffalo Chamber Players presents Nikki & Timothy Chooi: Double live at Asbury Hall December 11",
+    "eventUrl": "https://babevillebuffalo.com/events/nikki-timothy-chooi-double/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "electric-city-back-in-black-an-ac-dc-tribute",
+    "band": "Back In Black: An AC/DC Tribute",
+    "venue": "Electric City",
+    "startsAt": "2026-12-11T20:00:00-05:00",
+    "price": "$32–$42",
+    "summary": "Back In Black is a high-energy tribute band dedicated to celebrating the iconic sound and legacy of AC/DC. Known for their electrifying performances, the band faithfully recreates the classic rock anthems that have made AC/DC a household name. With a lineup of seasoned…",
+    "eventUrl": "https://electriccity.com/events/back-in-black-an-ac-dc-tribute/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "mr-goodbar-2026-12-11-2nd-floor-doors-hard-stop",
+    "band": "Hard Stop",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-11T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "nietzsches-head-north",
+    "band": "Head North & Have Mercy wsg Superflea",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-12-11T20:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/head-north",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "sportsmens-tavern-sue-foley-ga-20-together-for-the-holidays-sportsmens",
+    "band": "Sue Foley/ GA-20 Together for the Holidays",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-12-11T20:00:00-05:00",
+    "summary": "Sportsmens presents Sue Foley/ GA-20 Together for the Holidays Friday, December 11, 2026 8pm General Admission $40.00 + Online fee VIP $90.00 Sue Foley is a multi-award-winning blues guitarist, singer, and songwriter whose latest album,One Guitar Woman: A Tribute to the Female…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/sue-foley-ga-20-together-for-the-holidays-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Blues"
+  },
+  {
+    "id": "mr-goodbar-2026-12-11-1st-floor-off-the-wall",
+    "band": "Off The Wall",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-11T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-the-girls-of-grosh-live-1-4pm-early-show",
+    "band": "The Girls of Grosh LIVE 1-4PM! Early Show!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-12T13:00:00-05:00",
+    "summary": "🎄🎸 THE GIRLS OF GROSH TAKE OVER CHRISTKINDLMARKT! Holiday shopping with a little rock & roll? Yes, please. 🤘 Spend the afternoon at the Haus with The Girls of Grosh , featuring Grace Lougen and Megan Brown , bringing their powerhouse sound to Christkindlmarkt! Shop the…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/the-girls-of-grosh-live-1-4pm-early-show/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "the-caz-growlers-blues-band-holiday-special-12-dec",
+    "band": "Growlers Blues Band Holiday Special",
+    "venue": "The Caz",
+    "startsAt": "2026-12-12T14:00:00-05:00",
+    "price": "$17.84",
+    "summary": "Doors 1:30 pm. Show 2:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/growlers-blues-band-holiday-special-12-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Blues"
+  },
+  {
+    "id": "duende-3578147",
+    "band": "Paul Todaro & the Standards",
+    "venue": "Duende",
+    "startsAt": "2026-12-12T15:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578147",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Jazz"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-12",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-12T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-12/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "duende-3578150",
+    "band": "Ulysses Lima",
+    "venue": "Duende",
+    "startsAt": "2026-12-12T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578150",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "electric-city-bingo-loco-presents-name-that-song-2",
+    "band": "Bingo Loco Presents: Name That Song",
+    "venue": "Electric City",
+    "startsAt": "2026-12-12T18:00:00-05:00",
+    "price": "$33–$35",
+    "summary": "Bingo Loco is an innovative entertainment experience that combines the thrill of bingo with high-energy music and a vibrant party atmosphere. Known for its unique approach to the classic game, Bingo Loco has captured the attention of audiences around the world, offering an…",
+    "eventUrl": "https://electriccity.com/events/bingo-loco-presents-name-that-song-2/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Trivia"
+  },
+  {
+    "id": "town-ballroom-strummerville-25-a-tribute-to-joe-strummer-and-the-clash",
+    "band": "Strummerville 25: A Tribute to Joe Strummer and The Clash",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-12T18:30:00-05:00",
+    "eventUrl": "https://townballroom.com/event/strummerville-25-a-tribute-to-joe-strummer-and-the-clash/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    },
+    "genre": "Tribute"
   }
 ]
