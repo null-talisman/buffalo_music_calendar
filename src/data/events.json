@@ -132,101 +132,6 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-10-29-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-10-29T20:00:00-04:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-german-music-by-our-haus-residency-and-closing-ceremonies",
-    "band": "LIVE German Music by our HAUS Residency and Closing Ceremonies",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-30T17:30:00-04:00",
-    "summary": "Closing Ceremonies of Oktoberfest with Das Haus Duo!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-by-our-haus-residency-and-closing-ceremonies/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-oktoberfest-live-german-music-die-haus-duo-2",
-    "band": "Oktoberfest LIVE German Music – Die Haus Duo",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-10-30T17:30:00-04:00",
-    "summary": "Oktoberfest LIVE German Music",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/oktoberfest-live-german-music-die-haus-duo-2/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3545334",
-    "band": "Tina Williams and the Coydogs",
-    "venue": "Duende",
-    "startsAt": "2026-10-30T18:00:00-04:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545334",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-ratlns",
-    "band": "Randle & the Late Night Scandals Halloween Happy Hour",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-30T18:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ratlns",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "bpo-bpo-upclose-1",
-    "band": "BPO UpClose: How Music Speaks",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-10-30T19:00:00-04:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Experience the BPO like never before! Sit close to the musicians, surround the orchestra, and discover classical music from an entirely new perspective. You’ll see the musicians interact, feel the energy of the performance, and…",
-    "eventUrl": "https://bpo.org/event/bpo-upclose-1/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "the-caz-the-thurman-brothers-band-the-music-of-the-allman-brothers-23-may",
-    "band": "THE THURMAN BROTHERS BAND - The Music Of The Allman Brothers",
-    "venue": "The Caz",
-    "startsAt": "2026-10-30T19:00:00-04:00",
-    "price": "$25–$30",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/the-thurman-brothers-band-the-music-of-the-allman-brothers-23-may",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Rock"
-  },
-  {
     "id": "riviera-theatre-romeo-delight",
     "band": "Romeo Delight: America’s Van Halen Experience",
     "venue": "Riviera Theatre",
@@ -240,35 +145,6 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "babeville-adam-ezra-group-4",
-    "band": "Adam Ezra Group",
-    "venue": "Babeville",
-    "startsAt": "2026-10-30T20:00:00-04:00",
-    "summary": "The 9th Ward · DSP Shows presents Adam Ezra Group live in The 9th Ward October 20 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/adam-ezra-group-4/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "electric-city-krewella",
-    "band": "Krewella",
-    "venue": "Electric City",
-    "startsAt": "2026-10-30T20:00:00-04:00",
-    "price": "$20–$65",
-    "summary": "Krewella is an electrifying electronic music duo consisting of sisters Jahan and Yasmine Yousaf. Known for their dynamic blend of dubstep, house, and pop-infused melodies, they have consistently pushed the boundaries of the EDM genre since their formation. With powerful vocals…",
-    "eventUrl": "https://electriccity.com/events/krewella/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "EDM"
   },
   {
     "id": "mohawk-place-2026-10-30-the-leones-adrianna-noone-prairie-pavement",
@@ -286,33 +162,6 @@
     "genre": "Indie"
   },
   {
-    "id": "town-ballroom-blade-rave-2",
-    "band": "BLADE RAVE",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-10-30T20:00:00-04:00",
-    "eventUrl": "https://townballroom.com/event/blade-rave-2/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "EDM"
-  },
-  {
-    "id": "buffalo-iron-works-mnm-presents-halloweekend-night-1-sodown-w-chozen",
-    "band": "MNM Presents: Halloweekend Night 1: Sodown w/ Chozen",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-10-30T21:00:00-04:00",
-    "summary": "MNM Presents Halloween: Night 1 SoDown w/ Chozen, more Friday October 30 Iron Works 49 Illinois St. Buffalo NY Doors 8pm 18+ $15+ SoDown sodown.com The sun begins to fall behind a line of snow-covered peaks as an open-top Cadillac winds through the mountains. A soulful melody…",
-    "eventUrl": "https://buffaloironworks.com/event/mnm-presents-halloweekend-night-1-sodown-w-chozen/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "EDM"
-  },
-  {
     "id": "mr-goodbar-2026-10-30-1st-floor-wasn-t-a-phase-halloween-party",
     "band": "Wasn't A Phase - Halloween Party!",
     "venue": "Mr. Goodbar",
@@ -323,18 +172,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-irving-halloween",
-    "band": "Irving Klaws Halloween",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-10-30T21:00:00-04:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/irving-halloween",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
     }
   },
   {
@@ -583,6 +420,33 @@
     }
   },
   {
+    "id": "rec-room-halloween-night-with-biacco",
+    "band": "Halloween Night with Biacco",
+    "venue": "Rec Room",
+    "startsAt": "2026-10-31T23:00:00-04:00",
+    "summary": "With Biacco. All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/halloween-night-with-biacco/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-01",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-01T13:00:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-01/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
+  },
+  {
     "id": "nietzsches-dr-jazz-buffalo-oct-2026-azhbp",
     "band": "Dr. Jazz & the Jazz Bugs @ Nietszches Buffalo",
     "venue": "Nietzsche's",
@@ -710,6 +574,20 @@
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
     }
+  },
+  {
+    "id": "rec-room-wolf-bear",
+    "band": "Wolf & Bear",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-03T19:30:00-05:00",
+    "summary": "With Coletta, Origami Button. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/wolf-bear/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Rock"
   },
   {
     "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ps2mg",
@@ -1265,6 +1143,20 @@
     "genre": "Folk"
   },
   {
+    "id": "rec-room-it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens",
+    "band": "It Dies Today – 25th Anniversary of IDT and 20th Anniversary of \"Sirens\"",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-07T17:30:00-05:00",
+    "summary": "With It Dies Today, All Out War, Gemstar, Sicksense, Autoignition, Jeweltone. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Metal"
+  },
+  {
     "id": "duende-3577957",
     "band": "The Divi Romē Band",
     "venue": "Duende",
@@ -1546,6 +1438,20 @@
       "url": "https://sportsmensbuffalo.com/calendar/"
     },
     "genre": "Country"
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-09",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-09T19:15:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-09/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
   },
   {
     "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-ayz8y",
@@ -1959,6 +1865,20 @@
     "genre": "Open Mic"
   },
   {
+    "id": "rec-room-high-vis",
+    "band": "High Vis",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-12T20:00:00-05:00",
+    "summary": "With Taker. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/high-vis/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Punk"
+  },
+  {
     "id": "nietzsches-high-horse-nov",
     "band": "High Horse",
     "venue": "Nietzsche's",
@@ -2009,6 +1929,20 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "rec-room-dueling-pianos-2",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-13T18:00:00-05:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-2/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
   },
   {
     "id": "town-ballroom-saosin",
@@ -2306,6 +2240,20 @@
     }
   },
   {
+    "id": "rec-room-home-by-10-a-dance-party-for-adults-2",
+    "band": "Home By 10 – A Dance Party For Adults",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-14T18:00:00-05:00",
+    "summary": "With Home By 10 - A Dance Party For Adults. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/home-by-10-a-dance-party-for-adults-2/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "DJ"
+  },
+  {
     "id": "bpo-chris-botti",
     "band": "Chris Botti",
     "venue": "Kleinhans Music Hall",
@@ -2468,6 +2416,20 @@
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
     }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-15",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-15T13:00:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-15/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
   },
   {
     "id": "duende-3577966",
@@ -2640,6 +2602,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-zillakami",
+    "band": "ZillaKami",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-17T20:00:00-05:00",
+    "summary": "16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/zillakami/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -2837,6 +2812,19 @@
       "name": "Sportsmen's Tavern",
       "kind": "website",
       "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "the-cave-strauss-plays-strauss-the-cave",
+    "band": "Strauss Plays Strauss",
+    "venue": "The Cave",
+    "startsAt": "2026-11-19T19:00:00-05:00",
+    "summary": "The Cave & Skylight Studio 1 present Strauss Plays Strauss Thursday, November 19, 2026 $20.00 + online fee 6pm Doors, 7pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/strauss-plays-strauss-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
     }
   },
   {
@@ -3338,6 +3326,20 @@
     "genre": "DJ"
   },
   {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-11-22",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-22T13:00:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-22/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
+  },
+  {
     "id": "bpo-vaughan-williams-double-bass-2026-11-22",
     "band": "Vaughan Williams & Double Bass",
     "venue": "Kleinhans Music Hall",
@@ -3801,6 +3803,20 @@
     }
   },
   {
+    "id": "rec-room-dueling-pianos-3",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-27T18:30:00-05:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-3/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
+  },
+  {
     "id": "the-caz-central-groove-wny-s-premier-dentist-band-27-nov",
     "band": "Central Groove - WNY's Premier Dentist Band",
     "venue": "The Caz",
@@ -3905,6 +3921,20 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-8",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-27T22:00:00-05:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-8/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "duende-3578097",
@@ -4212,6 +4242,19 @@
     "genre": "Open Mic"
   },
   {
+    "id": "rec-room-i-am-the-avalanche",
+    "band": "I Am The Avalanche",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-01T19:30:00-05:00",
+    "summary": "With Matt Embree. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/i-am-the-avalanche/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
     "id": "mohawk-place-2026-12-01-the-damone-jackson-outcome",
     "band": "The Damone Jackson Outcome",
     "venue": "Mohawk Place",
@@ -4380,6 +4423,19 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-friendship-and-charlotte-cornfield",
+    "band": "Friendship and Charlotte Cornfield",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-04T19:00:00-05:00",
+    "summary": "With Friendship, Charlotte Cornfield, More Eaze. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/friendship-and-charlotte-cornfield/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -4662,6 +4718,20 @@
     "genre": "Jazz"
   },
   {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-12-06",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-06T16:45:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-12-06/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
+  },
+  {
     "id": "sportsmens-tavern-bill-kirchens-honky-tonk-holiday-show-sportsmens",
     "band": "Bill Kirchen’s Honky Tonk Holiday Show!",
     "venue": "Sportsmen's Tavern",
@@ -4674,6 +4744,19 @@
       "url": "https://sportsmensbuffalo.com/calendar/"
     },
     "genre": "Country"
+  },
+  {
+    "id": "rec-room-keep-flying-eternal-boy",
+    "band": "Keep Flying & Eternal Boy",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-08T19:00:00-05:00",
+    "summary": "With Keep Flying, Eternal Boy, Sad Lonely, Creating a Sinner, Heart For Sale. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/keep-flying-eternal-boy/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
   },
   {
     "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-vaudeville-burlesque-08-dec",
@@ -4903,6 +4986,20 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "German"
+  },
+  {
+    "id": "rec-room-dueling-pianos-4",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-11T18:30:00-05:00",
+    "summary": "All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-4/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
   },
   {
     "id": "the-caz-lee-dewyze-11-dec",
@@ -5252,5 +5349,19 @@
       "url": "https://bpo.org/events/"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-12-13",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-13T19:15:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-12-13/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
   }
 ]
