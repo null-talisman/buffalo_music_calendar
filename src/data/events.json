@@ -147,113 +147,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mohawk-place-2026-10-31-ghoul-n-grind-the-glam-vamps-spud-racehearse-dj-",
-    "band": "Ghoul ‘N’ Grind: The Glam Vamps, Spud, Racehearse, DJ Boobie Riot",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-10-31T21:00:00-04:00",
-    "price": "$15 adv / $20 dos",
-    "summary": "Halloween Party · Due to the unfortunate passing of vocalist Tia Brown, The Spit Sisters are no longer performing. A portion of the proceeds will go to her family’s GoFundMe.",
-    "eventUrl": "https://www.facebook.com/events/1579528553848683",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "rec-room-halloween-night-with-biacco",
-    "band": "Halloween Night with Biacco",
-    "venue": "Rec Room",
-    "startsAt": "2026-10-31T23:00:00-04:00",
-    "summary": "With Biacco. All Ages",
-    "eventUrl": "https://recroombuffalo.com/tm-event/halloween-night-with-biacco/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    }
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-11-01",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-01T13:00:00-05:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-01/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "nietzsches-dr-jazz-buffalo-oct-2026-azhbp",
-    "band": "Dr. Jazz & the Jazz Bugs @ Nietszches Buffalo",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-01T15:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/dr-jazz-buffalo-oct-2026-azhbp",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "duende-3448666",
-    "band": "Peggy Farrell",
-    "venue": "Duende",
-    "startsAt": "2026-11-01T16:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3448666",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "buffalo-iron-works-4th-annual-love-peace-afrobeats",
-    "band": "4th Annual Love Peace & Afrobeats",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-01T18:00:00-05:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/4th-annual-love-peace-afrobeats/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-3d9wx",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-01T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-3d9wx",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-01T20:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
     "id": "nietzsches-the-complete-unknowns-nietzsches-buffalo-october-fl4dd",
     "band": "The Complete Unknowns",
     "venue": "Nietzsche's",
@@ -818,6 +711,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jam"
+  },
+  {
+    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-2",
+    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-06T22:00:00-05:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-2/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Karaoke"
   },
   {
     "id": "mohawk-place-2026-11-06-isded-tunic-queen-city-collective",
@@ -3665,6 +3572,21 @@
     }
   },
   {
+    "id": "electric-city-back-to-classics",
+    "band": "BACK TO CLASSICS",
+    "venue": "Electric City",
+    "startsAt": "2026-11-27T21:30:00-05:00",
+    "price": "$37–$150",
+    "summary": "CL Smooth, born Corey Brent Penn on October 8, 1968, in New Rochelle, New York, is a distinguished American rapper renowned for his smooth vocal delivery and insightful lyricism. He first gained prominence in the early 1990s as one half of the influential hip-hop duo Pete Rock…",
+    "eventUrl": "https://electriccity.com/events/back-to-classics/",
+    "source": {
+      "name": "Electric City",
+      "kind": "website",
+      "url": "https://electriccity.com/"
+    },
+    "genre": "Hip-Hop"
+  },
+  {
     "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-8",
     "band": "Live Band Karaoke 90s Rock and Pop Edition",
     "venue": "Rec Room",
@@ -3737,7 +3659,7 @@
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-28T19:30:00-05:00",
-    "summary": "Ron Spigelman, conductor See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s madcap defense of his home is still hilarious, and the live orchestra adds warmth, suspense,…",
+    "summary": "Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s…",
     "eventUrl": "https://bpo.org/event/home-alone-film-in-concert/2026-11-28/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -3883,7 +3805,7 @@
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-29T14:30:00-05:00",
-    "summary": "Ron Spigelman, conductor See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s madcap defense of his home is still hilarious, and the live orchestra adds warmth, suspense,…",
+    "summary": "Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s…",
     "eventUrl": "https://bpo.org/event/home-alone-film-in-concert/2026-11-29/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -4300,6 +4222,19 @@
     }
   },
   {
+    "id": "duende-3641002",
+    "band": "Holiday Singalong Extravaganza",
+    "venue": "Duende",
+    "startsAt": "2026-12-05T15:00:00-05:00",
+    "summary": "Song sheets will be provided! Come and enjoy some snacks and the delicious drinks duende is famous for!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3641002",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-05",
     "band": "Live German Music with our HAUS RESIDENCY!",
     "venue": "Hofbräuhaus Buffalo",
@@ -4589,7 +4524,7 @@
     "band": "Cody Fry Christmas",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-12-09T19:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text]Cody Fry, piano, guitar, vocals Cody Fry brings a holiday concert shaped by orchestral color, storytelling, and a uniquely heartfelt tone. With Fry on piano, guitar, and vocals, the evening blends nostalgic holiday classics with his own…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Ron Spigelman, conductor Cody Fry, piano, guitar, vocals Cody Fry brings a holiday concert shaped by orchestral color, storytelling, and a uniquely heartfelt tone. With Fry on piano, guitar, and vocals, the evening blends nostalgic…",
     "eventUrl": "https://bpo.org/event/cody-fry-christmas/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -5105,5 +5040,44 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Watch Party"
+  },
+  {
+    "id": "mohawk-place-2026-12-15-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-15T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "rec-room-blitzkid-modern-hel-tour-2026",
+    "band": "BLITZKID: Modern Hel Tour 2026",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-15T20:00:00-05:00",
+    "summary": "With BLITZKID, The Mausoleums. 16 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/blitzkid-modern-hel-tour-2026/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-15-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-15T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   }
 ]
