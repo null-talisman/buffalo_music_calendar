@@ -147,19 +147,6 @@
     "genre": "Rock"
   },
   {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-hefra",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-03T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j-hefra",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
     "id": "mohawk-place-2026-11-03-the-damone-jackson-outcome",
     "band": "The Damone Jackson Outcome",
     "venue": "Mohawk Place",
@@ -173,33 +160,6 @@
     }
   },
   {
-    "id": "rec-room-wolf-bear",
-    "band": "Wolf & Bear",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-03T19:30:00-05:00",
-    "summary": "With Coletta, Origami Button. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/wolf-bear/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ps2mg",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-03T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ps2mg",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-11-03-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -211,19 +171,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-9dta3",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-03T22:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k-9dta3",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3514449",
@@ -781,19 +728,18 @@
     "genre": "Rock"
   },
   {
-    "id": "the-caz-edmund-fitzgerald-anniversary-tribute-show-07-nov",
-    "band": "Edmund Fitzgerald - Anniversary Tribute Show",
+    "id": "the-caz-david-jonathan-the-inner-city-bedlam-07-nov",
+    "band": "DAVID JONATHAN & THE INNER CITY BEDLAM",
     "venue": "The Caz",
-    "startsAt": "2026-11-07T19:10:00-05:00",
-    "price": "$23.51–$28.66",
-    "summary": "Doors 5:30 pm. Show 7:10 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/edmund-fitzgerald-anniversary-tribute-show-07-nov",
+    "startsAt": "2026-11-07T19:00:00-05:00",
+    "price": "$15",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/david-jonathan-the-inner-city-bedlam-07-nov",
     "source": {
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Tribute"
+    }
   },
   {
     "id": "bpo-bronfman-plays-mozart-2026-11-07",
@@ -3509,6 +3455,19 @@
     }
   },
   {
+    "id": "sportsmens-tavern-mitchs-infidels-reunion-show-sportsmens",
+    "band": "Mitch’s Infidels Reunion Show",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-11-27T20:00:00-05:00",
+    "summary": "Sportsmens presents Mitch’s Infidels Reunion Show Friday, November 27, 2026 $15ad/$20door 6pm Doors, 8pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/mitchs-infidels-reunion-show-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "the-cave-the-smiths-etc-tribute-to-the-smiths-the-cave",
     "band": "THE SMITHS etc Tribute to The Smiths",
     "venue": "The Cave",
@@ -3636,7 +3595,7 @@
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-28T19:30:00-05:00",
-    "summary": "Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s…",
+    "summary": "[vc_row][vc_column][vc_column_text] Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’…",
     "eventUrl": "https://bpo.org/event/home-alone-film-in-concert/2026-11-28/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -3782,7 +3741,7 @@
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-11-29T14:30:00-05:00",
-    "summary": "Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’ captivating score live. Kevin McAllister’s…",
+    "summary": "[vc_row][vc_column][vc_column_text] Ron Spigelman, conductor Amherst Central High School Concert Chorale Justin Pomietlarz, Director of Choral Activities See the holiday classic in the most joyful way, with the full film on screen while your BPO performs John Williams’…",
     "eventUrl": "https://bpo.org/event/home-alone-film-in-concert/2026-11-29/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -4354,6 +4313,19 @@
     }
   },
   {
+    "id": "the-cave-a-night-of-harmony-alex-mcarthur-megan-brown-grace-stumberg-sue-kincaid-grace-lougen-the-cave",
+    "band": "“A Night of Harmony” Alex McArthur, Megan Brown, Grace Stumberg, Sue Kincaid, Grace Lougen",
+    "venue": "The Cave",
+    "startsAt": "2026-12-05T20:00:00-05:00",
+    "summary": "The Cave presents A Night of Harmony Alex McArthur, Megan Brown, Grace Stumberg, Sue Kincaid, Grace Lougen Saturday, December 5, 2026 $20.00 + Online Fee 7pm Doors, 8pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/a-night-of-harmony-alex-mcarthur-megan-brown-grace-stumberg-sue-kincaid-grace-lougen-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
     "id": "the-caz-el-scorcho-ugly-sweater-christmas-party-05-dec",
     "band": "El Scorcho - Ugly Sweater Christmas Party",
     "venue": "The Caz",
@@ -4681,6 +4653,19 @@
     "genre": "Piano"
   },
   {
+    "id": "buffalo-iron-works-letter-to-elise-w-tj-zindle-the-sure-things-and-adelaide",
+    "band": "Letter to Elise w/ TJ Zindle & The Sure Things and Adelaide",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-11T19:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/letter-to-elise-w-tj-zindle-the-sure-things-and-adelaide/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
     "id": "the-caz-lee-dewyze-11-dec",
     "band": "Lee DeWyze",
     "venue": "The Caz",
@@ -5006,7 +4991,7 @@
     "band": "Jingle Bell Jam",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-12-13T12:00:00-05:00",
-    "summary": "Grant O’Brien, conductor Make the holidays feel magical and manageable. Jingle Bell Jam combines festive music, holiday decorations, pre-concert activities, and a sing-along into an experience built for families. With Grant O’Brien conducting, the orchestra brings seasonal…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Make the holidays feel magical and manageable. Jingle Bell Jam combines festive music, holiday decorations, pre-concert activities, and a sing-along into an experience built for families. With Grant O’Brien conducting, the orchestra…",
     "eventUrl": "https://bpo.org/event/jingle-bell-jam-1/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -5020,7 +5005,7 @@
     "band": "Jingle Bell Jam",
     "venue": "Kleinhans Music Hall",
     "startsAt": "2026-12-13T16:00:00-05:00",
-    "summary": "Grant O’Brien, conductor Make the holidays feel magical and manageable. Jingle Bell Jam combines festive music, holiday decorations, pre-concert activities, and a sing-along into an experience built for families. With Grant O’Brien conducting, the orchestra brings seasonal…",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Make the holidays feel magical and manageable. Jingle Bell Jam combines festive music, holiday decorations, pre-concert activities, and a sing-along into an experience built for families. With Grant O’Brien conducting, the orchestra…",
     "eventUrl": "https://bpo.org/event/jingle-bell-jam-2/",
     "source": {
       "name": "Kleinhans Music Hall",
@@ -5125,11 +5110,105 @@
     "genre": "Karaoke"
   },
   {
+    "id": "bpo-holiday-pops-2026-12-17",
+    "band": "Holiday Pops",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-17T10:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Holiday Pops is Buffalo’s most cherished seasonal tradition for a reason. It is pure shared joy. Under Ron Spigelman, the BPO fills Kleinhans with familiar favorites, fresh surprises, and the warmth you feel the moment you walk into the…",
+    "eventUrl": "https://bpo.org/event/holiday-pops/2026-12-17/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "duende-3643468",
     "band": "Sue Kincaid & Grace Lougen",
     "venue": "Duende",
     "startsAt": "2026-12-17T18:00:00-05:00",
     "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3643468",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-ripe",
+    "band": "Ripe",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-17T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/ripe/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-17-evergreen-echoes-expert-witness-crimson-cactus",
+    "band": "Evergreen Echoes, Expert Witness, Crimson Cactus",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-17T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-17-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-17T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "bpo-holiday-pops-2026-12-18",
+    "band": "Holiday Pops",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-18T10:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Holiday Pops is Buffalo’s most cherished seasonal tradition for a reason. It is pure shared joy. Under Ron Spigelman, the BPO fills Kleinhans with familiar favorites, fresh surprises, and the warmth you feel the moment you walk into the…",
+    "eventUrl": "https://bpo.org/event/holiday-pops/2026-12-18/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-18",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-18T16:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-18/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
+  },
+  {
+    "id": "duende-3643466",
+    "band": "Mark Winsick",
+    "venue": "Duende",
+    "startsAt": "2026-12-18T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3643466",
     "source": {
       "name": "Duende",
       "kind": "website",
