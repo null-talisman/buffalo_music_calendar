@@ -162,73 +162,6 @@
     "genre": "Metal"
   },
   {
-    "id": "babeville-kurt-vile-the-violators-w-twisted-teens",
-    "band": "Kurt Vile & The Violators w/ Twisted Teens",
-    "venue": "Babeville",
-    "startsAt": "2026-11-04T20:00:00-05:00",
-    "summary": "Asbury · DSP Shows presents Kurt Vile & The Violators w/ support from Twisted Teens",
-    "eventUrl": "https://babevillebuffalo.com/events/kurt-vile-the-violators-w-twisted-teens/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Indie"
-  },
-  {
-    "id": "mr-goodbar-2026-11-04-attic-and-1st-floor-karaoke-and-rotating-live-mu",
-    "band": "Karaoke and rotating Live Music",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-04T21:00:00-05:00",
-    "summary": "Attic and 1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Karaoke"
-  },
-  {
-    "id": "duende-3494601",
-    "band": "Wind & Wire",
-    "venue": "Duende",
-    "startsAt": "2026-11-05T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3494601",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-sotto-voce",
-    "band": "Sotto Voce: Rock Opera",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-05T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/sotto-voce",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-caz-the-kensingtons-05-nov",
-    "band": "THE KENSINGTONS",
-    "venue": "The Caz",
-    "startsAt": "2026-11-05T19:00:00-05:00",
-    "price": "$15",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/the-kensingtons-05-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
     "id": "riviera-theatre-night-ranger",
     "band": "NIGHT RANGER – Live In Concert",
     "venue": "Riviera Theatre",
@@ -244,20 +177,6 @@
     "genre": "Rock"
   },
   {
-    "id": "buffalo-iron-works-kendall-street-company-w-roy-g-biv",
-    "band": "Kendall Street Company w/ Roy G Biv",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-05T20:00:00-05:00",
-    "summary": "Kendall Street Company Virginia’s Kendall Street Company are no strangers to having a wild time. The genre-fluid, eclectic rock ensemble has drawn varied comparisons to the dynamic jams of Umphrey’s McGee and Widespread Panic, songwriting of John Prine, experimental psychedelia…",
-    "eventUrl": "https://buffaloironworks.com/event/kendall-street-company-w-roy-g-biv/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Jam"
-  },
-  {
     "id": "mr-goodbar-2026-11-05-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
     "band": "Open Mic Comedy",
     "venue": "Mr. Goodbar",
@@ -270,32 +189,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Open Mic"
-  },
-  {
-    "id": "nietzsches-pentagram-buffalo",
-    "band": "Pentagram String Band & Doom Scroll wsg Redd & the Paper Flowers",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-05T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/pentagram-buffalo",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Bluegrass"
-  },
-  {
-    "id": "jack-rabbit-kitty-karaoke-752c2-xr86j-p74mz-ltw63-chtrr",
-    "band": "Kitty Karaoke",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-05T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/kitty-karaoke-752c2-xr86j-p74mz-ltw63-chtrr",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Karaoke"
   },
   {
     "id": "bpo-bronfman-plays-mozart-2026-11-06",
@@ -887,6 +780,19 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jazz"
+  },
+  {
+    "id": "duende-3659960",
+    "band": "Monday Game Day",
+    "venue": "Duende",
+    "startsAt": "2026-11-09T18:00:00-05:00",
+    "summary": "We're opening for the game and firing up the grill! L E T S G O B U F F A L O",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3659960",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "nietzsches-comienzos-buffalo-october-z42pr",
@@ -1931,6 +1837,18 @@
     "genre": "DJ"
   },
   {
+    "id": "jack-rabbit-brahctopus-pnbgg-kcgd4-bg8ar",
+    "band": "seven teller",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-14T21:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/brahctopus-pnbgg-kcgd4-bg8ar",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
     "id": "nietzsches-chili",
     "band": "Allentown Chili Cook-Off",
     "venue": "Nietzsche's",
@@ -1961,7 +1879,6 @@
     "band": "The Wazmopolitans",
     "venue": "Duende",
     "startsAt": "2026-11-15T16:00:00-05:00",
-    "summary": "MORE INFO HERE http://www.thewaz.com/",
     "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577966",
     "source": {
       "name": "Duende",
@@ -2209,7 +2126,7 @@
   },
   {
     "id": "duende-3606310",
-    "band": "Hall Pass Heros",
+    "band": "Hall Pass Heroes",
     "venue": "Duende",
     "startsAt": "2026-11-18T18:00:00-05:00",
     "summary": "Bin Floor",
@@ -2289,7 +2206,7 @@
   },
   {
     "id": "babeville-dar-williams",
-    "band": "Dar Williams",
+    "band": "Dar Williams w. special guest Davey O.",
     "venue": "Babeville",
     "startsAt": "2026-11-18T20:00:00-05:00",
     "summary": "Asbury · DSP Shows presents Dar Williams live in Asbury Hall November 18 2026",
@@ -2298,7 +2215,8 @@
       "name": "Babeville",
       "kind": "website",
       "url": "https://babevillebuffalo.com/events/"
-    }
+    },
+    "genre": "Folk"
   },
   {
     "id": "mohawk-place-2026-11-18-ecce-shnak",
@@ -3370,6 +3288,18 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "duende-3657116",
+    "band": "CLOSED",
+    "venue": "Duende",
+    "startsAt": "2026-11-26T10:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3657116",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "mr-goodbar-2026-11-26-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
@@ -5158,6 +5088,19 @@
     "genre": "Jam"
   },
   {
+    "id": "buffalo-iron-works-give-her-a-fighting-chance-benefit-help-mary-john-fight-wilsons-disease",
+    "band": "Give Her a Fighting Chance Benefit – Help Mary John Fight Wilson’s Disease",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-13T12:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/give-her-a-fighting-chance-benefit-help-mary-john-fight-wilsons-disease/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
     "id": "bpo-jingle-bell-jam-2",
     "band": "Jingle Bell Jam",
     "venue": "Kleinhans Music Hall",
@@ -5516,5 +5459,165 @@
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     },
     "genre": "Folk"
+  },
+  {
+    "id": "bpo-holiday-pops-2026-12-19",
+    "band": "Holiday Pops",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-19T19:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Holiday Pops is Buffalo’s most cherished seasonal tradition for a reason. It is pure shared joy. Under Ron Spigelman, the BPO fills Kleinhans with familiar favorites, fresh surprises, and the warmth you feel the moment you walk into the…",
+    "eventUrl": "https://bpo.org/event/holiday-pops/2026-12-19/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "buffalo-iron-works-driftwood-3",
+    "band": "Driftwood",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-19T20:00:00-05:00",
+    "summary": "Driftwood Music has guided Driftwood to hallowed ground many times since its founding members, Joe Kollar and Dan Forsyth, started making music as high schoolers in Joe’s parents’ basement. Whether the Upstate New York folk rock group—which today also includes violinist Claire…",
+    "eventUrl": "https://buffaloironworks.com/event/driftwood-3/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    },
+    "genre": "Folk"
+  },
+  {
+    "id": "mohawk-place-2026-12-19-early-show-jony-james-band",
+    "band": "Early Show: Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-19T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-19-the-atrocity-tourist-hell-ever-after-dredneks",
+    "band": "The Atrocity Tourist, Hell Ever After, DredNeks",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-19T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-19-2nd-floor-doors-salt",
+    "band": "Salt",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-19T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "rec-room-buffalo-bills-viewing-party-2026-12-19",
+    "band": "Buffalo Bills Viewing Party",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-19T20:20:00-05:00",
+    "summary": "With Buffalo Bills. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-12-19/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Watch Party"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-12-19",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-19T21:00:00-05:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-12-19/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "DJ"
+  },
+  {
+    "id": "bpo-holiday-pops-2026-12-20",
+    "band": "Holiday Pops",
+    "venue": "Kleinhans Music Hall",
+    "startsAt": "2026-12-20T14:30:00-05:00",
+    "summary": "[vc_row][vc_column][vc_column_text css=””]Holiday Pops is Buffalo’s most cherished seasonal tradition for a reason. It is pure shared joy. Under Ron Spigelman, the BPO fills Kleinhans with familiar favorites, fresh surprises, and the warmth you feel the moment you walk into the…",
+    "eventUrl": "https://bpo.org/event/holiday-pops/2026-12-20/",
+    "source": {
+      "name": "Kleinhans Music Hall",
+      "kind": "website",
+      "url": "https://bpo.org/events/"
+    },
+    "genre": "Classical"
+  },
+  {
+    "id": "duende-3641006",
+    "band": "A Charlie Brown Christmas: Show #1",
+    "venue": "Duende",
+    "startsAt": "2026-12-20T16:30:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3641006",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-photo-city-presents-end-of-the-world-party-2026-feat-until-i-wake",
+    "band": "Photo City Presents: End Of The World Party 2026 – Feat: Until I Wake",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-20T17:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/photo-city-presents-end-of-the-world-party-2026-feat-until-i-wake/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "the-caz-mike-randall-s-charles-dickens-presents-a-christmas-carol-20-dec",
+    "band": "Mike Randall's Charles Dickens Presents: A Christmas Carol",
+    "venue": "The Caz",
+    "startsAt": "2026-12-20T18:00:00-05:00",
+    "price": "$25",
+    "summary": "Doors 5:00 pm. Show 6:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/mike-randall-s-charles-dickens-presents-a-christmas-carol-20-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "duende-3641007",
+    "band": "A Charlie Brown Christmas: Show #2",
+    "venue": "Duende",
+    "startsAt": "2026-12-20T18:30:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3641007",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   }
 ]
