@@ -177,72 +177,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-11-05-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-05T20:00:00-05:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "bpo-bronfman-plays-mozart-2026-11-06",
-    "band": "Bronfman Plays Mozart",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-06T10:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance, and emotional depth. Pianist Yefim Bronfman brings commanding presence to the solo role, partnered by JoAnn Falletta and the BPO. John Adams’…",
-    "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-06/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-06",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-06T17:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-06/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3577953",
-    "band": "Alison Pipitone",
-    "venue": "Duende",
-    "startsAt": "2026-11-06T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577953",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-band-named-sue-october-ez5ne",
-    "band": "Buffalo’s Band Named Sue",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-06T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/band-named-sue-october-ez5ne",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "buffalo-riverworks-000064CCA08AC89B",
     "band": "STATE CHAMPS - 10 YEARS OF 'AROUND THE WORLD AND BACK'",
     "venue": "Buffalo RiverWorks",
@@ -255,19 +189,6 @@
       "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
     },
     "genre": "Punk"
-  },
-  {
-    "id": "the-cave-too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave",
-    "band": "To Many Guitars Vol. 1 Hosted by Rick Strauss",
-    "venue": "The Cave",
-    "startsAt": "2026-11-06T19:00:00-05:00",
-    "summary": "The Cave presents To Many Guitars Vol. 1 Hosted by Rick Strauss Friday, November 6, 2026 $20.00 + Online fee 6pm Doos/7pm Showtime Screenshot",
-    "eventUrl": "https://sportsmensbuffalo.com/single/too-many-guitars-vol-1-hosted-by-rick-strauss-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    }
   },
   {
     "id": "riviera-theatre-zepp-reimagined-1",
@@ -283,35 +204,6 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "buffalo-iron-works-upstate",
-    "band": "Upstate w/ Socialite",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "summary": "Upstate It takes good soil, and good seasons, to bear good fruit, and Upstate has had its plenty. The band sprung up in New York’s legendary Hudson Valley, set in the middle of a thick American musical heritage. To their inland West was the Ashokan reservoir folk tradition, and…",
-    "eventUrl": "https://buffaloironworks.com/event/upstate/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "electric-city-stone-city-band",
-    "band": "Stone City Band",
-    "venue": "Electric City",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "price": "$39–$51",
-    "summary": "The Stone City Band, known for their dynamic blend of funk, R&B, and soul, has been a significant force in the music scene since their formation. Originally serving as the backing band for legendary artist Rick James, they have carved out their own identity with a series of…",
-    "eventUrl": "https://electriccity.com/events/stone-city-band/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Soul"
   },
   {
     "id": "mohawk-place-2026-11-06-silver-proof-mickey-moone-skamagotchi-heart-for-",
@@ -342,71 +234,6 @@
     "genre": "Funk"
   },
   {
-    "id": "the-caz-sax-in-the-city-part-7-will-holton-06-nov",
-    "band": "Sax In The City Part 7 Will Holton",
-    "venue": "The Caz",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "price": "$60–$65",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/sax-in-the-city-part-7-will-holton-06-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "town-ballroom-eazybaked-distinct-motive",
-    "band": "Eazybaked & Distinct Motive",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/eazybaked-distinct-motive/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "EDM"
-  },
-  {
-    "id": "jack-rabbit-brahctopus",
-    "band": "Brahctopus",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-06T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/brahctopus",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "jack-rabbit-brahctopus-pnbgg",
-    "band": "Ancient spaceship / stephen babcock",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-06T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/brahctopus-pnbgg",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "jack-rabbit-brahctopus-pnbgg-6jkjr",
-    "band": "Grateful Dead Brunch with buffalo dead all-stars",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-06T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/brahctopus-pnbgg-6jkjr",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Jam"
-  },
-  {
     "id": "mr-goodbar-2026-11-06-1st-floor-the-spin-wires-freaky-styley",
     "band": "The Spin Wires & Freaky Styley",
     "venue": "Mr. Goodbar",
@@ -418,33 +245,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-strange-machines",
-    "band": "Strange Machines & Calabash",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-06T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/strange-machines",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-2",
-    "band": "Live Band Karaoke 90s Rock and Pop Edition",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-06T22:00:00-05:00",
-    "summary": "21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-2/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Karaoke"
   },
   {
     "id": "mohawk-place-2026-11-06-isded-tunic-queen-city-collective",
@@ -1589,6 +1389,19 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "rec-room-honey-2",
+    "band": "Honey",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-13T22:00:00-05:00",
+    "summary": "With Honey Bflo. All Ages",
+    "eventUrl": "https://recroombuffalo.com/tm-event/honey-2/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -5618,6 +5431,19 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "babeville-american-football",
+    "band": "American Football with She's Green",
+    "venue": "Babeville",
+    "startsAt": "2026-12-20T20:00:00-05:00",
+    "summary": "Asbury · DSP Shows presents american football live in Asbury Hall",
+    "eventUrl": "https://babevillebuffalo.com/events/american-football/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
     }
   }
 ]
