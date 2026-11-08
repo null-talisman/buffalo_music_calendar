@@ -206,20 +206,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mohawk-place-2026-11-06-silver-proof-mickey-moone-skamagotchi-heart-for-",
-    "band": "Silver Proof, Mickey Moone, Skamagotchi, Heart For Sale",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "price": "$10",
-    "summary": "Mickey Moone is a Canadian one-man-band.",
-    "eventUrl": "https://www.facebook.com/events/1587278833145904",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-11-06-2nd-floor-doors-buffalo-funk-brigade",
     "band": "Buffalo Funk Brigade",
     "venue": "Mr. Goodbar",
@@ -247,139 +233,6 @@
     }
   },
   {
-    "id": "mohawk-place-2026-11-06-isded-tunic-queen-city-collective",
-    "band": "isded, Tunic, Queen City Collective",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-06T23:30:00-05:00",
-    "price": "$15 adv / $20 at door",
-    "summary": "DNGR presents · Following the Eazybaked & Distinct Motive show at the Town Ballroom.",
-    "eventUrl": "https://www.facebook.com/events/1373638954919544",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "duende-3577950",
-    "band": "Mimosas & Minuets",
-    "venue": "Duende",
-    "startsAt": "2026-11-07T13:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577950",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "mohawk-place-2026-11-07-jony-james-band",
-    "band": "Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-07T14:00:00-05:00",
-    "price": "Free",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "duende-3577954",
-    "band": "Masti World Music Ensemble",
-    "venue": "Duende",
-    "startsAt": "2026-11-07T15:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577954",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-celtic-sessions-october-yhw2w-3mrxd",
-    "band": "Celtic Sessions",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-07T16:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/celtic-sessions-october-yhw2w-3mrxd",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "rec-room-it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens",
-    "band": "It Dies Today – 25th Anniversary of IDT and 20th Anniversary of \"Sirens\"",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-07T17:30:00-05:00",
-    "summary": "With It Dies Today, All Out War, Gemstar, Sicksense, Autoignition, Jeweltone. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/it-dies-today-25th-anniversary-of-idt-and-20th-anniversary-of-sirens/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Metal"
-  },
-  {
-    "id": "duende-3577957",
-    "band": "The Divi Romē Band",
-    "venue": "Duende",
-    "startsAt": "2026-11-07T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577957",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-cock-robin-live-at-our-haus-no-german-music",
-    "band": "Cock Robin LIVE at our HAUS! (NO GERMAN MUSIC)",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-07T19:00:00-05:00",
-    "summary": "🎸 A legendary name in Buffalo rock returns to the stage! Cock Robin helped define Western New York’s live music scene during the golden era of the 1970s, packing clubs from Buffalo to Syracuse and Cleveland with powerful vocals, outstanding musicianship and the kind of…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/cock-robin-live-at-our-haus-no-german-music/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-caz-david-jonathan-the-inner-city-bedlam-07-nov",
-    "band": "DAVID JONATHAN & THE INNER CITY BEDLAM",
-    "venue": "The Caz",
-    "startsAt": "2026-11-07T19:00:00-05:00",
-    "price": "$15",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/david-jonathan-the-inner-city-bedlam-07-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "bpo-bronfman-plays-mozart-2026-11-07",
-    "band": "Bronfman Plays Mozart",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-07T19:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Mozart’s Piano Concerto No. 24 is one of his most gripping works, full of tension, elegance, and emotional depth. Pianist Yefim Bronfman brings commanding presence to the solo role, partnered by JoAnn Falletta and the BPO. John Adams’…",
-    "eventUrl": "https://bpo.org/event/bronfman-plays-mozart/2026-11-07/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
     "id": "riviera-theatre-zepp-reimagined-2",
     "band": "Zeppelin Reimagined",
     "venue": "Riviera Theatre",
@@ -393,20 +246,6 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "buffalo-iron-works-austin-snell",
-    "band": "Austin Snell w/ Brooke Lee",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "summary": "Austin Snell Armed with a pen like a nerve ending and the warm metallic buzz of a rip saw vocal, River House Artists / Warner Records Nashville’s Austin Snell is a rising country renegade whose work presents anguish and ecstasy in harrowing high definition. A 28-year-old,…",
-    "eventUrl": "https://buffaloironworks.com/event/austin-snell/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Country"
   },
   {
     "id": "mohawk-place-2026-11-07-amateur-hockey-club-we-were-blank-johnny-the-man",
@@ -435,46 +274,6 @@
     }
   },
   {
-    "id": "nietzsches-mono-means-one-buffalo",
-    "band": "Mono Means One wsg Sailing Stones",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/mono-means-one-buffalo",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "sportsmens-tavern-the-sheila-divine-wsg-will-dailey-sportsmens",
-    "band": "The Sheila Divine wsg/Will Dailey",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "summary": "Sportsmens presents The Sheila Divine wsg/Will Dailey Saturday, November 7, 2026 $25.00 + online fee 7pm Doors, 8pm Showtime",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-sheila-divine-wsg-will-dailey-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "town-ballroom-the-emo-night-tour-7",
-    "band": "The Emo Night Tour",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/the-emo-night-tour-7/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Emo"
-  },
-  {
     "id": "hofbrauhaus-buffalo-live-brunch-with-chet-gary",
     "band": "LIVE Brunch with Chet Gary!",
     "venue": "Hofbräuhaus Buffalo",
@@ -487,6 +286,18 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "Jazz"
+  },
+  {
+    "id": "jack-rabbit-grateful-brunch-w-buffalo-dead-allstars-4",
+    "band": "Grateful Brunch w/ Buffalo Dead Allstars",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-08T13:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/grateful-brunch-w-buffalo-dead-allstars-4",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
   },
   {
     "id": "nietzsches-grateful-dans-oct-2026-gg332",
@@ -2407,6 +2218,19 @@
     "genre": "Tribute"
   },
   {
+    "id": "jack-rabbit-pocketship-5",
+    "band": "Pocketship",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-20T21:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/pocketship-5",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    },
+    "genre": "Jam"
+  },
+  {
     "id": "mr-goodbar-2026-11-20-1st-floor-bear-the-bronze",
     "band": "Bear The Bronze",
     "venue": "Mr. Goodbar",
@@ -2637,6 +2461,18 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "DJ"
+  },
+  {
+    "id": "jack-rabbit-grosh-w-lilieae",
+    "band": "Grosh w/ LILIEAE",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-21T22:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/grosh-w-lilieae",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
   },
   {
     "id": "rec-room-buffalo-bills-viewing-party-2026-11-22",
@@ -2966,6 +2802,19 @@
     "genre": "Open Mic"
   },
   {
+    "id": "jack-rabbit-ddmryy723k43d97y39ldpspzlyz4z6",
+    "band": "Olmsted Dub System",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-25T19:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/ddmryy723k43d97y39ldpspzlyz4z6",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    },
+    "genre": "Reggae"
+  },
+  {
     "id": "town-ballroom-the-strictly-hip-7",
     "band": "The Strictly Hip",
     "venue": "Town Ballroom",
@@ -3101,6 +2950,18 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "jack-rabbit-slow-animals-4",
+    "band": "Slow Animals",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-25T22:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/slow-animals-4",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
   },
   {
     "id": "duende-3657116",
@@ -3312,6 +3173,18 @@
       "url": "https://sportsmensbuffalo.com/stages/the-cave/"
     },
     "genre": "Tribute"
+  },
+  {
+    "id": "jack-rabbit-the-travesties-w-drednecks",
+    "band": "The Travesties W/ Drednecks",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-27T21:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/the-travesties-w-drednecks",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
   },
   {
     "id": "mr-goodbar-2026-11-27-1st-floor-crush-crush-crush",
@@ -3531,6 +3404,18 @@
     "genre": "DJ"
   },
   {
+    "id": "jack-rabbit-the-sideways-5",
+    "band": "The Sideways",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-28T21:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/the-sideways-5",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
     "id": "town-ballroom-back-2-the-ballroom-iii-one-final-time",
     "band": "Back 2 The Ballroom III: One Final Time",
     "venue": "Town Ballroom",
@@ -3553,6 +3438,18 @@
       "name": "Hofbräuhaus Buffalo",
       "kind": "website",
       "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
+    "id": "jack-rabbit-jecpjtcj33mgnkjp49g7rghe39zax4",
+    "band": "90s Brunch W/ Ed Wyner",
+    "venue": "Jack Rabbit",
+    "startsAt": "2026-11-29T13:00:00-05:00",
+    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/jecpjtcj33mgnkjp49g7rghe39zax4",
+    "source": {
+      "name": "Jack Rabbit",
+      "kind": "website",
+      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
     }
   },
   {
@@ -5444,6 +5341,20 @@
       "name": "Babeville",
       "kind": "website",
       "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "the-caz-a-charlie-brown-christmas-featuring-ed-croft-dave-wasik-ivan-docenko-21-dec",
+    "band": "A CHARLIE BROWN CHRISTMAS - Featuring Ed Croft / Dave Wasik / Ivan Docenko",
+    "venue": "The Caz",
+    "startsAt": "2026-12-21T19:00:00-05:00",
+    "price": "$24.89",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/a-charlie-brown-christmas-featuring-ed-croft-dave-wasik-ivan-docenko-21-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
     }
   }
 ]
