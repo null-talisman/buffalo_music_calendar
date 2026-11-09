@@ -206,33 +206,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-11-06-2nd-floor-doors-buffalo-funk-brigade",
-    "band": "Buffalo Funk Brigade",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-06T20:00:00-05:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Funk"
-  },
-  {
-    "id": "mr-goodbar-2026-11-06-1st-floor-the-spin-wires-freaky-styley",
-    "band": "The Spin Wires & Freaky Styley",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-06T21:00:00-05:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
     "id": "riviera-theatre-zepp-reimagined-2",
     "band": "Zeppelin Reimagined",
     "venue": "Riviera Theatre",
@@ -248,124 +221,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mohawk-place-2026-11-07-amateur-hockey-club-we-were-blank-johnny-the-man",
-    "band": "Amateur Hockey Club, We Were Blank, Johnny & the Man Kids, Skyway",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "price": "$15 adv / $20 at door",
-    "eventUrl": "https://www.facebook.com/events/1588763085783541",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-11-07-2nd-floor-doors-socialite-little-liar-girl-stuf",
-    "band": "Socialite, Little Liar, Girl Stuf",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-07T20:00:00-05:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-brunch-with-chet-gary",
-    "band": "LIVE Brunch with Chet Gary!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-08T11:00:00-05:00",
-    "summary": "🎻 BRUNCH & AN ELECTRIC FIDDLE! 🍳🍺 Sunday brunch is getting a serious soundtrack. Join us for Brunch with Chet Gary , bringing his electric fiddle and a HUGE mix of music from Led Zeppelin, Tom Petty, Billy Joel and Dave Matthews to The Killers, Blink-182, Ed Sheeran, Morgan…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-brunch-with-chet-gary/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "jack-rabbit-grateful-brunch-w-buffalo-dead-allstars-4",
-    "band": "Grateful Brunch w/ Buffalo Dead Allstars",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-08T13:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/grateful-brunch-w-buffalo-dead-allstars-4",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
-    "id": "nietzsches-grateful-dans-oct-2026-gg332",
-    "band": "The Grateful Dans",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-08T13:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026-gg332",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "kleinhans-zuraitis",
-    "band": "Nicole Zuraitis Quartet",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-08T15:00:00-05:00",
-    "summary": "Kleinhans Music Hall and JazzBuffalo are pleased to present The Nicole Zuraitis Quartet Sunday, November 8 | 3 PM The Mary Seaton Room Jazz at Kleinhans proudly welcomes one of the most dynamic and decorated voices in contemporary jazz — two-time GRAMMY® winner and six-time…",
-    "eventUrl": "https://kleinhansbuffalo.org/event/zuraitis/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://kleinhansbuffalo.org/events/"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "the-cave-the-garage-doors-the-cave-2",
-    "band": "The Garage Doors",
-    "venue": "The Cave",
-    "startsAt": "2026-11-08T15:00:00-05:00",
-    "summary": "The Cave presents The Garage Doors An afternoon of the music and poetry of The Doors Sunday, November 8, 2026 $15.00 + Onile Fee 2pm Doors, 3pm Showtime",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-garage-doors-the-cave-2/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    }
-  },
-  {
-    "id": "duende-3539851",
-    "band": "The Susan Peters Jazz Band",
-    "venue": "Duende",
-    "startsAt": "2026-11-08T16:00:00-05:00",
-    "summary": "Monthly on every second Sunday Featuring: Abdul Rahman Qadir on drums, Piccirilli on upright bass, Wally Jederman on vibes and George Kane on guitar!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3539851",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Jazz"
-  },
-  {
-    "id": "nietzsches-joey-d",
-    "band": "Joey Donohue Nietzsche’s Benefit Show",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-08T16:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/joey-d",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "buffalo-riverworks-000064B4D3463EA0",
     "band": "Alter Bridge - What Lies Within Tour",
     "venue": "Buffalo RiverWorks",
@@ -378,19 +233,6 @@
       "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
     },
     "genre": "Metal"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-3kgck",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-08T20:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-3kgck",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
   },
   {
     "id": "duende-3659960",
@@ -421,8 +263,8 @@
     "id": "sportsmens-tavern-garrett-boys-sportsmens",
     "band": "Garrett Boys",
     "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-09T19:00:00-05:00",
-    "summary": "Sportsmens presents Garrett Boys Monday, November 9, 2026 5pm Doors/7pm Showtime $15.00 + Online fee Every family has its own unique history, a timeline fleshed out by memorable characters, milestone events, and the stories passed on through the decades that bind it all…",
+    "startsAt": "2026-11-09T18:00:00-05:00",
+    "summary": "Sportsmens presents Garrett Boys Monday, November 9, 2026 5pm Doors/6pm Showtime $15.00 + Online fee Every family has its own unique history, a timeline fleshed out by memorable characters, milestone events, and the stories passed on through the decades that bind it all…",
     "eventUrl": "https://sportsmensbuffalo.com/single/garrett-boys-sportsmens/",
     "source": {
       "name": "Sportsmen's Tavern",
@@ -1482,6 +1324,18 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "duende-3669737",
+    "band": "Sunday Game Day",
+    "venue": "Duende",
+    "startsAt": "2026-11-15T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3669737",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
   },
   {
@@ -2815,6 +2669,19 @@
     "genre": "Reggae"
   },
   {
+    "id": "the-cave-big-martha-thanksgiving-eve-sportsmens",
+    "band": "Big Martha Thanksgiving Eve",
+    "venue": "The Cave",
+    "startsAt": "2026-11-25T19:00:00-05:00",
+    "summary": "The Cave presents Big Martha Thanksgiving Eve Wednesday, November 25, 2026 $20.00 + online fee 6pm Doors, 7pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/big-martha-thanksgiving-eve-sportsmens/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
     "id": "town-ballroom-the-strictly-hip-7",
     "band": "The Strictly Hip",
     "venue": "Town Ballroom",
@@ -3375,6 +3242,19 @@
     }
   },
   {
+    "id": "the-cave-roger-bryan-the-orphans-record-release-show-w-failures-union-eugene-palmer-the-cave",
+    "band": "Roger Bryan & The Orphans Record Release Show w/Failures Union, Eugene Palmer",
+    "venue": "The Cave",
+    "startsAt": "2026-11-28T20:00:00-05:00",
+    "summary": "Roger Bryan & The Orphans Record Release Show w/Failures Union, Eugene Palmer – The Cave",
+    "eventUrl": "https://sportsmensbuffalo.com/single/roger-bryan-the-orphans-record-release-show-w-failures-union-eugene-palmer-the-cave/",
+    "source": {
+      "name": "The Cave",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
+    }
+  },
+  {
     "id": "the-caz-badlands-tribute-to-bruce-springsteen-28-nov",
     "band": "BADLANDS: Tribute To Bruce Springsteen",
     "venue": "The Caz",
@@ -3717,6 +3597,19 @@
     "genre": "Trivia"
   },
   {
+    "id": "babeville-the-mid-week-vibe-xlix",
+    "band": "The Mid-Week Vibe XLIX",
+    "venue": "Babeville",
+    "startsAt": "2026-12-02T20:00:00-05:00",
+    "summary": "The 9th Ward · Holton & Powell Entertainment present The Mid Week Vibe live in The 9th Ward December 2 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/the-mid-week-vibe-xlix/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    }
+  },
+  {
     "id": "buffalo-iron-works-mihali",
     "band": "Mihali w/ Stone Throwers",
     "venue": "Buffalo Iron Works",
@@ -3900,8 +3793,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-12-04-2nd-floor-doors-tba",
-    "band": "TBA",
+    "id": "mr-goodbar-2026-12-04-2nd-floor-doors-silver-proof",
+    "band": "Silver Proof",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-12-04T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -4137,6 +4030,19 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "DJ"
+  },
+  {
+    "id": "buffalo-iron-works-santas-of-swig-2",
+    "band": "Santas of Swig",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-06T13:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/santas-of-swig-2/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
   },
   {
     "id": "kleinhans-swingingholidays",
@@ -4825,6 +4731,20 @@
     "genre": "Jam"
   },
   {
+    "id": "duende-3667666",
+    "band": "The Susan Peters Jazz Band",
+    "venue": "Duende",
+    "startsAt": "2026-12-13T16:00:00-05:00",
+    "summary": "Monthly on every second Sunday Featuring: Abdul Rahman Qadir on drums, Piccirilli on upright bass, Wally Jederman on vibes and George Kane on guitar!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3667666",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Jazz"
+  },
+  {
     "id": "rec-room-buffalo-bills-viewing-party-2026-12-13",
     "band": "Buffalo Bills Viewing Party",
     "venue": "Rec Room",
@@ -5356,5 +5276,45 @@
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
     }
+  },
+  {
+    "id": "mohawk-place-2026-12-22-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-22T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-22-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-22T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-23",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-23T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-23/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
   }
 ]
