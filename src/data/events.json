@@ -235,58 +235,6 @@
     "genre": "Metal"
   },
   {
-    "id": "duende-3545981",
-    "band": "Open Mic hosted by Tom Stahl",
-    "venue": "Duende",
-    "startsAt": "2026-11-10T18:00:00-05:00",
-    "summary": "Monthly on every second Tuesday",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545981",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "duende-3545983",
-    "band": "Chess @ the Silos",
-    "venue": "Duende",
-    "startsAt": "2026-11-10T18:00:00-05:00",
-    "summary": "Monthly on every second Tuesday Free to enter! Trophy Awarded!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3545983",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-6kcp8",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-10T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j-6kcp8",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-10T19:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-10-the-damone-jackson-outcome",
     "band": "The Damone Jackson Outcome",
     "venue": "Mohawk Place",
@@ -300,47 +248,6 @@
     }
   },
   {
-    "id": "the-caz-caz-convo-rick-falkowski-buffalo-music-history-the-1980s-ft-strider-10-nov",
-    "band": "CAZ CONVO - Rick Falkowski: Buffalo Music History - The 1980s  ft. Strider",
-    "venue": "The Caz",
-    "startsAt": "2026-11-10T19:00:00-05:00",
-    "price": "$20–$25",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/caz-convo-rick-falkowski-buffalo-music-history-the-1980s-ft-strider-10-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Talk"
-  },
-  {
-    "id": "town-ballroom-die-spitz",
-    "band": "Die Spitz",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-10T19:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/die-spitz/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-hmwtn",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-10T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-hmwtn",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-11-10-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -352,19 +259,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-8edeg",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-10T22:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k-8edeg",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3550918",
@@ -434,21 +328,6 @@
       "url": "https://www.hofbrauhausbuffalo.com/events/"
     },
     "genre": "Open Mic"
-  },
-  {
-    "id": "the-caz-the-igloo-presents-usher-vs-chris-brown-tribute-show-11-nov",
-    "band": "The Igloo presents: Usher vs. Chris Brown Tribute Show",
-    "venue": "The Caz",
-    "startsAt": "2026-11-11T19:00:00-05:00",
-    "price": "$23.51",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/the-igloo-presents-usher-vs-chris-brown-tribute-show-11-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Tribute"
   },
   {
     "id": "babeville-bach-brews-winter",
@@ -546,6 +425,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Folk"
+  },
+  {
+    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-12",
+    "band": "Live German Music with our HAUS RESIDENCY!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-11-12T17:30:00-05:00",
+    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-12/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "German"
   },
   {
     "id": "duende-3577960",
@@ -793,16 +686,17 @@
   },
   {
     "id": "babeville-too-many-zooz-live-in-canada-mostly-tour",
-    "band": "Too Many Zooz: Live in Canada (Mostly!) Tour",
+    "band": "Too Many Zooz: Live in Canada (Mostly!) Tour with The Brass Machine",
     "venue": "Babeville",
     "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "Asbury · Twenty6 Productions and Asbury Arts Center present Too Many Zooz: Live in Canada (Mostly!) Tour live at Asbury Hall",
+    "summary": "Asbury · Twenty6 Productionspresent Too Many Zooz: Live in Canada (Mostly!) Tour live at Asbury Hall with Buffalo's own The Brass Machine",
     "eventUrl": "https://babevillebuffalo.com/events/too-many-zooz-live-in-canada-mostly-tour/",
     "source": {
       "name": "Babeville",
       "kind": "website",
       "url": "https://babevillebuffalo.com/events/"
-    }
+    },
+    "genre": "Classical"
   },
   {
     "id": "buffalo-iron-works-twenty6-productions-presents-too-many-zooz-at-asbury-hall",
@@ -1043,20 +937,6 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Folk"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-14",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-14T17:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-14/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
   },
   {
     "id": "duende-3577965",
@@ -2524,20 +2404,6 @@
     "genre": "Burlesque"
   },
   {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-25",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-25T16:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-25/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
     "id": "duende-3578092",
     "band": "Mark Dux & The Bender Project",
     "venue": "Duende",
@@ -3441,6 +3307,20 @@
     "genre": "Open Mic"
   },
   {
+    "id": "the-caz-murder-in-the-cellar-with-a-holiday-twist-01-dec",
+    "band": "Murder in the Cellar - With A Holiday Twist",
+    "venue": "The Caz",
+    "startsAt": "2026-12-01T19:00:00-05:00",
+    "price": "$30",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/murder-in-the-cellar-with-a-holiday-twist-01-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
     "id": "rec-room-i-am-the-avalanche",
     "band": "I Am The Avalanche",
     "venue": "Rec Room",
@@ -3673,6 +3553,19 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "babeville-ariella-nicolaas",
+    "band": "Ariella & Nicolaas",
+    "venue": "Babeville",
+    "startsAt": "2026-12-04T19:00:00-05:00",
+    "summary": "Ariella & Nicolaas are live at Hallwalls Cinema December 4th 2026",
+    "eventUrl": "https://babevillebuffalo.com/events/ariella-nicolaas/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
     }
   },
   {
@@ -4035,6 +3928,33 @@
     "genre": "Country"
   },
   {
+    "id": "duende-3674338",
+    "band": "Open Mic hosted by Tom Stahl",
+    "venue": "Duende",
+    "startsAt": "2026-12-08T18:00:00-05:00",
+    "summary": "Monthly on every second Tuesday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3674338",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "duende-3674339",
+    "band": "Chess @ the Silos",
+    "venue": "Duende",
+    "startsAt": "2026-12-08T18:00:00-05:00",
+    "summary": "Monthly on every second Tuesday Free to enter! Trophy Awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3674339",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "rec-room-keep-flying-eternal-boy",
     "band": "Keep Flying & Eternal Boy",
     "venue": "Rec Room",
@@ -4274,20 +4194,6 @@
       "url": "https://bpo.org/events/"
     },
     "genre": "Classical"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-11",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-12-11T16:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-11/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
   },
   {
     "id": "rec-room-dueling-pianos-4",
@@ -5279,20 +5185,6 @@
     }
   },
   {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-12-23",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-12-23T17:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-12-23/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-23",
     "band": "Open Mic + Wing Night",
     "venue": "Hofbräuhaus Buffalo",
@@ -5333,5 +5225,19 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "mr-goodbar-2026-12-24-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-24T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
   }
 ]
