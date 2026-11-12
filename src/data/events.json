@@ -235,156 +235,6 @@
     "genre": "Metal"
   },
   {
-    "id": "mohawk-place-2026-11-10-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-10T19:00:00-05:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766141686263",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-11-10-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-10T22:00:00-05:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3550918",
-    "band": "Taproom Trivia",
-    "venue": "Duende",
-    "startsAt": "2026-11-11T18:00:00-05:00",
-    "summary": "Monthly on every second Wednesday Free to join! Prizes awarded!",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3550918",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "nietzsches-freddy-hill",
-    "band": "Freddy Hill",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-11T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/freddy-hill",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "electric-city-pouya-the-forever-glades-tour",
-    "band": "Pouya – The Forever Glades Tour",
-    "venue": "Electric City",
-    "startsAt": "2026-11-11T19:00:00-05:00",
-    "price": "$35–$329",
-    "summary": "Pouya is an innovative rapper and songwriter known for his unique blend of hip-hop and underground influences. His energetic performances and authentic storytelling have garnered him a dedicated fan base and critical acclaim in the music industry. With a sound that combines…",
-    "eventUrl": "https://electriccity.com/events/pouya-the-forever-glades-tour/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Hip-Hop"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-11",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-11T19:00:00-05:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-11/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-11",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-11T19:00:00-05:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-11/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "babeville-bach-brews-winter",
-    "band": "Bach & Brews: Winter",
-    "venue": "Babeville",
-    "startsAt": "2026-11-11T19:30:00-05:00",
-    "summary": "The 9th Ward · Buffalo Chamber Players presents Bach & Brews",
-    "eventUrl": "https://babevillebuffalo.com/events/bach-brews-winter/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-11T19:30:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "kleinhans-both-sides",
-    "band": "Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-11T19:30:00-05:00",
-    "summary": "Kleinhans Music Hall presents Both Sides Now: The Music and Lives of Joni Mitchell and Leonard Cohen Wednesday, November 11 7:30 pm | Doors at 6:30 PM Assigned Seating | The Mary Seaton Room “Two singer-songwriters sit on the edge of a cliff…” With these words, we are drawn…",
-    "eventUrl": "https://kleinhansbuffalo.org/event/both-sides/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://kleinhansbuffalo.org/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "buffalo-iron-works-bumpin-uglies-orange-crush-tour-w-artikal-sound-system",
-    "band": "Bumpin Uglies: Orange Crush Tour w/ Artikal Sound System",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-11T20:00:00-05:00",
-    "summary": "Bumpin Uglies Bumpin Uglies, proudly hailing from Annapolis, Maryland, have cultivated a dedicated fanbase through relentless touring, powerful songwriting, and an unwavering DIY ethos. Formed in 2008, the band’s core lineup consists of Brandon Hardesty (vocals, lead guitar),…",
-    "eventUrl": "https://buffaloironworks.com/event/bumpin-uglies-orange-crush-tour-w-artikal-sound-system/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Reggae"
-  },
-  {
     "id": "riviera-theatre-blue-october",
     "band": "Blue October – ‘Foiled’ 20th Anniversary World Tour",
     "venue": "Riviera Theatre",
@@ -412,19 +262,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "nietzsches-tender-t-2",
-    "band": "Tyler Westcott & Friends",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-11T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/tender-t-2",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Folk"
   },
   {
     "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-12",
@@ -700,7 +537,7 @@
   },
   {
     "id": "buffalo-iron-works-twenty6-productions-presents-too-many-zooz-at-asbury-hall",
-    "band": "Twenty6 Productions Presents: Too Many Zooz at Asbury Hall",
+    "band": "Twenty6 Productions Presents: Too Many Zooz w/ The Buffalo Brass Machine at Asbury Hall",
     "venue": "Buffalo Iron Works",
     "startsAt": "2026-11-13T20:00:00-05:00",
     "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
@@ -709,7 +546,8 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
+    },
+    "genre": "Classical"
   },
   {
     "id": "buffalo-iron-works-winyah",
@@ -904,7 +742,7 @@
     "venue": "Mohawk Place",
     "startsAt": "2026-11-14T14:00:00-05:00",
     "price": "Free",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "eventUrl": "https://www.facebook.com/events/2569498706864819",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -1484,6 +1322,20 @@
     "genre": "Rock"
   },
   {
+    "id": "the-caz-jer-hoyle-frank-nicastro-wednesday-acoustic-session-18-nov",
+    "band": "Jer Hoyle & Frank Nicastro - Wednesday Acoustic Session",
+    "venue": "The Caz",
+    "startsAt": "2026-11-18T19:00:00-05:00",
+    "price": "$20",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/jer-hoyle-frank-nicastro-wednesday-acoustic-session-18-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
     "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8-78dra",
     "band": "Wednesday Night Trivia in the Piano Room",
     "venue": "Jack Rabbit",
@@ -1517,7 +1369,7 @@
     "startsAt": "2026-11-18T20:00:00-05:00",
     "price": "$12 adv / $15 dos",
     "summary": "Art-rock from NYC. Ecce Shnak (pronounced Eh-kay sh-knock) is a five-piece band — one part pop, one part classical, one part punk — with songs about love, sex, death, change, bravery, and food. Composer, bassist, and singer Roush is joined by Bella Komodromos (vocals), Chris…",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "eventUrl": "https://www.facebook.com/events/1142993891561507",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -1648,6 +1500,19 @@
     "genre": "Classical"
   },
   {
+    "id": "buffalo-iron-works-your100-presents-ben-chapman-wayne-tucker-the-bad-mothas-special-guests-kids-rock-for-kids-featuring-twisted-fate",
+    "band": "YOUR100 Presents: Ben Chapman + Wayne Tucker & the Bad Mothas",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-19T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/your100-presents-ben-chapman-wayne-tucker-the-bad-mothas-special-guests-kids-rock-for-kids-featuring-twisted-fate/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
     "id": "electric-city-trae-crowder",
     "band": "Trae Crowder",
     "venue": "Electric City",
@@ -1738,6 +1603,21 @@
       "kind": "website",
       "url": "https://kleinhansbuffalo.org/events/"
     }
+  },
+  {
+    "id": "the-caz-silent-legacy-the-music-of-melissa-etheridge-20-nov",
+    "band": "SILENT LEGACY - The Music Of Melissa Etheridge",
+    "venue": "The Caz",
+    "startsAt": "2026-11-20T19:00:00-05:00",
+    "price": "$20",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/silent-legacy-the-music-of-melissa-etheridge-20-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    },
+    "genre": "Tribute"
   },
   {
     "id": "riviera-theatre-brass-transit-20",
@@ -1925,6 +1805,19 @@
       "url": "https://electriccity.com/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "buffalo-iron-works-film-music-matinee-ten-year-town",
+    "band": "Film & Music Matinee: Ten Year Town",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-11-21T13:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/film-music-matinee-ten-year-town/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
   },
   {
     "id": "duende-3578089",
@@ -2264,9 +2157,10 @@
     "id": "mohawk-place-2026-11-23-vampiric-crypt-serpent-lord-vanth-bitchin-hour",
     "band": "Vampiric Crypt, Serpent Lord, Vanth, Bitchin’ Hour",
     "venue": "Mohawk Place",
-    "startsAt": "2026-11-23T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "startsAt": "2026-11-23T19:00:00-05:00",
+    "price": "$15",
+    "summary": "Vampiric Crypt are concluding their “Bounded by None” tour in their hometown.",
+    "eventUrl": "https://www.facebook.com/events/1521931239953535",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -2338,6 +2232,19 @@
     }
   },
   {
+    "id": "mohawk-place-2026-11-24-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-24T19:00:00-05:00",
+    "price": "$10",
+    "eventUrl": "https://www.facebook.com/events/1759520911981802/1759521015315125",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "the-caz-kelli-baker-band-24-nov",
     "band": "Kelli Baker Band",
     "venue": "The Caz",
@@ -2349,19 +2256,6 @@
       "name": "The Caz",
       "kind": "website",
       "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-11-24-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-24T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
     }
   },
   {
@@ -2414,6 +2308,20 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
+  },
+  {
+    "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
+    "band": "Punksgiving: Rat Hazard, Cowboy Vampires, Broken Locker, Thunder Station Dirtbag Coalition, Infrared Radiation Orchestra, Who?",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-25T18:00:00-05:00",
+    "price": "$10 adv / $15 at door",
+    "eventUrl": "https://www.facebook.com/events/1491299846271970",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Classical"
   },
   {
     "id": "nietzsches-beave-and-friends",
@@ -2519,20 +2427,6 @@
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
     }
-  },
-  {
-    "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
-    "band": "Punksgiving: Rat Hazard, Cowboy Vampires, Broken Locker, Thunder Station Dirtbag Coalition, Infrared Radiation Orchestra",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-25T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Classical"
   },
   {
     "id": "nietzsches-thanksgiving-eve",
@@ -2807,8 +2701,9 @@
     "band": "Depeche Mode vs. New Order Transmission Dance Party",
     "venue": "Mohawk Place",
     "startsAt": "2026-11-27T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "price": "$10",
+    "summary": "It’s a black celebration on Black Friday! The Transmission crew are back once again playing nothing but the best of these two legendary artists. Get there early for the cocktail hour, where they’ll be playing music from other projects the members of these bands end up in.",
+    "eventUrl": "https://www.facebook.com/events/2149395185935812",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -2936,6 +2831,19 @@
     "genre": "Classical"
   },
   {
+    "id": "mohawk-place-2026-11-28-jony-james-band",
+    "band": "Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-28T14:00:00-05:00",
+    "price": "Free",
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "nietzsches-celtic-sessions-october-yhw2w-ygf54",
     "band": "Celtic Sessions",
     "venue": "Nietzsche's",
@@ -2977,6 +2885,21 @@
     }
   },
   {
+    "id": "mohawk-place-2026-11-28-grrrls-to-the-front-perilous-the-mean-reds-velve",
+    "band": "Grrrls to the Front: Perilous, The Mean Reds, Velvet Bethany, Jennifer Rose",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-11-28T19:00:00-05:00",
+    "price": "$10",
+    "summary": "All female-positive, female-fronted bands!",
+    "eventUrl": "https://www.facebook.com/events/1137554328725184",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Punk"
+  },
+  {
     "id": "bpo-home-alone-film-in-concert-2026-11-28",
     "band": "Home Alone Film in Concert",
     "venue": "Kleinhans Music Hall",
@@ -3002,33 +2925,6 @@
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
     }
-  },
-  {
-    "id": "mohawk-place-2026-11-28-early-show-jony-james-band",
-    "band": "Early Show: Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-28T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-11-28-perilous-the-mean-reds",
-    "band": "Perilous, The Mean Reds",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-28T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Punk"
   },
   {
     "id": "mr-goodbar-2026-11-28-2nd-floor-doors-johnny-the-man-kids",
@@ -3777,6 +3673,19 @@
     }
   },
   {
+    "id": "duende-3680300",
+    "band": "Closing @ 8pm!",
+    "venue": "Duende",
+    "startsAt": "2026-12-05T20:00:00-05:00",
+    "summary": "Closing up @ 8pm for a PRIVATE EVENT!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3680300",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "electric-city-morgan-page",
     "band": "Morgan Page",
     "venue": "Electric City",
@@ -4024,6 +3933,20 @@
     }
   },
   {
+    "id": "duende-3678222",
+    "band": "Taproom Trivia",
+    "venue": "Duende",
+    "startsAt": "2026-12-09T18:00:00-05:00",
+    "summary": "Monthly on every second Wednesday Free to join! Prizes awarded!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3678222",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Trivia"
+  },
+  {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-09",
     "band": "Open Mic + Wing Night",
     "venue": "Hofbräuhaus Buffalo",
@@ -4153,6 +4076,19 @@
       "name": "Electric City",
       "kind": "website",
       "url": "https://electriccity.com/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-10-hail-fredonia-presents-relentless-moisture-prett",
+    "band": "HAIL! Fredonia presents: Relentless Moisture, Pretty Good State University, Silver Proof",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-10T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
     }
   },
   {
@@ -4518,8 +4454,8 @@
     }
   },
   {
-    "id": "mohawk-place-2026-12-12-new-finch-captain-tom-and-the-hooligans",
-    "band": "New Finch, Captain Tom and The Hooligans",
+    "id": "mohawk-place-2026-12-12-new-finch-miranda-rites-lonely-daze",
+    "band": "New Finch, Miranda Rites, Lonely Daze",
     "venue": "Mohawk Place",
     "startsAt": "2026-12-12T20:00:00-05:00",
     "timeTbd": true,
@@ -5239,5 +5175,30 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Open Mic"
+  },
+  {
+    "id": "duende-3672399",
+    "band": "Boxing Day",
+    "venue": "Duende",
+    "startsAt": "2026-12-26T18:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3672399",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "rec-room-home-by-10-kissmas-bash-edition",
+    "band": "Home By 10 – Kissmas Bash Edition",
+    "venue": "Rec Room",
+    "startsAt": "2026-12-26T18:00:00-05:00",
+    "summary": "With Home By 10 - Kissmas Bash Edition. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/home-by-10-kissmas-bash-edition/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    }
   }
 ]
