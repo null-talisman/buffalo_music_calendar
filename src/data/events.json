@@ -264,45 +264,6 @@
     "genre": "Karaoke"
   },
   {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-12",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-12T17:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-12/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3577960",
-    "band": "Ulysses Lima",
-    "venue": "Duende",
-    "startsAt": "2026-11-12T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577960",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-abtrio-buffalo-october-nkjdw",
-    "band": "Adam Bronstein & ABTrio",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-12T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/abtrio-buffalo-october-nkjdw",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
     "id": "mohawk-place-2026-11-12-strawberry-girls-andres-secret-gardens-makeitsto",
     "band": "Strawberry Girls & Andrés, Secret Gardens, MAKEITSTOP",
     "venue": "Mohawk Place",
@@ -314,19 +275,6 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "the-cave-matt-woods-mic-harrison-the-cave",
-    "band": "Matt Woods & Mic Harrison",
-    "venue": "The Cave",
-    "startsAt": "2026-11-12T19:00:00-05:00",
-    "summary": "The Cave presents Matt Woods & Mic Harrison Thursday, November 12, 2026 $15.00 + Online fee 6pm Doors, 7pm Showtime Matt Woods is a product of Appalachia. You can hear his East Tennessee roots tangled in the lines of his songs and it is through this filter he distills the…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/matt-woods-mic-harrison-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
     }
   },
   {
@@ -360,20 +308,6 @@
     "genre": "Rock"
   },
   {
-    "id": "buffalo-iron-works-moonshine-bandits-w-big-murph",
-    "band": "Moonshine Bandits w/ Big Murph, Kelsey Lynn & JJ Lang Band",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-12T20:00:00-05:00",
-    "summary": "Moonshine Bandits Blazing their own trail in the world of country rap, Moonshine Bandits have spent over a decade turning outlaw anthems into a movement and in 2026, their fire burns hotter than ever.Hailing from California’s Central Valley, Tex and Bird have built a cult-like…",
-    "eventUrl": "https://buffaloironworks.com/event/moonshine-bandits-w-big-murph/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Hip-Hop"
-  },
-  {
     "id": "mr-goodbar-2026-11-12-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
     "band": "Open Mic Comedy",
     "venue": "Mr. Goodbar",
@@ -386,45 +320,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Open Mic"
-  },
-  {
-    "id": "rec-room-high-vis",
-    "band": "High Vis",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-12T20:00:00-05:00",
-    "summary": "With Taker. 16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/high-vis/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "nietzsches-high-horse-nov",
-    "band": "High Horse",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-12T20:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/high-horse-nov",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "jack-rabbit-kitty-karaoke-752c2-xr86j-p74mz-ltw63-5ntla",
-    "band": "Kitty Karaoke",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-12T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/kitty-karaoke-752c2-xr86j-p74mz-ltw63-5ntla",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Karaoke"
   },
   {
     "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-13",
@@ -4389,6 +4284,19 @@
     "genre": "Tribute"
   },
   {
+    "id": "buffalo-iron-works-project-x-mas",
+    "band": "Project X-Mas",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-12T19:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/project-x-mas/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
     "id": "nietzsches-head-north-7wwws",
     "band": "PotusxXx’s Jingle Bell Stupid 2",
     "venue": "Nietzsche's",
@@ -4477,6 +4385,20 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "the-caz-kurts-back-12-dec",
+    "band": "KURTS BACK",
+    "venue": "The Caz",
+    "startsAt": "2026-12-12T20:00:00-05:00",
+    "price": "$20–$25",
+    "summary": "Doors 6:30 pm. Show 8:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/kurts-back-12-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
     }
   },
   {
@@ -5200,5 +5122,70 @@
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
     }
+  },
+  {
+    "id": "nietzsches-organ-fairchild",
+    "band": "Organ Fairchild: The Night After Christmas",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-12-26T19:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/organ-fairchild",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "town-ballroom-dave-matthews-tribute-band-dangerous-hours-2026-nye-run",
+    "band": "Dave Matthews Tribute Band – Dangerous Hours 2026 NYE Run",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-26T19:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/dave-matthews-tribute-band-dangerous-hours-2026-nye-run/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    },
+    "genre": "Tribute"
+  },
+  {
+    "id": "mohawk-place-2026-12-26-early-show-jony-james-band",
+    "band": "Early Show: Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-26T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-26-stoneflower",
+    "band": "Stoneflower",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-26T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-saturday-dj-late-night-2026-12-26",
+    "band": "Saturday DJ LATE NIGHT!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-26T21:00:00-05:00",
+    "summary": "Join us every Saturday 9PM-Midnight with special DJ Performances!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/saturday-dj-late-night/2026-12-26/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "DJ"
   }
 ]
