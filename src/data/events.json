@@ -250,49 +250,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-11-11-attic-and-1st-floor-karaoke-and-rotating-live-mu",
-    "band": "Karaoke and rotating Live Music",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-11T21:00:00-05:00",
-    "summary": "Attic and 1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Karaoke"
-  },
-  {
-    "id": "mohawk-place-2026-11-12-strawberry-girls-andres-secret-gardens-makeitsto",
-    "band": "Strawberry Girls & Andrés, Secret Gardens, MAKEITSTOP",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-12T19:00:00-05:00",
-    "price": "$20 adv / $25 dos",
-    "summary": "After Dark Presents",
-    "eventUrl": "https://www.facebook.com/events/1511788377343642",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "the-caz-furg-comedy-at-the-caz-12-nov",
-    "band": "Furg - Comedy at The Caz",
-    "venue": "The Caz",
-    "startsAt": "2026-11-12T19:00:00-05:00",
-    "price": "$20",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/furg-comedy-at-the-caz-12-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "riviera-theatre-hotel-california-12",
     "band": "Hotel California: The Original Eagles Tribute",
     "venue": "Riviera Theatre",
@@ -304,100 +261,6 @@
       "name": "Riviera Theatre",
       "kind": "website",
       "url": "https://rivieratheatre.org/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "mr-goodbar-2026-11-12-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-12T20:00:00-05:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-13",
-    "band": "Live German Music with our HAUS RESIDENCY!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-13T16:30:00-05:00",
-    "summary": "🇩🇪🍺 PROST! THE HAUS RESIDENCY IS HERE! Nothing sounds quite like Hofbräuhaus Buffalo with live German music filling the Haus! Our Haus Residency brings authentic Bavarian energy to the stage with rotating 2-piece and 3-piece performances featuring accordion, clarinet and all…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/live-german-music-with-our-haus-residency/2026-11-13/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "German"
-  },
-  {
-    "id": "duende-3532909",
-    "band": "The Skiffle Minstrels",
-    "venue": "Duende",
-    "startsAt": "2026-11-13T18:00:00-05:00",
-    "summary": "Monthly on every second Friday",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3532909",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "nietzsches-flatbed",
-    "band": "Flatbed",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-13T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/flatbed",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "rec-room-dueling-pianos-2",
-    "band": "Dueling Pianos",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-13T18:00:00-05:00",
-    "summary": "All Ages",
-    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-2/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "town-ballroom-saosin",
-    "band": "SAOSIN",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-13T18:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/saosin/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    }
-  },
-  {
-    "id": "bpo-music-of-the-rolling-stones",
-    "band": "Music of The Rolling Stones",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-13T19:30:00-05:00",
-    "summary": "Bradley Thachuk, conductor MiG Ayesa, lead vocals Turn up the energy for a night of rock history with full orchestra, live vocals, and the swagger that made The Rolling Stones timeless. With Bradley Thachuk conducting and MiG Ayesa on lead vocals, these songs get the scale they…",
-    "eventUrl": "https://bpo.org/event/music-of-the-rolling-stones/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
     },
     "genre": "Rock"
   },
@@ -415,75 +278,6 @@
       "url": "https://rivieratheatre.org/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "babeville-too-many-zooz-live-in-canada-mostly-tour",
-    "band": "Too Many Zooz: Live in Canada (Mostly!) Tour with The Brass Machine",
-    "venue": "Babeville",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "Asbury · Twenty6 Productionspresent Too Many Zooz: Live in Canada (Mostly!) Tour live at Asbury Hall with Buffalo's own The Brass Machine",
-    "eventUrl": "https://babevillebuffalo.com/events/too-many-zooz-live-in-canada-mostly-tour/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "buffalo-iron-works-twenty6-productions-presents-too-many-zooz-at-asbury-hall",
-    "band": "Twenty6 Productions Presents: Too Many Zooz w/ The Buffalo Brass Machine at Asbury Hall",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/twenty6-productions-presents-too-many-zooz-at-asbury-hall/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "buffalo-iron-works-winyah",
-    "band": "Winyah w/ Foxtide",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "Winyah There’s a raw, restless fire at the heart of Winyah’s music – in the crackle of their guitars, the growl of Thomas Rowland’s voice, and songs that always feel like they’re chasing something just out of reach. With southern swagger, indie rock bite, and an unforgettable…",
-    "eventUrl": "https://buffaloironworks.com/event/winyah/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Indie"
-  },
-  {
-    "id": "duende-3548721",
-    "band": "Science Man Album Release Show",
-    "venue": "Duende",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3548721",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "electric-city-hot-in-herre-2000s-dance-party",
-    "band": "Hot In Herre: 2000s Dance Party",
-    "venue": "Electric City",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "price": "$16–$25",
-    "summary": "Hot In Herre: 2000s Dance Party 2000s bangers only. Your favorite songs across every genre. Pop · Hip-Hop · Indie · R&B · Emo · And everything in between Hot In Herre brings all your favorite music of the Y2K era back to the dance floor. Dope DJs behind the decks and…",
-    "eventUrl": "https://electriccity.com/events/hot-in-herre-2000s-dance-party/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "DJ"
   },
   {
     "id": "mohawk-place-2026-11-13-rob-stoner-an-evening-of-music-and-stories",
@@ -513,86 +307,6 @@
     }
   },
   {
-    "id": "nietzsches-untz-is-dead-day-one",
-    "band": "Untz is Dead ft Allen Aucoin DAY ONE",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/untz-is-dead-day-one",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-zuffalo-sportsmens-2",
-    "band": "Zuffalo",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "Sportsmens presents Zuffalo Friday, November 13, 2026 8pm $15ad + Online fee /$20door Zuffalo is a groove-driven four-piece psychedelic rock n’ roll band from Toronto, ON, built around thick vocal harmonies, funky bass, explosive drumming, and intertwining guitar, keys, and…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/zuffalo-sportsmens-2/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-cave-hot-for-teacher-van-halen-tribute-hurricane-rocks-scorpions-tribute-the-cave",
-    "band": "Hot For Teacher Van Halen Tribute & Hurricane Rocks Scorpions Tribute",
-    "venue": "The Cave",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "summary": "The Cave presents Hot For Teacher Van Halen Tribute & Hurricane Rocks Scorpions Tribute Friday, November 13, 2026 8pm $20.00 + Online Fee",
-    "eventUrl": "https://sportsmensbuffalo.com/single/hot-for-teacher-van-halen-tribute-hurricane-rocks-scorpions-tribute-the-cave/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-caz-toronzo-cannon-13-nov",
-    "band": "TORONZO CANNON",
-    "venue": "The Caz",
-    "startsAt": "2026-11-13T20:00:00-05:00",
-    "price": "$20–$25",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/toronzo-cannon-13-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-boys-of-summer-live-with-torri",
-    "band": "Boys of Summer LIVE with Torri!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-13T21:00:00-05:00",
-    "summary": "🎉 One of Western New York’s ultimate party bands is taking over the Bierhall! Buffalo Music Hall of Fame members Boys of Summer have been keeping WNY dancing for more than 30 years. Joined by powerhouse vocalist Torri, they’re bringing an incredible mix of rock, pop, dance,…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/boys-of-summer-live-with-torri/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "jack-rabbit-brahctopus-pnbgg-kcgd4",
-    "band": "All Night Boogie Band",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-13T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/brahctopus-pnbgg-kcgd4",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-11-13-1st-floor-slow-animals",
     "band": "Slow Animals",
     "venue": "Mr. Goodbar",
@@ -603,19 +317,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "rec-room-honey-2",
-    "band": "Honey",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-13T22:00:00-05:00",
-    "summary": "With Honey Bflo. All Ages",
-    "eventUrl": "https://recroombuffalo.com/tm-event/honey-2/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
     }
   },
   {
@@ -4027,6 +3728,20 @@
     "genre": "Classical"
   },
   {
+    "id": "duende-3685589",
+    "band": "The Skiffle Minstrels",
+    "venue": "Duende",
+    "startsAt": "2026-12-11T18:00:00-05:00",
+    "summary": "Monthly on every second Friday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3685589",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Folk"
+  },
+  {
     "id": "rec-room-dueling-pianos-4",
     "band": "Dueling Pianos",
     "venue": "Rec Room",
@@ -5172,6 +4887,19 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-26-2nd-floor-doors-get-capone",
+    "band": "Get Capone",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-26T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
