@@ -295,20 +295,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mohawk-place-2026-11-14-wizard-fest",
-    "band": "Wizard Fest",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-14T20:00:00-05:00",
-    "price": "$15 adv / $20 at door",
-    "summary": "Step through an enchanted portal into a night of magic, mischief, and fantasy! Fans of wizardry, Wicked, Lord of the Rings, Shrek, and beyond are invited to join the party. The evening includes themed cocktails and magical brews, an enchanted castle atmosphere, a fantasy…",
-    "eventUrl": "https://www.facebook.com/events/1549685126672029",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-11-14-2nd-floor-doors-middle-aged-dirtbags-catch-phras",
     "band": "Middle Aged Dirtbags, Catch Phrase & Advice for Strangers",
     "venue": "Mr. Goodbar",
@@ -319,56 +305,6 @@
       "name": "Mr. Goodbar",
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-chili",
-    "band": "Allentown Chili Cook-Off",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-15T12:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/chili",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "duende-3669737",
-    "band": "Sunday Game Day",
-    "venue": "Duende",
-    "startsAt": "2026-11-15T13:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3669737",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-11-15",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-15T13:00:00-05:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-15/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "duende-3577966",
-    "band": "The Wazmopolitans",
-    "venue": "Duende",
-    "startsAt": "2026-11-15T16:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3577966",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
   },
   {
@@ -385,19 +321,6 @@
     }
   },
   {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-3d9wx-8xwax",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-15T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-3d9wx-8xwax",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
     "id": "buffalo-iron-works-hey-hey-were-banda-al9-and-the-burkharts",
     "band": "Hey! Hey! We’re Banda AL9 and The Burkharts",
     "venue": "Buffalo Iron Works",
@@ -410,19 +333,6 @@
       "url": "https://buffaloironworks.com/events-calendar/"
     },
     "genre": "Rock"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-xxxep",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-15T20:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-xxxep",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
   },
   {
     "id": "nietzsches-shaky-stage-nietzsches-october-f7fhw",
@@ -1653,18 +1563,6 @@
     "genre": "Burlesque"
   },
   {
-    "id": "duende-3578092",
-    "band": "Mark Dux & The Bender Project",
-    "venue": "Duende",
-    "startsAt": "2026-11-25T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578092",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
     "band": "Punksgiving: Rat Hazard, Cowboy Vampires, Broken Locker, Thunder Station Dirtbag Coalition, Infrared Radiation Orchestra, Who?",
     "venue": "Mohawk Place",
@@ -1866,6 +1764,18 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "duende-3693117",
+    "band": "No Service",
+    "venue": "Duende",
+    "startsAt": "2026-11-25T22:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3693117",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   },
   {
     "id": "jack-rabbit-slow-animals-4",
@@ -3149,6 +3059,20 @@
     "genre": "DJ"
   },
   {
+    "id": "babeville-junior-jerry-jam-holiday-market-shakedown-street",
+    "band": "Junior Jerry Jam Holiday Market Shakedown Street with Big Martha",
+    "venue": "Babeville",
+    "startsAt": "2026-12-06T12:00:00-05:00",
+    "summary": "Asbury · Junior Jerry Jam Holiday Shakedown Street in Asbury Hall November 30 2025",
+    "eventUrl": "https://babevillebuffalo.com/events/junior-jerry-jam-holiday-market-shakedown-street/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    },
+    "genre": "Jam"
+  },
+  {
     "id": "buffalo-iron-works-santas-of-swig-2",
     "band": "Santas of Swig",
     "venue": "Buffalo Iron Works",
@@ -4288,6 +4212,19 @@
     }
   },
   {
+    "id": "hofbrauhaus-buffalo-holiday-show-with-the-bergholz-german-band",
+    "band": "Holiday Show with the Bergholz German Band!",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-19T17:30:00-05:00",
+    "summary": "🇩🇪🍺 AN EVENING WITH THE BERGHOLZ GERMAN BAND! Get ready for a whole lot of PROSTING when the Bergholz German Band takes over the Haus! Fresh off their induction into the 2026 Buffalo Music Hall of Fame, this incredible group brings the sound, energy and tradition of…",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/holiday-show-with-the-bergholz-german-band/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    }
+  },
+  {
     "id": "duende-3643439",
     "band": "Tom Stahl & the Dangerfields",
     "venue": "Duende",
@@ -4685,5 +4622,32 @@
       "url": "https://mohawkplacebuffalo.com/events/"
     },
     "genre": "Trivia"
+  },
+  {
+    "id": "the-caz-brandon-santini-29-dec",
+    "band": "BRANDON SANTINI",
+    "venue": "The Caz",
+    "startsAt": "2026-12-29T19:00:00-05:00",
+    "price": "$20–$28.66",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/brandon-santini-29-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
+    "id": "duende-3643485",
+    "band": "Mark Dux & the Bender Project",
+    "venue": "Duende",
+    "startsAt": "2026-12-30T18:00:00-05:00",
+    "summary": "Monthly on every last Wednesday",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3643485",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   }
 ]
