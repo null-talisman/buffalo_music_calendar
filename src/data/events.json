@@ -295,58 +295,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mr-goodbar-2026-11-14-2nd-floor-doors-middle-aged-dirtbags-catch-phras",
-    "band": "Middle Aged Dirtbags, Catch Phrase & Advice for Strangers",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-14T20:00:00-05:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-bruce-katz-band-sportsmens-2",
-    "band": "Bruce Katz Band",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-15T17:00:00-05:00",
-    "summary": "Sportsmens presents Bruce Katz Band Sunday, november 15, 2026 $20/00 + Online fee 3pm Doors, 5pm Showtime Bruce Katz is a legendary keyboardist (Hammond B3 and pi- ano) who has released 12 CDs as a leader and has appeared on nearly 80 other CDs with the likes of John Hammond,…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/bruce-katz-band-sportsmens-2/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "buffalo-iron-works-hey-hey-were-banda-al9-and-the-burkharts",
-    "band": "Hey! Hey! We’re Banda AL9 and The Burkharts",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-15T20:00:00-05:00",
-    "summary": "Banda AL9 Brazilian rock ’n’ roll band BANDA AL9 are bringing their high-energy sound to the United States this November, arriving on the heels of a breakout year that has seen the group reach an international audience and earn the support of one of rock ’n’ roll’s most…",
-    "eventUrl": "https://buffaloironworks.com/event/hey-hey-were-banda-al9-and-the-burkharts/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "nietzsches-shaky-stage-nietzsches-october-f7fhw",
-    "band": "Shaky Stage",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-16T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/shaky-stage-nietzsches-october-f7fhw",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-16-musicology-trivia",
     "band": "Musicology Trivia",
     "venue": "Mohawk Place",
@@ -359,34 +307,6 @@
       "url": "https://mohawkplacebuffalo.com/events/"
     },
     "genre": "Trivia"
-  },
-  {
-    "id": "electric-city-don-broco",
-    "band": "Don Broco",
-    "venue": "Electric City",
-    "startsAt": "2026-11-16T20:00:00-05:00",
-    "price": "$27–$70",
-    "summary": "Don Broco is a British rock band known for their dynamic fusion of post-hardcore, pop-rock, and alternative influences. Formed in 2008, the band has steadily carved out a niche for themselves in the modern rock scene with their energetic sound and engaging live performances.…",
-    "eventUrl": "https://electriccity.com/events/don-broco/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Punk"
-  },
-  {
-    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-6wgs3",
-    "band": "Open Mic + Songwriter Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-16T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-6wgs3",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-yfn4y",
@@ -2096,6 +2016,20 @@
     "genre": "Classical"
   },
   {
+    "id": "the-caz-rabbit-jaw-matinee-show-28-nov",
+    "band": "RABBIT JAW - Matinee Show",
+    "venue": "The Caz",
+    "startsAt": "2026-11-28T13:30:00-05:00",
+    "price": "$10",
+    "summary": "Doors 12:30 pm. Show 1:30 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/rabbit-jaw-matinee-show-28-nov",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
     "id": "mohawk-place-2026-11-28-jony-james-band",
     "band": "Jony James Band",
     "venue": "Mohawk Place",
@@ -3316,6 +3250,20 @@
     }
   },
   {
+    "id": "sportsmens-tavern-maggies-wake-sportsmens",
+    "band": "Maggies Wake",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-12-10T19:00:00-05:00",
+    "summary": "Sportsmens presents Maggies Wake Thursday, December 10, 2026 7pm $20.00 + online fee Maggie’s Wake is a high-energy folk roots band from Southwestern Ontario, blending Celtic-inspired fiddle, tin whistle and flute with the spirit of jazz, traditional folk, and classic country.…",
+    "eventUrl": "https://sportsmensbuffalo.com/single/maggies-wake-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    },
+    "genre": "Jazz"
+  },
+  {
     "id": "babeville-chris-trapper-13",
     "band": "Chris Trapper",
     "venue": "Babeville",
@@ -4347,6 +4295,19 @@
     "genre": "Classical"
   },
   {
+    "id": "sportsmens-tavern-a-grosh-funky-christmas-sportsmens",
+    "band": "A GROSH Funky Christmas",
+    "venue": "Sportsmen's Tavern",
+    "startsAt": "2026-12-20T16:00:00-05:00",
+    "summary": "Sportsmens presents A GROSH Funky Christmas Sunday, December 20, 2026 $20.00 + online fee 2pm Doors, 4pm Showtime",
+    "eventUrl": "https://sportsmensbuffalo.com/single/a-grosh-funky-christmas-sportsmens/",
+    "source": {
+      "name": "Sportsmen's Tavern",
+      "kind": "website",
+      "url": "https://sportsmensbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "duende-3641006",
     "band": "A Charlie Brown Christmas: Show #1",
     "venue": "Duende",
@@ -4638,6 +4599,19 @@
     }
   },
   {
+    "id": "mr-goodbar-2026-12-29-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-29T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
     "id": "duende-3643485",
     "band": "Mark Dux & the Bender Project",
     "venue": "Duende",
@@ -4649,5 +4623,33 @@
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
     }
+  },
+  {
+    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-30",
+    "band": "Open Mic + Wing Night",
+    "venue": "Hofbräuhaus Buffalo",
+    "startsAt": "2026-12-30T19:00:00-05:00",
+    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
+    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-12-30/",
+    "source": {
+      "name": "Hofbräuhaus Buffalo",
+      "kind": "website",
+      "url": "https://www.hofbrauhausbuffalo.com/events/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "mr-goodbar-2026-12-30-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-30T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
   }
 ]
