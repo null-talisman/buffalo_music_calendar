@@ -295,33 +295,6 @@
     "genre": "Rock"
   },
   {
-    "id": "mohawk-place-2026-11-16-musicology-trivia",
-    "band": "Musicology Trivia",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-16T19:00:00-05:00",
-    "summary": "Every other Monday at 7, starting November 16.",
-    "eventUrl": "https://www.facebook.com/reel/2586329701842624",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-yfn4y",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-17T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j-yfn4y",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
     "id": "buffalo-riverworks-000064C5E009F066",
     "band": "WAGE WAR - EMERGENCY BROADCAST TOUR",
     "venue": "Buffalo RiverWorks",
@@ -332,33 +305,6 @@
       "name": "Buffalo RiverWorks",
       "kind": "website",
       "url": "https://www.ticketmaster.com/buffalo-riverworks-tickets-buffalo/venue/1439"
-    }
-  },
-  {
-    "id": "electric-city-the-record-company-give-it-back-to-you-10th-anniversary-tour",
-    "band": "The Record Company – Give It Back To You 10th Anniversary Tour",
-    "venue": "Electric City",
-    "startsAt": "2026-11-17T19:00:00-05:00",
-    "price": "$27–$90",
-    "summary": "The Record Company is an American rock band known for their unique blend of blues, rock, and pop influences. Formed in Los Angeles, the trio has gained widespread acclaim for their energetic performances and raw, authentic sound. With a commitment to crafting honest music, they…",
-    "eventUrl": "https://electriccity.com/events/the-record-company-give-it-back-to-you-10th-anniversary-tour/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Blues"
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-17T19:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
     }
   },
   {
@@ -375,45 +321,6 @@
     }
   },
   {
-    "id": "buffalo-iron-works-lee-emi",
-    "band": "Lee Emi (Emilee Petersmark of The Crane Wives) w/ Cal in Red",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-17T20:00:00-05:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/lee-emi/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
-    "id": "rec-room-zillakami",
-    "band": "ZillaKami",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-17T20:00:00-05:00",
-    "summary": "16 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/zillakami/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    }
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ma4mh",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-17T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-ma4mh",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-11-17-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -425,19 +332,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-dhmpg",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-17T22:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k-dhmpg",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "duende-3606310",
@@ -990,6 +884,20 @@
       "url": "https://electriccity.com/"
     },
     "genre": "EDM"
+  },
+  {
+    "id": "rec-room-friday-night-2-floors-of-djs",
+    "band": "Friday Night (2 Floors of DJs)",
+    "venue": "Rec Room",
+    "startsAt": "2026-11-20T22:00:00-05:00",
+    "summary": "With DJ. 21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/friday-night-2-floors-of-djs/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "DJ"
   },
   {
     "id": "buffalo-iron-works-film-music-matinee-ten-year-town",
@@ -1898,7 +1806,7 @@
   },
   {
     "id": "nietzsches-thanksgiving-eve-frkwp-awpaw-5bzsk",
-    "band": "Stephen Babcock Black Friday Banger",
+    "band": "Stephen Babcock Black Friday Banger w Addisyn Logan & Fear of Sleep",
     "venue": "Nietzsche's",
     "startsAt": "2026-11-27T20:00:00-05:00",
     "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve-frkwp-awpaw-5bzsk",
@@ -2139,18 +2047,6 @@
     }
   },
   {
-    "id": "nietzsches-sleaze-ball-anniversary",
-    "band": "Sleaze Ball Anniversary",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-28T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/sleaze-ball-anniversary",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "the-cave-roger-bryan-the-orphans-record-release-show-w-failures-union-eugene-palmer-the-cave",
     "band": "Roger Bryan & The Orphans Record Release Show w/Failures Union, Eugene Palmer",
     "venue": "The Cave",
@@ -2202,6 +2098,18 @@
       "name": "Jack Rabbit",
       "kind": "website",
       "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
+    }
+  },
+  {
+    "id": "nietzsches-sleaze-ball-anniversary",
+    "band": "Sleaze Ball: 3-Ish-Year Anniversary Party",
+    "venue": "Nietzsche's",
+    "startsAt": "2026-11-28T21:00:00-05:00",
+    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/sleaze-ball-anniversary",
+    "source": {
+      "name": "Nietzsche's",
+      "kind": "website",
+      "url": "https://www.nietzschesbuffalo.com/events-music"
     }
   },
   {
@@ -3718,8 +3626,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-12-12-2nd-floor-doors-evergreen-echoes",
-    "band": "Evergreen Echoes",
+    "id": "mr-goodbar-2026-12-12-2nd-floor-doors-evergreen-echoes-night-owls",
+    "band": "Evergreen Echoes & Night Owls",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-12-12T20:00:00-05:00",
     "summary": "2nd floor. Doors",
@@ -4109,8 +4017,8 @@
     }
   },
   {
-    "id": "mr-goodbar-2026-12-18-1st-floor-the-spin-wires",
-    "band": "The Spin Wires",
+    "id": "mr-goodbar-2026-12-18-1st-floor-the-spin-wires-not-normal",
+    "band": "The Spin Wires & Not Normal",
     "venue": "Mr. Goodbar",
     "startsAt": "2026-12-18T21:00:00-05:00",
     "summary": "1st floor",
@@ -4237,19 +4145,6 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-12-19-2nd-floor-doors-salt",
-    "band": "Salt",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-12-19T20:00:00-05:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
   },
   {
@@ -4651,5 +4546,82 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "mr-goodbar-2026-12-31-2nd-floor-doors-crush-crush-crush",
+    "band": "Crush, Crush, Crush",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-31T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2026-12-31-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2026-12-31T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "town-ballroom-mersiv-2-night-packages",
+    "band": "MERSIV 2-NIGHT PACKAGES",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-31T20:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/mersiv-2-night-packages/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "town-ballroom-mersiv-new-years-eve",
+    "band": "Mersiv – New Years Eve",
+    "venue": "Town Ballroom",
+    "startsAt": "2026-12-31T20:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/mersiv-new-years-eve/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
+    }
+  },
+  {
+    "id": "buffalo-iron-works-se2-silent-disco-presents-nye-silent-disco",
+    "band": "SE2 Silent Disco Presents: NYE Silent Disco",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2026-12-31T21:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/se2-silent-disco-presents-nye-silent-disco/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    }
+  },
+  {
+    "id": "duende-3680379",
+    "band": "STAFF HOLIDAY",
+    "venue": "Duende",
+    "startsAt": "2027-01-01T10:00:00-05:00",
+    "summary": "Runs until Friday, January 15th, 2027",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3680379",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
   }
 ]
