@@ -308,142 +308,8 @@
     }
   },
   {
-    "id": "mohawk-place-2026-11-17-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-17T19:00:00-05:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1073766038352940/1073766065019604",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-11-17-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-17T22:00:00-05:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "duende-3606310",
-    "band": "Hall Pass Heroes",
-    "venue": "Duende",
-    "startsAt": "2026-11-18T18:00:00-05:00",
-    "summary": "Bin Floor",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3606310",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "nietzsches-river-glen",
-    "band": "River Glen",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-18T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/river-glen",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-18",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-18T19:00:00-05:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-18/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-18",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-18T19:00:00-05:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-18/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "sportsmens-tavern-my-life-tribute-to-billy-joel-billy-joel-w-elton-lammie-sportsmens",
-    "band": "My Life- Tribute to Billy Joel Billy Joel w/Elton Lammie",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-18T19:00:00-05:00",
-    "summary": "Sportsmens presents My Life- Tribute to Billy Joel Billy Joel Wednesday, November 18, 2026 7pm $20ad +online fee, $25 at the door. My Life- Tribute to Billy Joel Billy Joel produced 33 Top 40 hits in the US, all of which he wrote himself. He is also a six-time Grammy Award…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/my-life-tribute-to-billy-joel-billy-joel-w-elton-lammie-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "the-caz-jer-hoyle-frank-nicastro-wednesday-acoustic-session-18-nov",
-    "band": "Jer Hoyle & Frank Nicastro - Wednesday Acoustic Session",
-    "venue": "The Caz",
-    "startsAt": "2026-11-18T19:00:00-05:00",
-    "price": "$20",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/jer-hoyle-frank-nicastro-wednesday-acoustic-session-18-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8-78dra",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-18T19:30:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8-78dra",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "babeville-dar-williams",
-    "band": "Dar Williams w. special guest Davey O.",
-    "venue": "Babeville",
-    "startsAt": "2026-11-18T20:00:00-05:00",
-    "summary": "Asbury · DSP Shows presents Dar Williams live in Asbury Hall November 18 2026",
-    "eventUrl": "https://babevillebuffalo.com/events/dar-williams/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Folk"
-  },
-  {
-    "id": "mohawk-place-2026-11-18-ecce-shnak",
-    "band": "Ecce Shnak",
+    "id": "mohawk-place-2026-11-18-ecce-shnak-murder-lennox-wt",
+    "band": "Ecce Shnak, Murder!, Lennox WT",
     "venue": "Mohawk Place",
     "startsAt": "2026-11-18T20:00:00-05:00",
     "price": "$12 adv / $15 dos",
@@ -469,19 +335,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "nietzsches-jug-band",
-    "band": "Roux Burns Jug Band",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-18T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jug-band",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Bluegrass"
   },
   {
     "id": "duende-3577968",
@@ -741,8 +594,8 @@
     }
   },
   {
-    "id": "mohawk-place-2026-11-20-the-ant-hill-kids-harepin-turn",
-    "band": "The Ant Hill Kids, Harepin Turn",
+    "id": "mohawk-place-2026-11-20-the-ant-hill-kids-harepin-turn-girl-stuf",
+    "band": "The Ant Hill Kids, Harepin Turn, Girl Stuf",
     "venue": "Mohawk Place",
     "startsAt": "2026-11-20T20:00:00-05:00",
     "price": "$10",
@@ -2298,9 +2151,8 @@
     "id": "mohawk-place-2026-11-30-musicology-trivia",
     "band": "Musicology Trivia",
     "venue": "Mohawk Place",
-    "startsAt": "2026-11-30T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "startsAt": "2026-11-30T19:00:00-05:00",
+    "eventUrl": "https://www.facebook.com/reel/2586329701842624",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -2320,6 +2172,19 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Open Mic"
+  },
+  {
+    "id": "mohawk-place-2026-12-01-the-damone-jackson-outcome",
+    "band": "The Damone Jackson Outcome",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-01T19:00:00-05:00",
+    "price": "$10",
+    "eventUrl": "https://www.facebook.com/events/1759520911981802/1759521021981791",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
   },
   {
     "id": "the-caz-murder-in-the-cellar-with-a-holiday-twist-01-dec",
@@ -2346,19 +2211,6 @@
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-12-01-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-12-01T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
     }
   },
   {
@@ -2508,9 +2360,10 @@
     "id": "mohawk-place-2026-12-03-the-queers-johnny-revolting-the-barksdales-the-s",
     "band": "The Queers, Johnny Revolting, The Barksdales, The Sneers, Abandoned Trains, BastardBastardBastard",
     "venue": "Mohawk Place",
-    "startsAt": "2026-12-03T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "startsAt": "2026-12-03T19:00:00-05:00",
+    "price": "$20 adv (21+) / $25 adv (18–20)",
+    "summary": "Photo City presents · The Queers are a legendary American punk rock band known for fast, loud, no-frills songs packed with bratty attitude, bubblegum hooks, and Ramones-style energy. Formed in Portsmouth, New Hampshire, in the early 1980s and led by longtime frontman Joe Queer,…",
+    "eventUrl": "https://www.facebook.com/events/1558133475801835",
     "source": {
       "name": "Mohawk Place",
       "kind": "website",
@@ -2584,6 +2437,21 @@
     }
   },
   {
+    "id": "mohawk-place-2026-12-04-leanna-firestone-sydney-sprague",
+    "band": "Leanna Firestone, Sydney Sprague",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-04T19:00:00-05:00",
+    "price": "$20 adv / $25 dos",
+    "summary": "After Dark Presents · From Nashville. Leanna Firestone is a singer-songwriter known for emotionally raw lyrics, relatable storytelling, and a heartfelt indie-pop sound. She first gained recognition on TikTok in 2020, and her breakout hit “Strawberry Mentos” went viral in 2021,…",
+    "eventUrl": "https://www.facebook.com/events/1095746613252655",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Americana"
+  },
+  {
     "id": "rec-room-friendship-and-charlotte-cornfield",
     "band": "Friendship and Charlotte Cornfield",
     "venue": "Rec Room",
@@ -2633,19 +2501,6 @@
       "name": "Buffalo Iron Works",
       "kind": "website",
       "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-12-04-leanna-firestone-sydney-sprague",
-    "band": "Leanna Firestone, Sydney Sprague",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-12-04T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
     }
   },
   {
@@ -2716,6 +2571,19 @@
     }
   },
   {
+    "id": "mohawk-place-2026-12-05-jony-james-band",
+    "band": "Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-05T14:00:00-05:00",
+    "price": "Free",
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "duende-3641002",
     "band": "Holiday Singalong Extravaganza",
     "venue": "Duende",
@@ -2752,6 +2620,20 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "mohawk-place-2026-12-05-2nd-annual-holiday-toy-drive",
+    "band": "2nd Annual Holiday Toy Drive",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-05T19:00:00-05:00",
+    "price": "$20 / $10 w/ toy",
+    "summary": "Chernobyl Agency presents · Inertia, Wandering Oak, Cease to Exist, Bifurcate, SCVRECRVW, Forever in Transit, Adelpohphagy, Sally Schaefer. Bring a toy and get in for $10.",
+    "eventUrl": "https://www.facebook.com/events/1365543425395164",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
     }
   },
   {
@@ -2818,32 +2700,6 @@
       "url": "https://electriccity.com/"
     },
     "genre": "Electronic"
-  },
-  {
-    "id": "mohawk-place-2026-12-05-chernobyl-agency-presents-2nd-annual-holiday-toy",
-    "band": "Chernobyl Agency Presents: 2nd annual holiday toy drive — Inertia, Wandering Oak, Cease to Exist, Bifurcate, SCVRECRVW, Forever in Transit, Adelpohphagy, Sally Schaefer",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-12-05T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-12-05-early-show-jony-james-band",
-    "band": "Early Show: Jony James Band",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-12-05T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
   },
   {
     "id": "mr-goodbar-2026-12-05-2nd-floor-doors-blume",
@@ -3587,19 +3443,6 @@
     }
   },
   {
-    "id": "mohawk-place-2026-12-12-canceled-modele",
-    "band": "Canceled: Modele",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-12-12T20:00:00-05:00",
-    "timeTbd": true,
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
     "id": "mohawk-place-2026-12-12-early-show-jony-james-band",
     "band": "Early Show: Jony James Band",
     "venue": "Mohawk Place",
@@ -4005,7 +3848,7 @@
   },
   {
     "id": "mohawk-place-2026-12-18-xmas-party-the-glam-vamps-the-irving-klaws-prett",
-    "band": "Xmas Party: The Glam Vamps, The Irving Klaws, Pretty Good State University",
+    "band": "Xmas Party: The Glam Vamps, The Irving Klaws, Pretty Good State University, Brass Pro",
     "venue": "Mohawk Place",
     "startsAt": "2026-12-18T20:00:00-05:00",
     "timeTbd": true,
@@ -4014,7 +3857,8 @@
       "name": "Mohawk Place",
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
-    }
+    },
+    "genre": "Classical"
   },
   {
     "id": "mr-goodbar-2026-12-18-1st-floor-the-spin-wires-not-normal",
@@ -4349,6 +4193,19 @@
     "genre": "Karaoke"
   },
   {
+    "id": "mohawk-place-2026-12-24-gothic-christmas-with-cainite",
+    "band": "Gothic Christmas with CAINITE",
+    "venue": "Mohawk Place",
+    "startsAt": "2026-12-24T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
     "id": "mr-goodbar-2026-12-24-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
     "band": "Open Mic Comedy",
     "venue": "Mr. Goodbar",
@@ -4622,6 +4479,18 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "town-ballroom-mersiv-new-years-day",
+    "band": "Mersiv – New Years Day",
+    "venue": "Town Ballroom",
+    "startsAt": "2027-01-01T20:00:00-05:00",
+    "eventUrl": "https://townballroom.com/event/mersiv-new-years-day/town-ballroom/buffalo-new-york/",
+    "source": {
+      "name": "Town Ballroom",
+      "kind": "website",
+      "url": "https://townballroom.com/events/"
     }
   }
 ]
