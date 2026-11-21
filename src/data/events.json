@@ -323,58 +323,6 @@
     "genre": "Classical"
   },
   {
-    "id": "mr-goodbar-2026-11-19-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
-    "band": "Open Mic Comedy",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-19T20:00:00-05:00",
-    "summary": "Attic. DJ Mike West on the 1st floor.",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-hank-and-katie-live-for-dinner",
-    "band": "Hank and Katie LIVE for Dinner!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-20T16:30:00-05:00",
-    "summary": "🎷🪗 DINNER WITH HANK & KATIE! Start your weekend with dinner and live music at the Haus! Hank & Katie are bringing the perfect mix of accordion and saxophone to Hofbräuhaus Buffalo for an evening of great music, authentic German food and, of course, plenty of Hofbräu bier. 🍺…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/hank-and-katie-live-for-dinner/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    }
-  },
-  {
-    "id": "duende-3578053",
-    "band": "Joe Rozler's Rockin' Little Trio",
-    "venue": "Duende",
-    "startsAt": "2026-11-20T18:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3578053",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "kleinhans-foodforall",
-    "band": "Food For All: A 10-Year Celebration & Barnraiser",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-20T18:00:00-05:00",
-    "summary": "Join Groundwork Market Garden and Fare Share WNY for an unforgettable evening celebrating 10 years of urban farming, local food, and community in Buffalo! Enjoy delicious food from local chefs and restaurants, live music, drinks, raffles, a silent auction, and more as we…",
-    "eventUrl": "https://kleinhansbuffalo.org/event/foodforall/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://kleinhansbuffalo.org/events/"
-    }
-  },
-  {
     "id": "the-caz-silent-legacy-the-music-of-melissa-etheridge-20-nov",
     "band": "SILENT LEGACY - The Music Of Melissa Etheridge",
     "venue": "The Caz",
@@ -405,33 +353,6 @@
     "genre": "Classical"
   },
   {
-    "id": "babeville-buffalos-the-last-waltz-live-9",
-    "band": "Buffalo's The Last Waltz Live",
-    "venue": "Babeville",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "summary": "Asbury · Sportsmans Americana Music Foundation and Asbury Hall present Buffalo's Last Waltz Live November 20 at Asbury Hall",
-    "eventUrl": "https://babevillebuffalo.com/events/buffalos-the-last-waltz-live-9/",
-    "source": {
-      "name": "Babeville",
-      "kind": "website",
-      "url": "https://babevillebuffalo.com/events/"
-    },
-    "genre": "Americana"
-  },
-  {
-    "id": "buffalo-iron-works-big-something",
-    "band": "Big Something w/ Big Blitz",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/big-something/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-20-the-ant-hill-kids-harepin-turn-girl-stuf",
     "band": "The Ant Hill Kids, Harepin Turn, Girl Stuf",
     "venue": "Mohawk Place",
@@ -460,95 +381,6 @@
     }
   },
   {
-    "id": "nietzsches-cavalcade",
-    "band": "Cavalcade, Ordinary Feeling, & Paper Tigers",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/cavalcade",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "nietzsches-romeo-spikes",
-    "band": "Romeo Spikes + Friends",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/romeo-spikes",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-the-talking-dead-heads-night-one-sportsmens",
-    "band": "The Talking Dead Heads NIGHT ONE",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "summary": "Sportsmens presents The Talking Dead Heads NIGHT ONE Friday, November 20, 2026 8pm $20.00 + Online Fee Tickets purchased from this page are for the Friday, November 20, 2026 show only.",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-talking-dead-heads-night-one-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-the-talking-dead-heads-two-night-pass-sportsmens",
-    "band": "The Talking Dead Heads TWO NIGHT PASS",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "summary": "Sportsmens presents The Talking Dead Heads TOW NIGHT PASS Friday, November 20, 2026 8pm & Saturday, November 21, 2026 $30.00 + Online Fee Tickets purchased from this page are for the Friday, November 20th and Saturday, November 21st Shows.",
-    "eventUrl": "https://sportsmensbuffalo.com/single/the-talking-dead-heads-two-night-pass-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "town-ballroom-an-evening-with-goo-goo-dolls-all-proceeds-to-benefit-feedmore-wny-3",
-    "band": "An Evening With Goo Goo Dolls – All Proceeds to Benefit FeedMore WNY",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-20T20:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/an-evening-with-goo-goo-dolls-all-proceeds-to-benefit-feedmore-wny-3/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-make-me-smile-live-at-our-haus-tribute-to-chicago",
-    "band": "Make Me Smile LIVE at our Haus! Tribute to Chicago!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-20T21:00:00-05:00",
-    "summary": "🎺 Get ready for the unmistakable sound of Chicago! Make Me Smile brings the legendary horn-driven hits, soaring vocals and timeless energy of Chicago to Hofbräuhaus Buffalo. Sing along to favorites like “25 or 6 to 4,” “Saturday in the Park,” “Beginnings,” “Does Anybody Really…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/make-me-smile-live-at-our-haus-tribute-to-chicago/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Tribute"
-  },
-  {
-    "id": "jack-rabbit-pocketship-5",
-    "band": "Pocketship",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-20T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/pocketship-5",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Jam"
-  },
-  {
     "id": "mr-goodbar-2026-11-20-1st-floor-bear-the-bronze",
     "band": "Bear The Bronze",
     "venue": "Mr. Goodbar",
@@ -560,35 +392,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "electric-city-kawaii-rave",
-    "band": "Kawaii Rave",
-    "venue": "Electric City",
-    "startsAt": "2026-11-20T21:30:00-05:00",
-    "price": "$15–$40",
-    "summary": "Kawaii Rave is an anime-inspired dance party and immersive rave experience where fandom, music, and self-expression collide. Get ready for a night packed with electrifying EDM, K-Pop, Hyperpop, and iconic pop anthems that will keep you dancing from start to finish. Dress up as…",
-    "eventUrl": "https://electriccity.com/events/kawaii-rave/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "EDM"
-  },
-  {
-    "id": "rec-room-friday-night-2-floors-of-djs",
-    "band": "Friday Night (2 Floors of DJs)",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-20T22:00:00-05:00",
-    "summary": "With DJ. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/friday-night-2-floors-of-djs/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "DJ"
   },
   {
     "id": "buffalo-iron-works-film-music-matinee-ten-year-town",
@@ -3962,6 +3765,20 @@
     }
   },
   {
+    "id": "the-caz-bello-voice-kids-jr-company-teens-adults-18-dec",
+    "band": "Bello Voice: Kids, Jr. Company, Teens & Adults",
+    "venue": "The Caz",
+    "startsAt": "2026-12-18T18:00:00-05:00",
+    "price": "$15.70",
+    "summary": "Doors 5:00 pm. Show 6:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/bello-voice-kids-jr-company-teens-adults-18-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
+  },
+  {
     "id": "buffalo-iron-works-the-shakermakers-w-johnny-the-man-kids",
     "band": "The Shakermakers w/ Johnny & the Man Kids",
     "venue": "Buffalo Iron Works",
@@ -4039,6 +3856,20 @@
       "name": "Nietzsche's",
       "kind": "website",
       "url": "https://www.nietzschesbuffalo.com/events-music"
+    }
+  },
+  {
+    "id": "the-caz-bello-voice-a-choired-taste-adult-group-bella-s-group-and-teens-adults-19-dec",
+    "band": "Bello Voice A'Choired Taste Adult Group, Bella's Group and Teens & Adults",
+    "venue": "The Caz",
+    "startsAt": "2026-12-19T13:00:00-05:00",
+    "price": "$15.70",
+    "summary": "Doors 12:00 pm. Show 1:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/bello-voice-a-choired-taste-adult-group-bella-s-group-and-teens-adults-19-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
     }
   },
   {
