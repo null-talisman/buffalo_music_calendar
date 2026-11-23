@@ -338,126 +338,6 @@
     "genre": "Classical"
   },
   {
-    "id": "mohawk-place-2026-11-21-o-b-f-sound-system-iration-steppas-phisha-basha-",
-    "band": "O.B.F. Sound System, Iration Steppas, Phisha, Basha, DJ Universal",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-21T20:00:00-05:00",
-    "price": "$25 adv",
-    "summary": "Steppin’ Out Sound presents · O.B.F. (Original Bass Foundation) is a pioneering French dub and reggae sound system, formed in 2002 outside Geneva and known for a high-energy steppers style and an iconic orange speaker wall. Iration Steppas, formed in Leeds, UK, in 1990 and…",
-    "eventUrl": "https://mohawkplacebuffalo.com/events/",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "DJ"
-  },
-  {
-    "id": "mr-goodbar-2026-11-21-2nd-floor-doors-the-herd",
-    "band": "The Herd",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-21T20:00:00-05:00",
-    "summary": "2nd floor. Doors",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "rec-room-buffalo-bills-viewing-party-2026-11-22",
-    "band": "Buffalo Bills Viewing Party",
-    "venue": "Rec Room",
-    "startsAt": "2026-11-22T13:00:00-05:00",
-    "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2026-11-22/",
-    "source": {
-      "name": "Rec Room",
-      "kind": "website",
-      "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Watch Party"
-  },
-  {
-    "id": "bpo-vaughan-williams-double-bass-2026-11-22",
-    "band": "Vaughan Williams & Double Bass",
-    "venue": "Kleinhans Music Hall",
-    "startsAt": "2026-11-22T14:30:00-05:00",
-    "summary": "[vc_row][vc_column][vc_column_text css=””]Step into the sweep of a great city and the intimacy of a singular voice. Keith Lockhart leads Vaughan Williams’ Symphony No. 2, “A London Symphony,” a richly detailed portrait that moves from bustle to reflection to open sky. Double…",
-    "eventUrl": "https://bpo.org/event/vaughan-williams-double-bass/2026-11-22/",
-    "source": {
-      "name": "Kleinhans Music Hall",
-      "kind": "website",
-      "url": "https://bpo.org/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "nietzsches-grateful-dans-oct-2026-7y3pm",
-    "band": "The Grateful Dans",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-22T15:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/grateful-dans-oct-2026-7y3pm",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "duende-3610021",
-    "band": "Becky Davis",
-    "venue": "Duende",
-    "startsAt": "2026-11-22T16:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3610021",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "sportsmens-tavern-eilen-jewell-sportsmens",
-    "band": "Eilen Jewell",
-    "venue": "Sportsmen's Tavern",
-    "startsAt": "2026-11-22T17:00:00-05:00",
-    "summary": "Sportsmens presents Eilen Jewell Sunday, November 22, 2026 3pm Doors, 5pm Showtime $30.00 + Online fee Twenty years of touring. Twenty years on the road. “My own weariness amazes me,” as Bob Dylan sings to his Tambourine Man. I feel ya, Bob. But the depth of my gratitude amazes…",
-    "eventUrl": "https://sportsmensbuffalo.com/single/eilen-jewell-sportsmens/",
-    "source": {
-      "name": "Sportsmen's Tavern",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-ann-philippone-oct-2026-7z6jb-3d9wx-rclcc",
-    "band": "Piano Party w Ann Philippone",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-22T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/ann-philippone-oct-2026-7z6jb-3d9wx-rclcc",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Piano"
-  },
-  {
-    "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-64nsd",
-    "band": "Jazz Cache",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-22T20:30:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-64nsd",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jazz"
-  },
-  {
     "id": "nietzsches-danielle-a",
     "band": "Danielle A",
     "venue": "Nietzsche's",
@@ -1119,18 +999,17 @@
     "genre": "Hip-Hop"
   },
   {
-    "id": "rec-room-live-band-karaoke-90s-rock-and-pop-edition-8",
-    "band": "Live Band Karaoke 90s Rock and Pop Edition",
+    "id": "rec-room-22804",
+    "band": "Honey Bflo",
     "venue": "Rec Room",
     "startsAt": "2026-11-27T22:00:00-05:00",
     "summary": "21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/live-band-karaoke-90s-rock-and-pop-edition-8/",
+    "eventUrl": "https://recroombuffalo.com/tm-event/22804/",
     "source": {
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
-    },
-    "genre": "Karaoke"
+    }
   },
   {
     "id": "babeville-buffalo-womens-gifts-market-2",
@@ -1775,6 +1654,19 @@
       "name": "Duende",
       "kind": "website",
       "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
+    "id": "the-caz-st-francis-high-school-alumni-event-an-evening-of-music-at-the-caz-03-dec",
+    "band": "St Francis High School Alumni Event - An Evening of Music at The CAZ",
+    "venue": "The Caz",
+    "startsAt": "2026-12-03T18:00:00-05:00",
+    "summary": "Doors 5:30 pm. Show 6:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/st-francis-high-school-alumni-event-an-evening-of-music-at-the-caz-03-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
     }
   },
   {
@@ -4531,17 +4423,30 @@
     }
   },
   {
-    "id": "rec-room-buffalo-bills-viewing-party-2027-01-03",
+    "id": "rec-room-buffalo-bills-viewing-party-2027-01-03-2",
     "band": "Buffalo Bills Viewing Party",
     "venue": "Rec Room",
     "startsAt": "2027-01-03T13:00:00-05:00",
     "summary": "With Buffalo Bills. 21 and up",
-    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2027-01-03/",
+    "eventUrl": "https://recroombuffalo.com/tm-event/buffalo-bills-viewing-party-2027-01-03-2/",
     "source": {
       "name": "Rec Room",
       "kind": "website",
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Watch Party"
+  },
+  {
+    "id": "mr-goodbar-2027-01-05-1st-floor-rotating-djs",
+    "band": "Rotating DJs",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-05T22:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   }
 ]
