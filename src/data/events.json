@@ -338,18 +338,6 @@
     "genre": "Classical"
   },
   {
-    "id": "nietzsches-danielle-a",
-    "band": "Danielle A",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-23T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/danielle-a",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-23-vampiric-crypt-serpent-lord-vanth-bitchin-hour",
     "band": "Vampiric Crypt, Serpent Lord, Vanth, Bitchin’ Hour",
     "venue": "Mohawk Place",
@@ -362,19 +350,6 @@
       "kind": "website",
       "url": "https://mohawkplacebuffalo.com/events/"
     }
-  },
-  {
-    "id": "nietzsches-songwriter-showcase-open-mic-buffalo-october-8rb7w-ndsm2",
-    "band": "Open Mic + Songwriter Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-23T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/songwriter-showcase-open-mic-buffalo-october-8rb7w-ndsm2",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Open Mic"
   },
   {
     "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-899xa",
@@ -626,21 +601,6 @@
     "genre": "Jam"
   },
   {
-    "id": "the-caz-xoxo-pop-band-thanksgiving-eve-elevated-25-nov",
-    "band": "XOXO Pop Band - Thanksgiving Eve Elevated",
-    "venue": "The Caz",
-    "startsAt": "2026-11-25T20:00:00-05:00",
-    "price": "$20–$25",
-    "summary": "Doors 6:30 pm. Show 8:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/xoxo-pop-band-thanksgiving-eve-elevated-25-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    },
-    "genre": "Pop"
-  },
-  {
     "id": "electric-city-holiday-house-party-3",
     "band": "Holiday House Party 3",
     "venue": "Electric City",
@@ -758,18 +718,6 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Jam"
-  },
-  {
-    "id": "duende-3707873",
-    "band": "Chiefs V Bills",
-    "venue": "Duende",
-    "startsAt": "2026-11-26T20:20:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3707873",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
   },
   {
     "id": "jack-rabbit-kitty-karaoke-752c2-xr86j-p74mz-ltw63-chtrr-44lrm",
@@ -1371,25 +1319,11 @@
     "genre": "Tribute"
   },
   {
-    "id": "the-caz-the-tradesmen-w-the-coughlin-trio-31-jul",
-    "band": "THE TRADESMEN w/ The Coughlin Trio",
-    "venue": "The Caz",
-    "startsAt": "2026-11-29T19:00:00-05:00",
-    "price": "$15",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/the-tradesmen-w-the-coughlin-trio-31-jul",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "town-ballroom-postponed-jkyl-hyde",
-    "band": "postponed: JKYL & HYDE",
+    "id": "town-ballroom-jkyl-hyde",
+    "band": "JKYL & HYDE",
     "venue": "Town Ballroom",
     "startsAt": "2026-11-29T19:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/postponed-jkyl-hyde/town-ballroom/buffalo-new-york/",
+    "eventUrl": "https://townballroom.com/event/jkyl-hyde/town-ballroom/buffalo-new-york/",
     "source": {
       "name": "Town Ballroom",
       "kind": "website",
@@ -3888,6 +3822,19 @@
     "genre": "Burlesque"
   },
   {
+    "id": "duende-3721701",
+    "band": "Helen & Marcia",
+    "venue": "Duende",
+    "startsAt": "2026-12-23T18:00:00-05:00",
+    "summary": "Join Helen & Marcia as we ring in the holiday season with festive flute & violin duets!",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3721701",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    }
+  },
+  {
     "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-12-23",
     "band": "Open Mic + Wing Night",
     "venue": "Hofbräuhaus Buffalo",
@@ -4448,5 +4395,19 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
+  },
+  {
+    "id": "mr-goodbar-2027-01-06-attic-and-1st-floor-karaoke-and-rotating-live-mu",
+    "band": "Karaoke and rotating Live Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-06T21:00:00-05:00",
+    "summary": "Attic and 1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Karaoke"
   }
 ]
