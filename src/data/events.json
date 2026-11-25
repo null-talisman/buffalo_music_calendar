@@ -338,71 +338,6 @@
     "genre": "Classical"
   },
   {
-    "id": "mohawk-place-2026-11-23-vampiric-crypt-serpent-lord-vanth-bitchin-hour",
-    "band": "Vampiric Crypt, Serpent Lord, Vanth, Bitchin’ Hour",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-23T19:00:00-05:00",
-    "price": "$15",
-    "summary": "Vampiric Crypt are concluding their “Bounded by None” tour in their hometown.",
-    "eventUrl": "https://www.facebook.com/events/1521931239953535",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "nietzsches-steam-donkeys-nietzsches-buffalo-october-9lc3j-899xa",
-    "band": "The Steam Donkeys",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-24T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/steam-donkeys-nietzsches-buffalo-october-9lc3j-899xa",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Country"
-  },
-  {
-    "id": "jack-rabbit-thanksgiving-drag-bingo-w-thorgy-thor",
-    "band": "THANKSGIVING DRAG BINGO WITH MARY JANE PRICE",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-24T18:30:00-05:00",
-    "summary": "THANKSGIVING DRAG BINGO IS BACK, THIS TIME WITH MARY JANE PRICE! We had SO much fun last year, we had to bring it back! Get ready for a night of bingo, big laughs, fabulous drag, and thanksgiving fun at Jack Rabbit . Also chance to win a bird for the big dinner?! Hosted by Mary…",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/thanksgiving-drag-bingo-w-thorgy-thor",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "town-ballroom-rival-sons-domestic-bliss-tour",
-    "band": "Rival Sons – Domestic Bliss Tour",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-24T18:30:00-05:00",
-    "eventUrl": "https://townballroom.com/event/rival-sons-domestic-bliss-tour/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    }
-  },
-  {
-    "id": "jack-rabbit-8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49-5cfp9",
-    "band": "Grace Lougen and Friends",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-24T19:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/8pwp6b9n4arybhf-t6g5c-m2t6a-k6r8g-zard9-9dajm-httnb-4eh4e-yxb49-5cfp9",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
-  },
-  {
     "id": "mohawk-place-2026-11-24-the-damone-jackson-outcome",
     "band": "The Damone Jackson Outcome",
     "venue": "Mohawk Place",
@@ -416,33 +351,6 @@
     }
   },
   {
-    "id": "the-caz-kelli-baker-band-24-nov",
-    "band": "Kelli Baker Band",
-    "venue": "The Caz",
-    "startsAt": "2026-11-24T19:00:00-05:00",
-    "price": "$20–$25",
-    "summary": "Doors 5:30 pm. Show 7:00 pm.",
-    "eventUrl": "https://www.thecazbuffalo.com/shows/kelli-baker-band-24-nov",
-    "source": {
-      "name": "The Caz",
-      "kind": "website",
-      "url": "https://www.thecazbuffalo.com/shows"
-    }
-  },
-  {
-    "id": "nietzsches-rust-belt-comedy-nietzsches-buffalo-october-3s2pe-bs3pd",
-    "band": "Rust Belt Comedy Showcase",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-24T21:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/rust-belt-comedy-nietzsches-buffalo-october-3s2pe-bs3pd",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Comedy"
-  },
-  {
     "id": "mr-goodbar-2026-11-24-1st-floor-rotating-djs",
     "band": "Rotating DJs",
     "venue": "Mr. Goodbar",
@@ -454,19 +362,6 @@
       "kind": "website",
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     }
-  },
-  {
-    "id": "nietzsches-the-stripteasers-buffalo-october-klr6k-x32e2",
-    "band": "The Stripteasers Bar-Top Burlesque",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-24T22:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/the-stripteasers-buffalo-october-klr6k-x32e2",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Burlesque"
   },
   {
     "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
@@ -1818,6 +1713,19 @@
     }
   },
   {
+    "id": "duende-3722337",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-12-05T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3722337",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "hofbrauhaus-buffalo-christkindlmarkt-continues-with-45-rpm",
     "band": "Christkindlmarkt Continues with 45 RPM!",
     "venue": "Hofbräuhaus Buffalo",
@@ -2695,6 +2603,19 @@
     "genre": "Karaoke"
   },
   {
+    "id": "duende-3722343",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-12-12T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3722343",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "hofbrauhaus-buffalo-the-girls-of-grosh-live-1-4pm-early-show",
     "band": "The Girls of Grosh LIVE 1-4PM! Early Show!",
     "venue": "Hofbräuhaus Buffalo",
@@ -3428,6 +3349,19 @@
     }
   },
   {
+    "id": "duende-3722346",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-12-19T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3722346",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "the-caz-bello-voice-a-choired-taste-adult-group-bella-s-group-and-teens-adults-19-dec",
     "band": "Bello Voice A'Choired Taste Adult Group, Bella's Group and Teens & Adults",
     "venue": "The Caz",
@@ -3904,6 +3838,19 @@
     "genre": "Open Mic"
   },
   {
+    "id": "duende-3722347",
+    "band": "Mimosas & Minuets",
+    "venue": "Duende",
+    "startsAt": "2026-12-26T13:00:00-05:00",
+    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3722347",
+    "source": {
+      "name": "Duende",
+      "kind": "website",
+      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
+    },
+    "genre": "Classical"
+  },
+  {
     "id": "nietzsches-celtic-sessions-october-yhw2w-ygf54-7w5sx",
     "band": "Celtic Sessions",
     "venue": "Nietzsche's",
@@ -4044,6 +3991,20 @@
       "url": "https://www.nietzschesbuffalo.com/events-music"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "the-caz-cami-clune-with-easae-27-dec",
+    "band": "CAMI CLUNE with EASAE",
+    "venue": "The Caz",
+    "startsAt": "2026-12-27T19:00:00-05:00",
+    "price": "$20",
+    "summary": "Doors 5:30 pm. Show 7:00 pm.",
+    "eventUrl": "https://www.thecazbuffalo.com/shows/cami-clune-with-easae-27-dec",
+    "source": {
+      "name": "The Caz",
+      "kind": "website",
+      "url": "https://www.thecazbuffalo.com/shows"
+    }
   },
   {
     "id": "nietzsches-jazz-cache-oct-2026-wgpex-b57yj-jnzpe-bj7y9-hyjee-txndr",
@@ -4409,5 +4370,33 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
+  },
+  {
+    "id": "mr-goodbar-2027-01-07-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
+    "band": "Open Mic Comedy",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-07T20:00:00-05:00",
+    "summary": "Attic. DJ Mike West on the 1st floor.",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    },
+    "genre": "Open Mic"
+  },
+  {
+    "id": "rec-room-dueling-pianos-5",
+    "band": "Dueling Pianos",
+    "venue": "Rec Room",
+    "startsAt": "2027-01-08T18:30:00-05:00",
+    "summary": "21 and up",
+    "eventUrl": "https://recroombuffalo.com/tm-event/dueling-pianos-5/",
+    "source": {
+      "name": "Rec Room",
+      "kind": "website",
+      "url": "https://recroombuffalo.com/concerts/"
+    },
+    "genre": "Piano"
   }
 ]
