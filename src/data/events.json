@@ -338,193 +338,6 @@
     "genre": "Classical"
   },
   {
-    "id": "mohawk-place-2026-11-24-the-damone-jackson-outcome",
-    "band": "The Damone Jackson Outcome",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-24T19:00:00-05:00",
-    "price": "$10",
-    "eventUrl": "https://www.facebook.com/events/1759520911981802/1759521015315125",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-11-24-1st-floor-rotating-djs",
-    "band": "Rotating DJs",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-24T22:00:00-05:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "mohawk-place-2026-11-25-punksgiving-rat-hazard-cowboy-vampires-broken-lo",
-    "band": "Punksgiving: Rat Hazard, Cowboy Vampires, Broken Locker, Thunder Station Dirtbag Coalition, Infrared Radiation Orchestra, Who?",
-    "venue": "Mohawk Place",
-    "startsAt": "2026-11-25T18:00:00-05:00",
-    "price": "$10 adv / $15 at door",
-    "eventUrl": "https://www.facebook.com/events/1491299846271970",
-    "source": {
-      "name": "Mohawk Place",
-      "kind": "website",
-      "url": "https://mohawkplacebuffalo.com/events/"
-    },
-    "genre": "Classical"
-  },
-  {
-    "id": "nietzsches-beave-and-friends",
-    "band": "Beave & Friends",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-25T18:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/beave-and-friends",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    }
-  },
-  {
-    "id": "hofbrauhaus-buffalo-open-mic-wing-night-2026-11-25",
-    "band": "Open Mic + Wing Night",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-25T19:00:00-05:00",
-    "summary": "Great at singing?! Let’s see it! LOVE wings?! Let’s do it! Open Mic Night + Wing Night!",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/open-mic-wing-night/2026-11-25/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-wing-night-open-mic-night-with-mike-hund-2026-11-25",
-    "band": "Wing Night + Open Mic Night with Mike Hund",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-25T19:00:00-05:00",
-    "summary": "More info to come after 8/15, and will be available Facebook.",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/wing-night-open-mic-night-with-mike-hund/2026-11-25/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Open Mic"
-  },
-  {
-    "id": "jack-rabbit-ddmryy723k43d97y39ldpspzlyz4z6",
-    "band": "Olmsted Dub System",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-25T19:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/ddmryy723k43d97y39ldpspzlyz4z6",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Reggae"
-  },
-  {
-    "id": "the-cave-big-martha-thanksgiving-eve-sportsmens",
-    "band": "Big Martha Thanksgiving Eve",
-    "venue": "The Cave",
-    "startsAt": "2026-11-25T19:00:00-05:00",
-    "summary": "The Cave presents Big Martha Thanksgiving Eve Wednesday, November 25, 2026 $20.00 + online fee 6pm Doors, 7pm Showtime",
-    "eventUrl": "https://sportsmensbuffalo.com/single/big-martha-thanksgiving-eve-sportsmens/",
-    "source": {
-      "name": "The Cave",
-      "kind": "website",
-      "url": "https://sportsmensbuffalo.com/stages/the-cave/"
-    }
-  },
-  {
-    "id": "town-ballroom-the-strictly-hip-7",
-    "band": "The Strictly Hip",
-    "venue": "Town Ballroom",
-    "startsAt": "2026-11-25T19:00:00-05:00",
-    "eventUrl": "https://townballroom.com/event/the-strictly-hip-7/town-ballroom/buffalo-new-york/",
-    "source": {
-      "name": "Town Ballroom",
-      "kind": "website",
-      "url": "https://townballroom.com/events/"
-    },
-    "genre": "Rock"
-  },
-  {
-    "id": "jack-rabbit-5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8-78dra-s34wf",
-    "band": "Wednesday Night Trivia in the Piano Room",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-25T19:30:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/5fswusemxrs1vudy31vsnqdy6zs5bx-p8mwt-f8eb2-47md8-78dra-s34wf",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Trivia"
-  },
-  {
-    "id": "buffalo-iron-works-silver-maple-w-blume",
-    "band": "Silver Maple w/ Blume",
-    "venue": "Buffalo Iron Works",
-    "startsAt": "2026-11-25T20:00:00-05:00",
-    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
-    "eventUrl": "https://buffaloironworks.com/event/silver-maple-w-blume/",
-    "source": {
-      "name": "Buffalo Iron Works",
-      "kind": "website",
-      "url": "https://buffaloironworks.com/events-calendar/"
-    }
-  },
-  {
-    "id": "nietzsches-thanksgiving-eve",
-    "band": "Pocketship + Zak Ward & the Million Dollar Question Thanksgiving Eve Throwdown",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-25T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "electric-city-holiday-house-party-3",
-    "band": "Holiday House Party 3",
-    "venue": "Electric City",
-    "startsAt": "2026-11-25T21:00:00-05:00",
-    "price": "$17–$52",
-    "summary": "Holiday House Party 3 is an electrifying collective that brings together some of the most dynamic artists in the contemporary music scene. Known for their genre-blending sound, they effortlessly merge elements of pop, R&B, and electronic music, creating an experience that…",
-    "eventUrl": "https://electriccity.com/events/holiday-house-party-3/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Electronic"
-  },
-  {
-    "id": "hofbrauhaus-buffalo-%f0%9f%8e%b6-funk-before-the-feast-%f0%9f%a6%83-live-with-the-funkensteins",
-    "band": "🎶 FUNK BEFORE THE FEAST! 🦃 – LIVE with the Funkensteins!!!",
-    "venue": "Hofbräuhaus Buffalo",
-    "startsAt": "2026-11-25T21:00:00-05:00",
-    "summary": "🎶 FUNK BEFORE THE FEAST! 🦃 Before you pass the potatoes, pass us your best dance moves! The Funkensteins are taking over the Haus for the biggest party night of the year. Come dance off the calories before you eat them, because Thanksgiving dinner tastes even better after a…",
-    "eventUrl": "https://www.hofbrauhausbuffalo.com/event/%f0%9f%8e%b6-funk-before-the-feast-%f0%9f%a6%83-live-with-the-funkensteins/",
-    "source": {
-      "name": "Hofbräuhaus Buffalo",
-      "kind": "website",
-      "url": "https://www.hofbrauhausbuffalo.com/events/"
-    },
-    "genre": "Funk"
-  },
-  {
     "id": "mr-goodbar-2026-11-25-1st-floor-off-the-wall",
     "band": "Off The Wall",
     "venue": "Mr. Goodbar",
@@ -550,30 +363,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Karaoke"
-  },
-  {
-    "id": "duende-3693117",
-    "band": "No Service",
-    "venue": "Duende",
-    "startsAt": "2026-11-25T22:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3693117",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
-    "id": "jack-rabbit-slow-animals-4",
-    "band": "Slow Animals",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-25T22:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/slow-animals-4",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    }
   },
   {
     "id": "duende-3657116",
@@ -4398,5 +4187,72 @@
       "url": "https://recroombuffalo.com/concerts/"
     },
     "genre": "Piano"
+  },
+  {
+    "id": "babeville-the-strictly-hip-january-residency-2027-night-1",
+    "band": "The Strictly Hip: January Residency Night 1",
+    "venue": "Babeville",
+    "startsAt": "2027-01-08T20:00:00-05:00",
+    "summary": "The 9th Ward · The Strictly Hip January Residency 2027 Night One live in The 9th Ward",
+    "eventUrl": "https://babevillebuffalo.com/events/the-strictly-hip-january-residency-2027-night-1/",
+    "source": {
+      "name": "Babeville",
+      "kind": "website",
+      "url": "https://babevillebuffalo.com/events/"
+    },
+    "genre": "Rock"
+  },
+  {
+    "id": "buffalo-iron-works-crystal-ship-tribute-to-the-doors",
+    "band": "Crystal Ship – Tribute to The Doors",
+    "venue": "Buffalo Iron Works",
+    "startsAt": "2027-01-08T20:00:00-05:00",
+    "summary": "[vc_row type=”in_container” full_screen_row_position=”middle” column_margin=”default” column_direction=”default” column_direction_tablet=”default” column_direction_phone=”default” scene_position=”center” text_color=”dark” text_align=”left” row_border_radius=”none”…",
+    "eventUrl": "https://buffaloironworks.com/event/crystal-ship-tribute-to-the-doors/",
+    "source": {
+      "name": "Buffalo Iron Works",
+      "kind": "website",
+      "url": "https://buffaloironworks.com/events-calendar/"
+    },
+    "genre": "Tribute"
+  },
+  {
+    "id": "mohawk-place-2027-01-08-forever-warped-green-day-vs-fall-out-boy",
+    "band": "Forever Warped: Green Day vs. Fall Out Boy",
+    "venue": "Mohawk Place",
+    "startsAt": "2027-01-08T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2027-01-08-2nd-floor-doors-jagged-little-bills",
+    "band": "Jagged Little Bills",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-08T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2027-01-08-1st-floor-tiny-music",
+    "band": "Tiny Music",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-08T21:00:00-05:00",
+    "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
   }
 ]
