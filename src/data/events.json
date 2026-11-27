@@ -338,45 +338,6 @@
     "genre": "Classical"
   },
   {
-    "id": "mr-goodbar-2026-11-25-1st-floor-off-the-wall",
-    "band": "Off The Wall",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-25T21:00:00-05:00",
-    "summary": "1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    }
-  },
-  {
-    "id": "mr-goodbar-2026-11-25-attic-and-1st-floor-karaoke-and-rotating-live-mu",
-    "band": "Karaoke and rotating Live Music",
-    "venue": "Mr. Goodbar",
-    "startsAt": "2026-11-25T21:00:00-05:00",
-    "summary": "Attic and 1st floor",
-    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
-    "source": {
-      "name": "Mr. Goodbar",
-      "kind": "website",
-      "url": "https://mrgoodbarbuffalo.com/calendar/"
-    },
-    "genre": "Karaoke"
-  },
-  {
-    "id": "duende-3657116",
-    "band": "CLOSED",
-    "venue": "Duende",
-    "startsAt": "2026-11-26T10:00:00-05:00",
-    "eventUrl": "https://duendesilo.city/buffalo-duende-at-silo-city-events#3657116",
-    "source": {
-      "name": "Duende",
-      "kind": "website",
-      "url": "https://duendesilo.city/buffalo-duende-at-silo-city-events"
-    }
-  },
-  {
     "id": "mr-goodbar-2026-11-26-attic-dj-mike-west-on-the-1st-floor-open-mic-com",
     "band": "Open Mic Comedy",
     "venue": "Mr. Goodbar",
@@ -389,32 +350,6 @@
       "url": "https://mrgoodbarbuffalo.com/calendar/"
     },
     "genre": "Open Mic"
-  },
-  {
-    "id": "nietzsches-thanksgiving-eve-frkwp",
-    "band": "LATE OPEN & Thanksgiving Day Jam + Potluck",
-    "venue": "Nietzsche's",
-    "startsAt": "2026-11-26T20:00:00-05:00",
-    "eventUrl": "https://www.nietzschesbuffalo.com/events-music/thanksgiving-eve-frkwp",
-    "source": {
-      "name": "Nietzsche's",
-      "kind": "website",
-      "url": "https://www.nietzschesbuffalo.com/events-music"
-    },
-    "genre": "Jam"
-  },
-  {
-    "id": "jack-rabbit-kitty-karaoke-752c2-xr86j-p74mz-ltw63-chtrr-44lrm",
-    "band": "Kitty Karaoke",
-    "venue": "Jack Rabbit",
-    "startsAt": "2026-11-26T21:00:00-05:00",
-    "eventUrl": "https://www.jackrabbitbuffalo.com/live-music-and-events/kitty-karaoke-752c2-xr86j-p74mz-ltw63-chtrr-44lrm",
-    "source": {
-      "name": "Jack Rabbit",
-      "kind": "website",
-      "url": "https://www.jackrabbitbuffalo.com/live-music-and-events"
-    },
-    "genre": "Karaoke"
   },
   {
     "id": "hofbrauhaus-buffalo-live-german-music-with-our-haus-residency-2026-11-27",
@@ -2296,21 +2231,6 @@
       "url": "https://babevillebuffalo.com/events/"
     },
     "genre": "Classical"
-  },
-  {
-    "id": "electric-city-back-in-black-an-ac-dc-tribute",
-    "band": "Back In Black: An AC/DC Tribute",
-    "venue": "Electric City",
-    "startsAt": "2026-12-11T20:00:00-05:00",
-    "price": "$32–$42",
-    "summary": "Back In Black is a high-energy tribute band dedicated to celebrating the iconic sound and legacy of AC/DC. Known for their electrifying performances, the band faithfully recreates the classic rock anthems that have made AC/DC a household name. With a lineup of seasoned…",
-    "eventUrl": "https://electriccity.com/events/back-in-black-an-ac-dc-tribute/",
-    "source": {
-      "name": "Electric City",
-      "kind": "website",
-      "url": "https://electriccity.com/"
-    },
-    "genre": "Rock"
   },
   {
     "id": "mohawk-place-2026-12-11-hubris-cemetery-echo-vampiric-crypt",
@@ -4248,6 +4168,46 @@
     "venue": "Mr. Goodbar",
     "startsAt": "2027-01-08T21:00:00-05:00",
     "summary": "1st floor",
+    "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
+    "source": {
+      "name": "Mr. Goodbar",
+      "kind": "website",
+      "url": "https://mrgoodbarbuffalo.com/calendar/"
+    }
+  },
+  {
+    "id": "mohawk-place-2027-01-09-david-bowie-tribute",
+    "band": "David Bowie Tribute",
+    "venue": "Mohawk Place",
+    "startsAt": "2027-01-09T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    },
+    "genre": "Tribute"
+  },
+  {
+    "id": "mohawk-place-2027-01-09-early-show-jony-james-band",
+    "band": "Early Show: Jony James Band",
+    "venue": "Mohawk Place",
+    "startsAt": "2027-01-09T20:00:00-05:00",
+    "timeTbd": true,
+    "eventUrl": "https://mohawkplacebuffalo.com/events/",
+    "source": {
+      "name": "Mohawk Place",
+      "kind": "website",
+      "url": "https://mohawkplacebuffalo.com/events/"
+    }
+  },
+  {
+    "id": "mr-goodbar-2027-01-09-2nd-floor-doors-wasn-t-a-phase",
+    "band": "Wasn't A Phase",
+    "venue": "Mr. Goodbar",
+    "startsAt": "2027-01-09T20:00:00-05:00",
+    "summary": "2nd floor. Doors",
     "eventUrl": "https://mrgoodbarbuffalo.com/calendar/",
     "source": {
       "name": "Mr. Goodbar",
